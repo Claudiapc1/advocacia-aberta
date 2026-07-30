@@ -79,6 +79,13 @@ def agora_utc() -> str:
 
 
 def hoje() -> str:
+    """Dia corrente em UTC.
+
+    Não usar em `gerado_em`: uma data pura não diz a hora, então quem exibe não
+    consegue converter para o fuso do leitor — um snapshot gerado às 23h de 29/07
+    em Brasília fica gravado como 30/07 e aparece assim para sempre. Os metadados
+    publicados usam `agora_utc()`, que preserva o instante.
+    """
     return datetime.now(timezone.utc).date().isoformat()
 
 
@@ -880,7 +887,7 @@ def transformar_legislacao(
                 "url_base": fonte["url"],
                 "total_artigos": len(artigos),
                 "version": "2.0",
-                "gerado_em": hoje(),
+                "gerado_em": agora_utc(),
                 "transformacao": "planalto_html_v1",
                 "registros_retidos_sem_correspondencia": retidos,
             }
@@ -982,7 +989,7 @@ def transformar_sumulas_stj(
             "total": len(sumulas),
             "ativas": status["ativa"],
             "canceladas": status["cancelada"],
-            "gerado_em": hoje(),
+            "gerado_em": agora_utc(),
             "descricao": "Súmulas STJ extraídas do catálogo oficial",
             "transformacao": "sumulas_stj_html_v1",
         },
@@ -1199,7 +1206,7 @@ def transformar_sumulas_stf(
         "tipo": "Súmulas Vinculantes" if vinculante else "sumulas",
         "tribunal": "STF",
         "total": len(sumulas),
-        "gerado_em": hoje(),
+        "gerado_em": agora_utc(),
         "descricao": "Súmulas extraídas do catálogo oficial do STF",
         "transformacao": "sumulas_stf_html_v1",
     }
@@ -1315,7 +1322,7 @@ def transformar_jt(
             "total_edicoes": len({int(item["edicao"]) for item in teses.values()}),
             "total_teses": len(teses),
             "ramos_direito": dict(sorted(ramos.items())),
-            "gerado_em": hoje(),
+            "gerado_em": agora_utc(),
             "descricao": "Jurisprudência em Teses extraída das páginas oficiais do STJ",
             "transformacao": "jt_stj_html_v1",
             "edicoes_retidas_sem_correspondencia": sorted(edicoes_retidas),
