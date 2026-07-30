@@ -23,7 +23,7 @@
       "Não classificado": 138,
       "Orientações Jurisprudenciais": 71
     },
-    "gerado_em": "2026-07-19",
+    "gerado_em": "2026-07-30",
     "descricao": "Jurisprudência em Teses extraída das páginas oficiais do STJ",
     "transformacao": "jt_stj_html_v1",
     "edicoes_retidas_sem_correspondencia": [
@@ -6735,11 +6735,11 @@
       "edicao_titulo": "LEI DE DROGAS",
       "tese_numero": 13,
       "ramo_direito": "Direito Penal",
-      "enunciado": "Para o deferimento do livramento condicional no crime de associação para o tráfico de drogas, deve ser aplicado o princípio da especialidade, que exige o cumprimento de 2/3 da pena e veda a concessão do benefício ao reincidente específico.",
+      "enunciado": "Por força da incidência do princípio da especialidade, aplica-se a fração de cumprimento de pena prevista no paragrafo único do art. 44 da Lei n. 11.343/2006 ao delito de associação para o tráfico de drogas, previsto no art. 35 dessa lei federal, para fins de deferimento do livramento condicional (Tese julgada sob o rito do art. 1.036 do CPC - Tema n. 1355).",
       "rito_especial": false,
       "data_publicacao": "2015-11-11",
-      "url": "https://scon.stj.jus.br/SCON/GetPDFSelecaoJT?selecao_edicao=45#:~:text=Para%20o%20deferimento%20do%20livramento%20condicional%20no%20crime%20de%20associa%C3%A7%C3%A3o%20para%20o%20tr%C3%A1fico%20de%20drogas%2C%20deve%20ser%20aplicado%20o%20princ%C3%ADpio%20da%20especialidade%2C",
-      "qtd_julgados": 6
+      "url": "https://scon.stj.jus.br/SCON/GetPDFSelecaoJT?selecao_edicao=45#:~:text=Por%20for%C3%A7a%20da%20incid%C3%AAncia%20do%20princ%C3%ADpio%20da%20especialidade%2C%20aplica-se%20a%20fra%C3%A7%C3%A3o%20de%20cumprimento%20de%20pena%20prevista%20no%20paragrafo%20%C3%BAnico%20do%20art.%2044",
+      "qtd_julgados": 7
     },
     "JT_045_T14": {
       "id": "JT_045_T14",
@@ -15279,11 +15279,11 @@
       "edicao_titulo": "CRIMES CONTRA O PATRIMÔNIO - IV",
       "tese_numero": 9,
       "ramo_direito": "Direito Penal",
-      "enunciado": "É possível o reconhecimento da continuidade delitiva de crimes de apropriação indébita previdenciária (art. 168-A do CP), bem como entre o crime de apropriação indébita previdenciária e o crime de sonegação previdenciária (art. 337-A do CP) praticados na administração de empresas distintas, mas pertencentes ao mesmo grupo econômico.",
+      "enunciado": "É inviável reconhecer a continuidade delitiva entre os delitos de apropriação indébita previdenciária (art. 168-A do Código Penal) e de sonegação de contribuição previdenciária (art. 337-A do Código Penal), por se tratarem de espécies diversas que descrevem condutas típicas distintas, embora sejam do mesmo gênero (Tese julgada sob o rito do art. 1.036 do CPC - Tema n. 1353).",
       "rito_especial": false,
       "data_publicacao": "2017-08-23",
-      "url": "https://scon.stj.jus.br/SCON/GetPDFSelecaoJT?selecao_edicao=87#:~:text=%C3%89%20poss%C3%ADvel%20o%20reconhecimento%20da%20continuidade%20delitiva%20de%20crimes%20de%20apropria%C3%A7%C3%A3o%20ind%C3%A9bita%20previdenci%C3%A1ria%20%28art.%20168-A%20do%20CP%29%2C%20bem%20como%20entre%20o%20crime",
-      "qtd_julgados": 3
+      "url": "https://scon.stj.jus.br/SCON/GetPDFSelecaoJT?selecao_edicao=87#:~:text=%C3%89%20invi%C3%A1vel%20reconhecer%20a%20continuidade%20delitiva%20entre%20os%20delitos%20de%20apropria%C3%A7%C3%A3o%20ind%C3%A9bita%20previdenci%C3%A1ria%20%28art.%20168-A%20do%20C%C3%B3digo%20Penal%29%20e%20de%20sonega%C3%A7%C3%A3o%20de",
+      "qtd_julgados": 7
     },
     "JT_087_T10": {
       "id": "JT_087_T10",
