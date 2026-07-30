@@ -21,9 +21,9 @@
     "fonte": {
       "arquivo": "sumulas_stf.json",
       "colecao": "sumulas",
-      "sha256": "4d54cf7b46aae8d0f9b6b78df4eec14386b478b54c2df1763f9a9ca0329de648",
+      "sha256": "ec4e493065e635313b62c81967ea432f954bd6604d8baba3aa6e88004e06376c",
       "total_registros": 736,
-      "gerado_em": "2026-07-30"
+      "gerado_em": "2026-07-30T02:37:32+00:00"
     },
     "relacao": {
       "chave": "numero",

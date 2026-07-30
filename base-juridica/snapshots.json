@@ -58,21 +58,18 @@
       "mudancas": null
     },
     "jt_stj.json": {
-      "versao": 2,
-      "sha256": "12cc8b13f6329c3503102b0204085af5056e97c2d2e360d4e968b66c5ead5fdf",
-      "gerado_em": "2026-07-30",
+      "versao": 3,
+      "sha256": "58142a1982e6d0749ea5189b948d170fd5a99ba7e0df99221e7cc1c784ea1d0b",
+      "gerado_em": "2026-07-30T02:37:36+00:00",
       "registros": 3508,
       "colecao": "teses",
       "mudancas": {
         "adicionados": 0,
         "removidos": 0,
-        "alterados": 2,
+        "alterados": 0,
         "amostra_adicionados": [],
         "amostra_removidos": [],
-        "amostra_alterados": [
-          "JT_045_T13",
-          "JT_087_T09"
-        ]
+        "amostra_alterados": []
       }
     },
     "lei_adct.json": {
@@ -4643,29 +4640,18 @@
       }
     },
     "sumulas_stf.json": {
-      "versao": 2,
-      "sha256": "4d54cf7b46aae8d0f9b6b78df4eec14386b478b54c2df1763f9a9ca0329de648",
-      "gerado_em": "2026-07-30",
+      "versao": 3,
+      "sha256": "ec4e493065e635313b62c81967ea432f954bd6604d8baba3aa6e88004e06376c",
+      "gerado_em": "2026-07-30T02:37:32+00:00",
       "registros": 736,
       "colecao": "sumulas",
       "mudancas": {
         "adicionados": 0,
         "removidos": 0,
-        "alterados": 51,
+        "alterados": 0,
         "amostra_adicionados": [],
         "amostra_removidos": [],
-        "amostra_alterados": [
-          "121",
-          "14",
-          "145",
-          "15",
-          "208",
-          "235",
-          "267",
-          "269",
-          "27",
-          "303"
-        ]
+        "amostra_alterados": []
       }
     },
     "sumulas_stj.json": {

@@ -4,7 +4,7 @@
     "tipo": "sumulas",
     "tribunal": "STF",
     "total": 736,
-    "gerado_em": "2026-07-30",
+    "gerado_em": "2026-07-30T02:37:32+00:00",
     "descricao": "Súmulas extraídas do catálogo oficial do STF",
     "transformacao": "sumulas_stf_html_v1",
     "ativas": 724,
