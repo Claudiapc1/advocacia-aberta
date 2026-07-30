@@ -1259,11 +1259,23 @@ export function buscarLegislacao(
 ): Array<{ codigo: CodigoCodigo; artigo: Artigo }> {
   const codigos = resolverCodigos(codigo);
 
-  // Tenta lookup direto "art. 702", "artigo 702", "702"
-  const artMatch = query.match(/(?:art(?:igo)?\.?\s*)?(\d+)/i);
-  if (artMatch && codigos.length === 1) {
-    const art = buscarArtigo(codigos[0], artMatch[1]);
-    if (art) return [{ codigo: codigos[0], artigo: art }];
+  // Lookup direto em duas formas: com rótulo ("art. 702", "artigo 702") e com
+  // o número puro e isolado ("702"), inclusive com sufixo de dispositivo
+  // acrescentado ("48-A").
+  //
+  // A regex anterior tinha o rótulo opcional e não era ancorada, de modo que
+  // capturava qualquer número em qualquer posição da consulta: "aviso prévio
+  // de 30 dias" na CLT devolvia o art. 30 — revogado — como resultado único,
+  // sem alternativa na tela. Número dentro de frase volta a ser texto.
+  const rotulado = query.match(/\bart(?:igo)?\.?\s*(\d+(?:-[A-Za-z])?)/i);
+  const puro = query.trim().match(/^(\d+(?:-[A-Za-z])?)[º°]?$/);
+  const numero = rotulado?.[1] ?? puro?.[1];
+
+  if (numero !== undefined && codigos.length === 1) {
+    // Consulta por número nunca cai no índice textual: devolve o dispositivo
+    // pedido ou vazio, jamais outro artigo.
+    const art = buscarArtigo(codigos[0], numero);
+    return art ? [{ codigo: codigos[0], artigo: art }] : [];
   }
 
   // Busca por keywords

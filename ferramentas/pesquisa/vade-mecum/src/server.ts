@@ -215,7 +215,8 @@ Use para localizar uma síntese institucional e partir dela para os julgados cor
 O registro informa a situação de temas submetidos ao rito dos recursos repetitivos.
 Quando houver tese firmada vigente e aplicável, sua observância é obrigatória nos termos do art. 927, III, do CPC; temas afetados, cancelados ou em revisão exigem tratamento distinto.
 
-Aceita busca por número ("tema 1377", "tema repetitivo 1302") ou palavras-chave.
+Aceita busca por número ("1377", "tema 1377", "tema repetitivo 1302") ou palavras-chave.
+A busca por número devolve o tema pedido ou nada — nunca outro tema.
 
 Use quando a questão puder ser objeto de recurso repetitivo, para verificar se já há tese firmada.`,
           annotations: ANOTACOES_LEITURA,
@@ -224,7 +225,7 @@ Use quando a questão puder ser objeto de recurso repetitivo, para verificar se 
             properties: {
               query: {
                 type: "string",
-                description: "Número do tema (ex: 'tema 1377') ou palavras-chave (ex: 'honorários sucumbenciais fazenda pública').",
+                description: "Número do tema (ex: '1377', 'tema 1377') ou palavras-chave (ex: 'honorários sucumbenciais fazenda pública').",
               },
               limit: {
                 type: "number",
