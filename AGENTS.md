@@ -96,6 +96,14 @@ nunca tudo de uma vez sem necessidade.
   `python3 ferramentas/manutencao/auditar_base_juridica.py`.
 - Não corrija divergência de conteúdo jurídico apenas para fazer a contagem fechar.
   Confirme a fonte oficial e registre data, mudança e validação.
+- Quando a pergunta for **"está atualizado de fato?"**, o monitor semanal não
+  responde: ele vê sinal de mudança, não conteúdo. A resposta vem da conferência
+  completa (recoleta e comparação de tudo), com roteiro em
+  `base-juridica/ATUALIZACAO.md`. Em 29/07/2026 o sinal deu "sem mudança" nas 288
+  fontes e a recoleta achou duas teses com o enunciado substituído.
+- No site, **"atualizado em"** é a última mudança promovida e **"conferido em"** é a
+  última verificação na fonte. Acervo parado há semanas e conferido hoje está em
+  dia — a fonte é que não mudou.
 
 ## Gerenciamento de contexto
 
