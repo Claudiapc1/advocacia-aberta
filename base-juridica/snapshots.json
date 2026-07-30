@@ -30,20 +30,22 @@
       }
     },
     "flash_temas_stj.json": {
-      "versao": 3,
-      "sha256": "468ab45545661a2722440f0f76315dd23316550b64360f5dbf17ecf5cd079695",
-      "gerado_em": "2026-07-22T23:39:48+00:00",
+      "versao": 4,
+      "sha256": "77c59e71e330b5c6f92182d0a99c38bfe7841a29ee120b8e5988cfb0a2e75589",
+      "gerado_em": "2026-07-29T19:41:49+00:00",
       "registros": 1462,
       "colecao": "temas",
       "mudancas": {
         "adicionados": 0,
         "removidos": 0,
-        "alterados": 2,
+        "alterados": 4,
         "amostra_adicionados": [],
         "amostra_removidos": [],
         "amostra_alterados": [
-          "1357",
-          "948"
+          "1147",
+          "1175",
+          "1210",
+          "1304"
         ]
       }
     },
@@ -4673,9 +4675,9 @@
       }
     },
     "temas_rg_stf.json": {
-      "versao": 2,
-      "sha256": "e62365da2996302d242d5d5a12ea7ef31722173755d7f0104c035226a493d646",
-      "gerado_em": "2026-07-23T01:23:10+00:00",
+      "versao": 3,
+      "sha256": "93bbcfc4606f8a77950e9f6d02d95e27e00622b9abe60af0b0e098201437b16c",
+      "gerado_em": "2026-07-29T19:41:49+00:00",
       "registros": 1470,
       "colecao": "temas",
       "mudancas": {
@@ -4685,7 +4687,7 @@
         "amostra_adicionados": [],
         "amostra_removidos": [],
         "amostra_alterados": [
-          "1468"
+          "1456"
         ]
       }
     }

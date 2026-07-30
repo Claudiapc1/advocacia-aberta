@@ -5,14 +5,14 @@
     "tribunal": "STF",
     "totalTemas": 1470,
     "temasComTese": 1300,
-    "generatedAt": "2026-07-23T01:23:10+00:00",
+    "generatedAt": "2026-07-29T19:41:49+00:00",
     "situacoes": {
       "Acórdão de Repercussão Geral publicado": 137,
-      "Acórdão de mérito publicado": 36,
+      "Acórdão de mérito publicado": 37,
       "Analisada Preliminar de Repercussão Geral": 3,
       "Cancelado": 21,
       "Em julgamento": 3,
-      "Mérito julgado": 7,
+      "Mérito julgado": 6,
       "Trânsito em Julgado": 1263
     },
     "descricao": "Temas de Repercussão Geral do STF extraídos da exportação oficial",
@@ -24,7 +24,7 @@
         "temaUrlTemplate": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verTeseTema.asp?numTema={numero}"
       },
       "method": "Tabela HTML (application/vnd.ms-excel) do exportarDados.asp parseada com a biblioteca padrão; mojibake corrigido por célula (cp1252→utf-8).",
-      "collectedAt": "2026-07-23T01:23:10+00:00",
+      "collectedAt": "2026-07-29T19:41:49+00:00",
       "limitacoes": "A coluna 'Assuntos' do export duplica 'Descrição', então a taxonomia de assuntos não é fornecida por esta rota. O flag de suspensão nacional (art. 1.035, §5º, CPC) não existe nas rotas estáticas — só na base Qlik do STF."
     },
     "transformacao": "temas_rg_stf_html_v1"
@@ -26683,7 +26683,7 @@
       "titulo": "Prazo prescricional para ações indenizatórias contra a União decorrentes da política de isolamento compulsório de pessoas com hanseníase.",
       "descricao": "Recurso extraordinário em que se discute, à luz dos artigos 1º, III; 5º, V e X; 37, § 6º; e 227, da Constituição Federal, se (i) a pretensão indenizatória da parte autora está sujeita à prescrição quinquenal prevista no Decreto nº 20.910/32; e se (ii) é aplicável ao caso a tese da imprescritibilidade de ações indenizatórias decorrentes de violações a direitos fundamentais.",
       "repercussao": "Há (com reafirmação de jurisprudência)",
-      "situacao": "Mérito julgado",
+      "situacao": "Acórdão de mérito publicado",
       "dataJulgamento": "",
       "tese": "Prescrevem em 5 anos, a contar da publicação da ata de julgamento da ADPF 1.060, as pretensões de indenização propostas contra a União por filhos de pessoas atingidas pela hanseníase cujo fundamento seja o afastamento forçado promovido pelo Estado entre eles e seus pais, sem prejuízo da necessária demonstração, em cada caso, dos pressupostos da responsabilização civil do Estado.",
       "dataTese": "",

@@ -1,7 +1,7 @@
 {
   "_meta": {
     "version": "2.0",
-    "generatedAt": "2026-07-22T23:39:48+00:00",
+    "generatedAt": "2026-07-29T19:41:49+00:00",
     "totalTemas": 1462,
     "source": {
       "provenanceStatus": "reproducible_pipeline",
@@ -22,8 +22,8 @@
         }
       },
       "method": "Junção determinística de Temas.csv e Processos.csv por sequencialPrecedente; seleção preferencial do leading case.",
-      "metadata_sha256": "e77aff121bcb043e46cabafb84bd55fac6f8571967977ebab1018ee9b0e47df4",
-      "collectedAt": "2026-07-22T23:39:48+00:00"
+      "metadata_sha256": "ebb4ebfa0235f8f9001cd5a9295a56dd85ee21b835b645e7e0b8c4493e932201",
+      "collectedAt": "2026-07-29T19:41:49+00:00"
     },
     "transformacao": "temas_stj_csv_v1"
   },
@@ -32984,7 +32984,7 @@
     },
     "1147": {
       "numero": 1147,
-      "situacao": "Acórdão Publicado - RE Pendente",
+      "situacao": "Trânsito em Julgado",
       "ramo": "Serviços",
       "assuntos": [
         "Serviços",
@@ -33771,7 +33771,7 @@
     },
     "1175": {
       "numero": 1175,
-      "situacao": "Acórdão Publicado - RE Pendente",
+      "situacao": "Trânsito em Julgado",
       "ramo": "Descontos Indevidos",
       "assuntos": [
         "Descontos Indevidos",
@@ -34757,7 +34757,7 @@
     },
     "1210": {
       "numero": 1210,
-      "situacao": "Acórdão Publicado",
+      "situacao": "Trânsito em Julgado",
       "ramo": "DIREITO CIVIL",
       "assuntos": [
         "DIREITO CIVIL",
@@ -37395,7 +37395,7 @@
     },
     "1304": {
       "numero": 1304,
-      "situacao": "Acórdão Publicado - RE Pendente",
+      "situacao": "Acórdão Publicado",
       "ramo": "IPI/ Imposto sobre Produtos Industrializados",
       "assuntos": [
         "IPI/ Imposto sobre Produtos Industrializados"
