@@ -274,6 +274,84 @@ python3 ferramentas/manutencao/atualizar_base_juridica.py comparar \
 Conjuntos separados por vírgula podem compartilhar a mesma execução. `listar` mostra
 os identificadores aceitos.
 
+## Conferência completa: "está atualizado de fato?"
+
+O monitor semanal responde "alguma fonte deu sinal de mudança?". Ele **não**
+responde "o que está publicado confere com a fonte oficial hoje?" — e as duas
+perguntas não têm a mesma resposta. Em 29/07/2026 o sinal deu "sem mudança" nas
+288 fontes e a recoleta encontrou duas teses com o enunciado substituído, uma
+delas com o sentido invertido.
+
+Quando fazer: antes de confiar na base para trabalho de peso, depois de um
+período longo sem promoções, ou sempre que a pergunta for essa. Não precisa ser
+frequente — o sinal semanal cobre o dia a dia.
+
+Custo real medido em 29/07/2026: **1.569 downloads, 181 MB, cerca de 12 minutos**
+de coleta e 281 MB na área de trabalho (que é descartável e não versionada).
+
+### O roteiro, em ordem
+
+```bash
+# 1. Recoleta tudo e compara com o publicado. NÃO altera nada publicado.
+#    Rode da sua máquina: seis famílias do STF e do SCON recusam IP de datacenter.
+python3 ferramentas/manutencao/atualizar_base_juridica.py executar \
+  --execucao $(date +%F)-completa --conjunto todos
+
+# 2. Leia o resumo. Linhas "+0 -0 ~0" são fontes idênticas à oficial.
+cat .atualizacao-base-juridica/$(date +%F)-completa/relatorios/diferencas.md
+```
+
+**Se todas as linhas forem `+0 -0 ~0`**, a base está atualizada de fato. Registre a
+conferência e pare — não promova nada:
+
+```bash
+python3 ferramentas/manutencao/atualizar_base_juridica.py comparar \
+  --execucao $(date +%F)-completa --conjunto todos --registrar
+```
+
+Promover conjunto sem diferença de conteúdo só troca carimbo de data, cria versão
+nova no manifesto e polui o histórico. Não faça.
+
+**Se houver diferença**, leia o que mudou antes de decidir — é aqui que entra o
+julgamento jurídico, e nenhuma automação substitui isso. Siga
+[Revisão antes de promover](#revisão-antes-de-promover), promova **somente os
+conjuntos que mudaram** e complete a sequência obrigatória:
+
+```bash
+python3 ferramentas/manutencao/atualizar_base_juridica.py promover \
+  --execucao $(date +%F)-completa --conjunto <só os que mudaram> --confirmar PROMOVER
+
+python3 ferramentas/manutencao/gerar_indices_derivados.py --escrever
+python3 ferramentas/manutencao/gerar_snapshots.py --escrever
+python3 ferramentas/manutencao/auditar_base_juridica.py --strict
+python3 -m unittest discover -s ferramentas/manutencao/tests -p 'test_*.py'
+(cd ferramentas/pesquisa/vade-mecum && bun run typecheck && bun test)
+
+# registra a conferência forte, agora sobre a base já corrigida
+python3 ferramentas/manutencao/atualizar_base_juridica.py comparar \
+  --execucao $(date +%F)-completa --conjunto todos --registrar
+```
+
+Depois é só commit e PR. O CI recusa promoção sem manifesto atualizado ou com
+índice dessincronizado, então esqueceu um passo, ele avisa.
+
+### O que acontece sozinho depois do merge
+
+Nada mais precisa ser feito à mão:
+
+| Quando | O quê |
+|---|---|
+| até 10 min | a VM puxa a `main` e reinicia o MCP com os dados novos |
+| todo dia, 12h | o site reextrai o acervo e republica (só se os dados mudaram) |
+| até 15 min depois | a VM serve o site novo |
+
+### Como ler o que aparece no site
+
+Os dois carimbos de cada acervo respondem coisas diferentes, e é proposital:
+**"atualizado em"** é a última mudança promovida; **"conferido em"** é a última
+verificação contra a fonte oficial. Um acervo parado há semanas e conferido hoje
+está em dia — a fonte é que não mudou.
+
 ## Artefatos da execução
 
 ```text
