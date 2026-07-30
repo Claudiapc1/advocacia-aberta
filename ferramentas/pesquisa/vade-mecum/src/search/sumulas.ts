@@ -242,7 +242,12 @@ export function buscarSumulas(
 ): Array<{ tribunal: Tribunal; sumula: SumulaSTJ | SumulaSTF | SumulaVinculante }> {
   const results: Array<{ tribunal: Tribunal; sumula: SumulaSTJ | SumulaSTF | SumulaVinculante }> = [];
 
-  // Tenta lookup direto por número primeiro
+  // Lookup direto por número. Consulta numérica NUNCA cai no índice textual:
+  // o número da súmula colide com número de lei citado no enunciado de outra
+  // — a consulta "741" devolvia a Súmula 199 do STJ, que cita a "Lei n.
+  // 5.741/71". O resultado errado saía formatado igual ao certo, com a mesma
+  // declaração de efeito jurídico. Devolver nada é correto; devolver outra
+  // súmula, não.
   const numMatch = query.match(/^\s*(\d+)\s*$/);
   if (numMatch) {
     const n = parseInt(numMatch[1], 10);
@@ -258,7 +263,7 @@ export function buscarSumulas(
       const s = sv.sumulas[String(n)];
       if (s) results.push({ tribunal: "vinculante", sumula: s });
     }
-    if (results.length > 0) return results;
+    return results;
   }
 
   // Busca por keywords

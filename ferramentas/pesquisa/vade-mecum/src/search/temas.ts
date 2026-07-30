@@ -59,11 +59,23 @@ function tokenize(text: string): string[] {
 // ── Public API ─────────────────────────────────────────────────────────────
 
 export function buscarTemas(query: string, limit = 5): TemaData[] {
-  // Tenta lookup por número ("tema 1377", "tema repetitivo 1302")
-  const numMatch = query.match(/tema\s*(?:repetitivo)?\s*n?[º°.]?\s*(\d+)/i);
-  if (numMatch) {
-    const tema = raw.temas[numMatch[1]];
-    if (tema) return [tema];
+  // Lookup por número, em duas formas: com rótulo ("tema 1377", "tema
+  // repetitivo 1302") e com o número puro ("1377"), que é como a CLI e a
+  // ferramenta MCP recebem a consulta na prática — a descrição da ferramenta
+  // sempre anunciou busca por número.
+  const rotulado = query.match(/tema\s*(?:repetitivo)?\s*n?[º°.]?\s*(\d+)/i);
+  const puro = query.trim().match(/^n?[º°.]?\s*(\d{1,4})$/);
+  const numero = rotulado?.[1] ?? puro?.[1];
+
+  if (numero !== undefined) {
+    // Consulta por número NUNCA cai no índice textual. O número do tema colide
+    // com fragmento de número de processo citado no corpo de outro tema:
+    // `terms["981"] = [1056]`, porque o Tema 1056 cita "EREsp 1.121.981/RJ".
+    // O resultado errado saía formatado igual ao certo, com o carimbo de
+    // observância obrigatória, emprestando autoridade ao engano. Devolver nada
+    // é correto; devolver outro tema, não.
+    const tema = raw.temas[String(Number(numero))];
+    return tema ? [tema] : [];
   }
 
   const tokens = tokenize(query);
