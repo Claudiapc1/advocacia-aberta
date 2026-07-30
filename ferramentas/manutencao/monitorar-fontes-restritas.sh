@@ -34,8 +34,11 @@ trap 'rm -f "$json" "$corpo"' EXIT
 echo "[fontes-restritas] $(date -u +%Y-%m-%dT%H:%M:%SZ) verificando: $FAMILIAS"
 
 # Uma única passada nas fontes (o --json carrega tudo; o texto é formatado daqui).
+# --registrar grava a conferência destas famílias em base-juridica/verificacoes.json;
+# o merge é por conjunto, então isto não apaga o que o monitor da nuvem registrou
+# para as outras — e o contrário também vale.
 python3 ferramentas/manutencao/atualizar_base_juridica.py monitorar \
-  --conjunto "$FAMILIAS" --json > "$json"
+  --conjunto "$FAMILIAS" --registrar --json > "$json"
 
 leia() { python3 -c "import json,sys; print(json.load(open(sys.argv[1]))[sys.argv[2]])" "$json" "$1"; }
 mudancas="$(leia mudancas)"

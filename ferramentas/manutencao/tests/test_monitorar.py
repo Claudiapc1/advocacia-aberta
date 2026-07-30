@@ -312,6 +312,157 @@ class MonitorarConjuntosTest(unittest.TestCase):
         self.assertNotIn("legislacao/CF", saida)
 
 
+class RegistroDeVerificacaoTest(unittest.TestCase):
+    """O registro responde 'quando isto foi conferido?', não 'quando mudou?'."""
+
+    def resultado(
+        self,
+        conjuntos: dict[str, list[dict[str, str]]],
+        verificado_em: str = "2026-07-29T12:00:00+00:00",
+    ) -> dict[str, object]:
+        return {"verificado_em": verificado_em, "conjuntos": conjuntos}
+
+    def test_grava_conferido_em_por_conjunto(self) -> None:
+        with tempfile.TemporaryDirectory() as temp:
+            alvo = Path(temp) / "verificacoes.json"
+            saida = pipeline.registrar_verificacao(
+                self.resultado(
+                    {
+                        "legislacao": [
+                            {"alvo": "CF", "situacao": "sem_mudanca", "detalhe": "d"},
+                            {"alvo": "CC", "situacao": "sem_mudanca", "detalhe": "d"},
+                        ]
+                    }
+                ),
+                alvo,
+            )
+        registro = saida["conjuntos"]["legislacao"]
+        self.assertEqual(registro["conferido_em"], "2026-07-29T12:00:00+00:00")
+        self.assertEqual(registro["situacao"], "sem_mudanca")
+        self.assertEqual(registro["fontes"], 2)
+
+    def test_execucao_de_outra_rede_nao_apaga_a_anterior(self) -> None:
+        # O monitor da nuvem pula as famílias que exigem rede aceita; elas são
+        # conferidas de outro ponto. Substituir o arquivo perderia uma das duas.
+        with tempfile.TemporaryDirectory() as temp:
+            alvo = Path(temp) / "verificacoes.json"
+            pipeline.registrar_verificacao(
+                self.resultado(
+                    {"legislacao": [{"alvo": "CF", "situacao": "sem_mudanca", "detalhe": "d"}]},
+                    "2026-07-27T09:00:00+00:00",
+                ),
+                alvo,
+            )
+            saida = pipeline.registrar_verificacao(
+                self.resultado(
+                    {"sumulas_stf": [{"alvo": "catalogo", "situacao": "sem_mudanca", "detalhe": "d"}]},
+                    "2026-07-29T12:00:00+00:00",
+                ),
+                alvo,
+            )
+        self.assertEqual(
+            saida["conjuntos"]["legislacao"]["conferido_em"], "2026-07-27T09:00:00+00:00"
+        )
+        self.assertEqual(
+            saida["conjuntos"]["sumulas_stf"]["conferido_em"], "2026-07-29T12:00:00+00:00"
+        )
+
+    def test_erro_nao_conta_como_conferencia(self) -> None:
+        # 403 por IP de datacenter não é conferência: a data antiga permanece, senão
+        # o site afirmaria frescor que ninguém verificou.
+        with tempfile.TemporaryDirectory() as temp:
+            alvo = Path(temp) / "verificacoes.json"
+            pipeline.registrar_verificacao(
+                self.resultado(
+                    {"sumulas_stf": [{"alvo": "catalogo", "situacao": "sem_mudanca", "detalhe": "d"}]},
+                    "2026-07-20T09:00:00+00:00",
+                ),
+                alvo,
+            )
+            saida = pipeline.registrar_verificacao(
+                self.resultado(
+                    {"sumulas_stf": [{"alvo": "catalogo", "situacao": "erro", "detalhe": "403"}]},
+                    "2026-07-29T12:00:00+00:00",
+                ),
+                alvo,
+            )
+        registro = saida["conjuntos"]["sumulas_stf"]
+        self.assertEqual(registro["conferido_em"], "2026-07-20T09:00:00+00:00")
+        self.assertEqual(registro["situacao"], "erro")
+        self.assertEqual(registro["ultimo_erro_em"], "2026-07-29T12:00:00+00:00")
+
+    def test_erro_em_uma_fonte_domina_o_conjunto(self) -> None:
+        itens = [
+            {"alvo": "CF", "situacao": "sem_mudanca", "detalhe": "d"},
+            {"alvo": "CC", "situacao": "erro", "detalhe": "timeout"},
+        ]
+        self.assertEqual(pipeline.situacao_do_conjunto(itens), "erro")
+
+    def test_mudanca_prevalece_sobre_sem_mudanca(self) -> None:
+        itens = [
+            {"alvo": "CF", "situacao": "sem_mudanca", "detalhe": "d"},
+            {"alvo": "CC", "situacao": "mudou", "detalhe": "d"},
+        ]
+        self.assertEqual(pipeline.situacao_do_conjunto(itens), "mudou")
+
+    def test_cli_aceita_registrar(self) -> None:
+        args = pipeline.parser_cli().parse_args(["monitorar", "--registrar"])
+        self.assertTrue(args.registrar)
+
+    def test_cli_aceita_registrar_na_comparacao(self) -> None:
+        args = pipeline.parser_cli().parse_args(
+            ["comparar", "--execucao", "x", "--registrar"]
+        )
+        self.assertTrue(args.registrar)
+
+    def test_sinal_nao_apaga_a_recoleta_anterior(self) -> None:
+        # Um sinal barato de hoje não pode apagar o registro de que a conferência
+        # forte foi feita ontem: elas não valem o mesmo.
+        with tempfile.TemporaryDirectory() as temp:
+            alvo = Path(temp) / "verificacoes.json"
+            pipeline.registrar_verificacao(
+                self.resultado(
+                    {"sumulas_stf": [{"alvo": "s.json", "situacao": "sem_mudanca", "detalhe": "d"}]},
+                    "2026-07-29T20:00:00+00:00",
+                ),
+                alvo,
+                metodo="recoleta",
+            )
+            saida = pipeline.registrar_verificacao(
+                self.resultado(
+                    {"sumulas_stf": [{"alvo": "catalogo", "situacao": "sem_mudanca", "detalhe": "d"}]},
+                    "2026-08-03T09:00:00+00:00",
+                ),
+                alvo,
+                metodo="sinal",
+            )
+        registro = saida["conjuntos"]["sumulas_stf"]
+        self.assertEqual(registro["conferido_em"], "2026-08-03T09:00:00+00:00")
+        self.assertEqual(registro["metodo"], "sinal")
+        self.assertEqual(registro["recoletado_em"], "2026-07-29T20:00:00+00:00")
+
+    def test_comparacao_sem_diferenca_e_sem_mudanca(self) -> None:
+        relatorio = {
+            "gerado_em": "2026-07-29T20:00:00+00:00",
+            "conjuntos": {
+                "sumulas_stf": [
+                    {"arquivo": "sumulas_stf.json", "adicionados": [], "removidos": [], "alterados": []}
+                ],
+                "jurisprudencia_teses_stj": [
+                    {"arquivo": "jt_stj.json", "adicionados": [], "removidos": [], "alterados": ["JT_087_T09"]}
+                ],
+            },
+        }
+        resultado = pipeline.resultado_da_comparacao(relatorio)
+        self.assertEqual(
+            resultado["conjuntos"]["sumulas_stf"][0]["situacao"], "sem_mudanca"
+        )
+        self.assertEqual(
+            resultado["conjuntos"]["jurisprudencia_teses_stj"][0]["situacao"], "mudou"
+        )
+        self.assertEqual(resultado["verificado_em"], "2026-07-29T20:00:00+00:00")
+
+
 class ArvoreHTMLTest(unittest.TestCase):
     def test_fechamento_orfao_de_inline_nao_derruba_o_paragrafo(self) -> None:
         html = (
