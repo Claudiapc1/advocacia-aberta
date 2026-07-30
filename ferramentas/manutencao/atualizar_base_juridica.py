@@ -38,6 +38,7 @@ sys.setrecursionlimit(50000)
 ROOT = Path(__file__).resolve().parents[2]
 MANIFESTO_PADRAO = ROOT / "base-juridica" / "fontes.json"
 AREA_PADRAO = ROOT / ".atualizacao-base-juridica"
+VERIFICACOES_PADRAO = ROOT / "base-juridica" / "verificacoes.json"
 USER_AGENT = (
     "Mozilla/5.0 (compatible; Advocacia-Aberta/1.0; "
     "+https://github.com/emidio-a11y/advocacia-aberta)"
@@ -2801,6 +2802,114 @@ def monitorar_conjuntos(
     return resultado
 
 
+def situacao_do_conjunto(itens: list[dict[str, Any]]) -> str:
+    """Reduz os sinais das fontes de um conjunto a uma situação única.
+
+    A ordem é deliberada: erro domina (não se afirma conferência sobre o que não
+    respondeu), depois mudança, e só então ausência de mudança.
+    """
+    situacoes = {item["situacao"] for item in itens}
+    for candidata in ("erro", "mudou", "indeterminado"):
+        if candidata in situacoes:
+            return candidata
+    return "sem_mudanca" if situacoes == {"sem_mudanca"} else "indeterminado"
+
+
+def resultado_da_comparacao(relatorio: dict[str, Any]) -> dict[str, Any]:
+    """Converte o relatório de diferenças em resultado de verificação.
+
+    A recoleta é a conferência forte: compara o conteúdo inteiro contra a fonte, e
+    não um sinal indireto. Em 29/07/2026 foi ela que achou duas teses da
+    Jurisprudência em Teses com enunciado substituído (uma com o sentido invertido)
+    e 51 súmulas do STF sem precedentes — tudo que o sinal barato deu como
+    "sem mudança", porque a edição mais recente do índice e as contagens por estado
+    não se moveram.
+    """
+    conjuntos: dict[str, list[dict[str, str]]] = {}
+    for conjunto_id, itens in relatorio["conjuntos"].items():
+        registros = []
+        for item in itens:
+            mudou = bool(
+                item["adicionados"] or item["removidos"] or item["alterados"]
+            )
+            registros.append(
+                {
+                    "alvo": item["arquivo"],
+                    "situacao": "mudou" if mudou else "sem_mudanca",
+                    "detalhe": (
+                        f"+{len(item['adicionados'])} "
+                        f"-{len(item['removidos'])} "
+                        f"~{len(item['alterados'])}"
+                    ),
+                }
+            )
+        conjuntos[conjunto_id] = registros
+    return {"verificado_em": relatorio["gerado_em"], "conjuntos": conjuntos}
+
+
+def registrar_verificacao(
+    resultado: dict[str, Any], caminho: Path, metodo: str = "sinal"
+) -> dict[str, Any]:
+    """Grava em disco quando cada conjunto foi conferido contra a fonte oficial.
+
+    Existe porque o snapshot só registra a última *mudança* promovida. Sem isto,
+    uma família conferida hoje e inalterada desde junho aparece como se estivesse
+    parada em junho — o dado está atualizado, mas a leitura sugere abandono.
+
+    O merge é por conjunto, nunca substituição do arquivo: o monitor da nuvem pula
+    as seis famílias que exigem rede aceita, e essas são conferidas de outro ponto.
+    Se cada execução reescrevesse o registro inteiro, a última a rodar apagaria a
+    conferência da outra.
+
+    Erro de acesso não conta como conferência: preserva-se a data anterior e
+    registra-se o erro à parte, para não afirmar frescor que não houve.
+
+    `metodo` separa as duas forças de conferência, porque elas não valem o mesmo:
+    "sinal" é o monitor barato (contagem, GET condicional, `last_modified`) e não vê
+    alteração de enunciado; "recoleta" compara o conteúdo inteiro contra a fonte.
+    Por isso `recoletado_em` é guardado à parte e nunca é sobrescrito por um sinal:
+    um sinal de hoje não apaga o fato de que a conferência forte foi ontem.
+    """
+    anterior: dict[str, Any] = {}
+    if caminho.exists():
+        anterior = json.loads(caminho.read_text(encoding="utf-8"))
+    conjuntos: dict[str, Any] = dict(anterior.get("conjuntos") or {})
+
+    for conjunto_id, itens in resultado["conjuntos"].items():
+        situacao = situacao_do_conjunto(itens)
+        registro = dict(conjuntos.get(conjunto_id) or {})
+        registro["situacao"] = situacao
+        registro["fontes"] = len(itens)
+        if situacao == "erro":
+            registro["ultimo_erro_em"] = resultado["verificado_em"]
+            registro.setdefault("conferido_em", None)
+        else:
+            registro["conferido_em"] = resultado["verificado_em"]
+            registro["metodo"] = metodo
+            if metodo == "recoleta":
+                registro["recoletado_em"] = resultado["verificado_em"]
+            registro.pop("ultimo_erro_em", None)
+        conjuntos[conjunto_id] = registro
+
+    saida = {
+        "gerado_em": resultado["verificado_em"],
+        "significado": (
+            "conferido_em é a última verificação da fonte oficial que respondeu; "
+            "não é a data da última mudança promovida (essa está em snapshots.json). "
+            "Situação sem_mudanca com conferido_em recente significa fonte estável, "
+            "não base parada. metodo=sinal é o monitor barato, que não detecta "
+            "alteração de enunciado; metodo=recoleta compara o conteúdo inteiro "
+            "contra a fonte, e recoletado_em guarda a última vez que isso foi feito."
+        ),
+        "conjuntos": dict(sorted(conjuntos.items())),
+    }
+    caminho.parent.mkdir(parents=True, exist_ok=True)
+    caminho.write_text(
+        json.dumps(saida, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
+    )
+    return saida
+
+
 def imprimir_monitoramento(resultado: dict[str, Any]) -> None:
     print(f"Verificação de fontes em {resultado['verificado_em']}")
     sem_mudanca = 0
@@ -2855,6 +2964,16 @@ def parser_cli() -> argparse.ArgumentParser:
         comando = sub.add_parser(acao)
         comando.add_argument("--execucao", required=True)
         comando.add_argument("--conjunto", default="todos")
+        if acao in {"comparar", "executar"}:
+            comando.add_argument(
+                "--registrar",
+                action="store_true",
+                help=(
+                    "registra em base-juridica/verificacoes.json que estes "
+                    "conjuntos foram conferidos por recoleta (conferência forte, "
+                    "que enxerga alteração de enunciado)"
+                ),
+            )
     comando_monitorar = sub.add_parser(
         "monitorar",
         help="verifica sinais de mudança nas fontes sem preparar candidatos",
@@ -2870,6 +2989,25 @@ def parser_cli() -> argparse.ArgumentParser:
         ),
     )
     comando_monitorar.add_argument("--json", action="store_true")
+    comando_monitorar.add_argument(
+        "--json-em",
+        type=Path,
+        default=None,
+        help=(
+            "grava o relatório JSON neste arquivo e mantém o texto no stdout; "
+            "evita ter de monitorar duas vezes para obter os dois formatos, o que "
+            "dobraria as requisições aos portais oficiais"
+        ),
+    )
+    comando_monitorar.add_argument(
+        "--registrar",
+        action="store_true",
+        help=(
+            "grava em base-juridica/verificacoes.json quando cada conjunto foi "
+            "conferido; merge por conjunto, então execuções de pontos de rede "
+            "diferentes se somam em vez de se sobrescrever"
+        ),
+    )
     comando_promover = sub.add_parser("promover")
     comando_promover.add_argument("--execucao", required=True)
     comando_promover.add_argument("--conjunto", default="todos")
@@ -2905,6 +3043,11 @@ def main(argv: list[str] | None = None) -> int:
         ids = [conjunto_id for conjunto_id in ids if conjunto_id not in excluidos]
         resultado = monitorar_conjuntos(dados, ids, publicados)
         resultado["excluidos"] = sorted(excluidos)
+        if args.registrar:
+            registrar_verificacao(resultado, VERIFICACOES_PADRAO)
+            print(f"Registro de verificação atualizado: {VERIFICACOES_PADRAO}")
+        if args.json_em:
+            salvar_json(args.json_em, resultado)
         if args.json:
             print(json.dumps(resultado, ensure_ascii=False, indent=2))
         else:
@@ -2938,6 +3081,13 @@ def main(argv: list[str] | None = None) -> int:
                     f"+{len(item['adicionados'])} -{len(item['removidos'])} "
                     f"~{len(item['alterados'])}"
                 )
+        if getattr(args, "registrar", False):
+            registrar_verificacao(
+                resultado_da_comparacao(relatorio),
+                VERIFICACOES_PADRAO,
+                metodo="recoleta",
+            )
+            print(f"Registro de verificação atualizado: {VERIFICACOES_PADRAO}")
     if args.acao == "promover":
         promover(
             dados,

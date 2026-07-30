@@ -6,7 +6,9 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  # write só por causa do registro de conferência (base-juridica/verificacoes.json).
+  # Nenhum dado jurídico é promovido aqui: o monitor não toca nos JSON publicados.
+  contents: write
   issues: write
 
 jobs:
@@ -41,11 +43,31 @@ jobs:
         env:
           EXCLUIR: sumulas_stj,jurisprudencia_teses_stj,sumulas_stf,sumulas_vinculantes,temas_rg_stf,informativo_stf
         run: |
+          # Uma execução só, gravando os dois formatos: monitorar duas vezes
+          # dobrava as requisições aos portais oficiais sem necessidade.
           python3 ferramentas/manutencao/atualizar_base_juridica.py monitorar \
-            --excluir "$EXCLUIR" > monitoramento.txt
-          python3 ferramentas/manutencao/atualizar_base_juridica.py monitorar \
-            --excluir "$EXCLUIR" --json > monitoramento.json
+            --excluir "$EXCLUIR" --registrar \
+            --json-em monitoramento.json > monitoramento.txt
           cat monitoramento.txt
+
+      # O registro responde "quando isto foi conferido?", que o manifesto de
+      # snapshots não responde (ele guarda a última *mudança*). Sem isto, família
+      # estável desde junho aparece no site como se estivesse abandonada.
+      - name: Registrar a conferência no repositório
+        run: |
+          set -euo pipefail
+          if git diff --quiet -- base-juridica/verificacoes.json; then
+            echo "Registro inalterado — nada a commitar."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add base-juridica/verificacoes.json
+          git commit -q -m "chore(base): registra a conferência semanal das fontes
+
+          Gravado por monitorar-base.yml. Sinal barato (contagem, GET condicional):
+          não detecta alteração de enunciado — essa exige recoleta."
+          git push
 
       - name: Abrir ou atualizar a issue de monitoramento
         env:

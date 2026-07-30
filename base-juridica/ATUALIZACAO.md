@@ -158,6 +158,43 @@ atualiza uma issue quando há sinais de mudança ou erros. Nenhuma etapa
 automatizada promove dados: a preparação, a revisão e a promoção continuam
 seguindo este protocolo.
 
+### Registro de conferência (`verificacoes.json`)
+
+`snapshots.json` responde "quando isto mudou por último?". Falta a outra
+pergunta: **"quando isto foi conferido por último?"**. Sem ela, uma família
+conferida hoje e estável desde junho parece abandonada desde junho — o dado
+está certo, a leitura engana. O registro versionado
+[`verificacoes.json`](verificacoes.json) responde isso, por conjunto:
+
+```bash
+# sinal barato (o que o monitor semanal faz)
+python3 ferramentas/manutencao/atualizar_base_juridica.py monitorar --registrar
+
+# conferência forte, a partir do relatório de diferenças de uma recoleta
+python3 ferramentas/manutencao/atualizar_base_juridica.py comparar \
+  --execucao <execucao> --conjunto todos --registrar
+```
+
+Três decisões que o registro precisa respeitar:
+
+- **`metodo` separa as duas forças.** `sinal` é o monitor barato e **não vê
+  alteração de enunciado**; `recoleta` compara o conteúdo inteiro contra a fonte.
+  `recoletado_em` guarda a última conferência forte e nunca é sobrescrito por um
+  sinal — um sinal de hoje não apaga o fato de que a recoleta foi ontem.
+- **Merge por conjunto, nunca substituição.** O monitor da nuvem pula as seis
+  famílias que exigem rede aceita; elas são conferidas de outro ponto. Reescrever
+  o arquivo inteiro faria a última execução apagar a conferência da outra.
+- **Erro não é conferência.** Se a fonte não respondeu (403, timeout), a data
+  anterior permanece e o erro é registrado à parte, em `ultimo_erro_em`. Afirmar
+  frescor sobre o que ninguém verificou seria o mesmo vício que o projeto combate.
+
+Por que a distinção não é teórica: em **29/07/2026** o sinal barato deu
+"sem mudança" em todas as 288 fontes, e a recoleta completa encontrou **duas teses
+da Jurisprudência em Teses com o enunciado substituído** — uma delas com o sentido
+invertido (`JT_087_T09`, revista sob o rito do art. 1.036 do CPC, Tema 1353) — mais
+51 súmulas do STF sem os precedentes. Quando a pergunta é "está atualizado de
+fato?", a resposta vem da recoleta, não do sinal.
+
 ### Fontes que exigem rede aceita (STF e SCON do STJ)
 
 Os portais do STF e o SCON do STJ recusam requisição vinda de **IP de datacenter**:
