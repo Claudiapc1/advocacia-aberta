@@ -42,8 +42,9 @@ nenhuma delas é redistribuída dentro deste repositório.
 
 ## Contribuições
 
-- **Rafael Nogueira Reis** — sócio-administrador do Girotto e Reis Advogados (Jandaia do
-  Sul-PR) — achou e corrigiu o defeito do `BASE-042` nos temas repetitivos: a consulta por
+- **Rafael Nogueira Reis** ([@rafael-reis-advogados](https://github.com/rafael-reis-advogados))
+  — sócio-administrador do Girotto e Reis Advogados (Jandaia do Sul-PR) — achou e corrigiu
+  o defeito do `BASE-042` nos temas repetitivos: a consulta por
   número puro devolvia **outro** tema, formatado como acerto e com o carimbo de observância
   obrigatória do art. 927, III, do CPC. O diagnóstico chegou com a causa no dado
   (`terms["981"] = [1056]`, porque o Tema 1056 cita o EREsp 1.121.981/RJ), teste de
