@@ -41,7 +41,7 @@
       "eventos": [
         {
           "tipo": "redacao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.913",
@@ -73,7 +73,7 @@
       "eventos": [
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.913",
@@ -84,7 +84,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.913",

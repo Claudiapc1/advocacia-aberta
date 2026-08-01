@@ -68,7 +68,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "11.970",
@@ -79,7 +79,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "11.970",
@@ -90,7 +90,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "11.970",
@@ -106,7 +106,7 @@
       "eventos": [
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.813",
@@ -117,7 +117,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.813",
@@ -128,7 +128,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.813",
@@ -182,7 +182,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.813",
@@ -226,7 +226,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.813",
@@ -237,7 +237,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.813",
@@ -314,7 +314,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.813",
@@ -325,7 +325,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.813",
@@ -412,7 +412,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.813",
@@ -423,7 +423,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.813",
@@ -434,7 +434,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.813",
@@ -467,7 +467,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.813",
@@ -478,7 +478,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.813",
@@ -489,7 +489,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.813",
@@ -581,7 +581,7 @@
       "eventos": [
         {
           "tipo": "revogacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.813",

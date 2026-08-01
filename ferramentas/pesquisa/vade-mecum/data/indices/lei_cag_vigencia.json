@@ -117,7 +117,7 @@
       "eventos": [
         {
           "tipo": "redacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Decreto-Lei",
             "numero": "3.763",
@@ -128,7 +128,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Decreto-Lei",
             "numero": "3.763",
@@ -215,7 +215,7 @@
       "eventos": [
         {
           "tipo": "redacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Decreto",
             "numero": "75.566",

@@ -241,7 +241,7 @@
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei Complementar",
             "numero": "179",
@@ -521,21 +521,21 @@
         },
         {
           "tipo": "veto",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…do Brasil, estudará os pedidos que lhe sejam formulados e resolverá conceder ou recusar a autorização pleiteada, podendo",
           "literal": "(Vetado)"
         },
         {
           "tipo": "veto",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…financeiras estrangeiras dependem de autorização do Poder Executivo, mediante decreto, para que possam funcionar no País",
           "literal": "(Vetado)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei Complementar",
             "numero": "179",
@@ -573,7 +573,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Decreto-Lei",
             "numero": "2.321",
@@ -584,7 +584,7 @@
         },
         {
           "tipo": "renumeracao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Decreto-Lei",
             "numero": "2.321",
@@ -681,7 +681,7 @@
       "eventos": [
         {
           "tipo": "veto",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…e, regulará as condições de concorrência entre instituições financeiras, coibindo-lhes os abusos com a aplicação da pena",
           "literal": "(Vetado)"
@@ -716,14 +716,14 @@
       "eventos": [
         {
           "tipo": "veto",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "§ 3º",
           "literal": "(Vetado)"
         },
         {
           "tipo": "veto",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "§ 4º",
           "literal": "(Vetado)"
@@ -746,7 +746,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "5.710",
@@ -757,7 +757,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "5.710",
@@ -790,7 +790,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "5.710",
@@ -806,7 +806,7 @@
       "eventos": [
         {
           "tipo": "revogacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Decreto-Lei",
             "numero": "48",
@@ -935,14 +935,14 @@
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "§ 1o",
           "literal": "(Revogado)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.506",
@@ -953,14 +953,14 @@
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "§ 2o",
           "literal": "(Revogado)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.506",
@@ -971,7 +971,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.506",
@@ -1081,7 +1081,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.506",
@@ -1158,7 +1158,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.506",
@@ -1169,7 +1169,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.506",

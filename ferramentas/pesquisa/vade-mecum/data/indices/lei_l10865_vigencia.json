@@ -79,7 +79,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.249",
@@ -90,7 +90,7 @@
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.865",
@@ -101,7 +101,7 @@
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.865",
@@ -279,7 +279,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.829",
@@ -398,7 +398,7 @@
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.097",
@@ -409,14 +409,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": null,
           "trecho": "§ 6º e 6º-A - (Revogado pela Lei nº 13.097, de 2015)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": {
             "especie": "Lei",
             "numero": "11.727",
@@ -463,7 +463,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 9",
+          "unidade": "§ 9º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.137",
@@ -474,7 +474,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 9",
+          "unidade": "§ 9º",
           "diploma": null,
           "trecho": "…ição do PIS/Pasep-Importação e da Cofins-Importação de que trata o § 9º serão de: (Incluído pela Lei nº 13.137, de 2015)",
           "literal": "(Vigência)"
@@ -922,7 +922,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 13",
+          "unidade": "§ 13º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.058",
@@ -944,7 +944,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 14",
+          "unidade": "§ 14º",
           "diploma": {
             "especie": "Lei",
             "numero": "10.925",
@@ -955,14 +955,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 14",
+          "unidade": "§ 14º",
           "diploma": null,
           "trecho": "…máquinas e equipamentos, embarcações e aeronaves utilizados na atividade da empresa. (Incluído pela Lei nº 10.925, 2004)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 15",
+          "unidade": "§ 15º",
           "diploma": {
             "especie": "Lei Complementar",
             "numero": "228",
@@ -1104,7 +1104,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 16",
+          "unidade": "§ 16º",
           "diploma": {
             "especie": "Lei",
             "numero": "11.488",
@@ -1115,14 +1115,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 16",
+          "unidade": "§ 16º",
           "diploma": null,
           "trecho": "…igo, não se aplica o disposto no § 8º deste artigo. (Incluído pela Lei nº 11.488, de 2007) (Vide Lei nº 14.183, de 2021)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 17",
+          "unidade": "§ 17º",
           "diploma": {
             "especie": "Lei",
             "numero": "11.727",
@@ -1133,7 +1133,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 18",
+          "unidade": "§ 18º",
           "diploma": {
             "especie": "Lei",
             "numero": "11.727",
@@ -1144,7 +1144,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 19",
+          "unidade": "§ 19º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.137",
@@ -1155,14 +1155,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 19",
+          "unidade": "§ 19º",
           "diploma": null,
           "trecho": "…o e pagamento referido no art. 5º da Lei nº 9.718, de 27 de novembro de 1998. (Redação dada pela Lei nº 13.137, de 2015)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 20",
+          "unidade": "§ 20º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "491",
@@ -1173,7 +1173,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 21",
+          "unidade": "§ 21º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.973",
@@ -1446,7 +1446,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 21",
+          "unidade": "§ 21º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.973",
@@ -1490,7 +1490,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 22",
+          "unidade": "§ 22º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.649",
@@ -1501,7 +1501,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 23",
+          "unidade": "§ 23º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.715",
@@ -1512,21 +1512,21 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 23",
+          "unidade": "§ 23º",
           "diploma": null,
           "trecho": "…6 e 57 da Lei nº 11.196, de 21 de novembro de 2005. (Incluído pela Lei nº 12.715, de 2012) (Vide Lei nº 14.183, de 2021)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "veto",
-          "unidade": "§ 24",
+          "unidade": "§ 24º",
           "diploma": null,
           "trecho": "§ 24.",
           "literal": "(VETADO)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 24",
+          "unidade": "§ 24º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.715",
@@ -1560,7 +1560,7 @@
         },
         {
           "tipo": "renumeracao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "10.925",
@@ -1571,14 +1571,14 @@
         },
         {
           "tipo": "veto",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "§ 2º",
           "literal": "(VETADO)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "10.925",
@@ -1632,7 +1632,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.137",
@@ -1643,14 +1643,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "… o § 21 do art. 8º não gera direito ao desconto do crédito de que trata o caput . (Incluído pela Lei nº 13.137, de 2015)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.440",
@@ -1661,7 +1661,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.137",
@@ -1672,7 +1672,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "…valor do IPI vinculado à importação, quando integrante do custo de aquisição. (Redação dada pela Lei nº 13.137, de 2015)",
           "literal": "(Vigência)"
@@ -1708,7 +1708,7 @@
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 9",
+          "unidade": "§ 9º",
           "diploma": {
             "especie": "Lei",
             "numero": "11.727",
@@ -1719,7 +1719,7 @@
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 10",
+          "unidade": "§ 10º",
           "diploma": {
             "especie": "Lei",
             "numero": "11.727",
@@ -1730,7 +1730,7 @@
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 11",
+          "unidade": "§ 11º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.097",
@@ -1741,14 +1741,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 11",
+          "unidade": "§ 11º",
           "diploma": null,
           "trecho": "§ 11. (Revogado pela Lei nº 13.097, de 2015)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 12",
+          "unidade": "§ 12º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.097",
@@ -1759,14 +1759,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 12",
+          "unidade": "§ 12º",
           "diploma": null,
           "trecho": "§ 12. (Revogado pela Lei nº 13.097, de 2015)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 13",
+          "unidade": "§ 13º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.973",
@@ -1777,7 +1777,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 13",
+          "unidade": "§ 13º",
           "diploma": null,
           "trecho": "§ 13. No cálculo do crédito de que trata o inciso V do caput : (Incluído pela Lei nº 12.973, de 2014)",
           "literal": "(Vigência)"
@@ -1820,7 +1820,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 14",
+          "unidade": "§ 14º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.973",
@@ -1831,7 +1831,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 14",
+          "unidade": "§ 14º",
           "diploma": null,
           "trecho": "…no caso de bem objeto de arrendamento mercantil, na pessoa jurídica arrendatária. (Incluído pela Lei nº 12.973, de 2014)",
           "literal": "(Vigência)"
@@ -1843,7 +1843,7 @@
       "eventos": [
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "11.945",
@@ -1854,7 +1854,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "11.945",
@@ -1939,7 +1939,7 @@
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "10.925",
@@ -1950,7 +1950,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.137",
@@ -1961,14 +1961,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…s no art. 8º , conforme o caso, sobre o valor de que trata o § 3º do art. 15. (Redação dada pela Lei nº 13.137, de 2015)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.137",
@@ -1979,14 +1979,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "… o § 21 do art. 8º não gera direito ao desconto do crédito de que trata o caput . (Incluído pela Lei nº 13.137, de 2015)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.097",
@@ -1997,14 +1997,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "§ 3º (Revogado pela Lei nº 13.097, de 2015)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "10.925",
@@ -2015,7 +2015,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.097",
@@ -2026,14 +2026,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": null,
           "trecho": "…os vasilhames, de acordo com regulamentação da Secretaria da Receita Federal. (Redação dada pela Lei nº 13.097, de 2015)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": {
             "especie": "Lei",
             "numero": "11.051",
@@ -2044,7 +2044,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 8",
+          "unidade": "§ 8º",
           "diploma": {
             "especie": "Lei",
             "numero": "11.051",
@@ -2092,7 +2092,7 @@
       "eventos": [
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.973",
@@ -2103,7 +2103,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "…ta o inciso VIII do caput do art. 183 da Lei nº 6.404, de 15 de dezembro de 1976. (Incluído pela Lei nº 12.973, de 2014)",
           "literal": "(Vigência)"
@@ -2537,7 +2537,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.715",
@@ -2548,7 +2548,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Lei",
             "numero": "11.051",
@@ -2559,7 +2559,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": {
             "especie": "Lei",
             "numero": "11.482",
@@ -2570,7 +2570,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": {
             "especie": "Lei",
             "numero": "11.774",
@@ -2603,7 +2603,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": {
             "especie": "Lei",
             "numero": "11.488",
@@ -2614,7 +2614,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 8",
+          "unidade": "§ 8º",
           "diploma": {
             "especie": "Lei",
             "numero": "11.488",
@@ -2625,7 +2625,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 9",
+          "unidade": "§ 9º",
           "diploma": {
             "especie": "Lei",
             "numero": "11.488",
@@ -2636,7 +2636,7 @@
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 10",
+          "unidade": "§ 10º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.712",
@@ -2663,7 +2663,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "11.727",
@@ -2674,7 +2674,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "11.727",
@@ -2685,7 +2685,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "11.727",
@@ -2712,7 +2712,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "11.452",
@@ -2723,14 +2723,14 @@
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "§ 2º",
           "literal": "(Revogado)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "11.452",
@@ -2741,14 +2741,14 @@
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "§ 3º",
           "literal": "(Revogado)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "11.452",
@@ -2771,7 +2771,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "10.925",
@@ -2803,7 +2803,7 @@
       "eventos": [
         {
           "tipo": "veto",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "§ 2º",
           "literal": "(VETADO)"

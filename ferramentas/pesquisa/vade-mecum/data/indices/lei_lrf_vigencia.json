@@ -108,7 +108,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Lei Complementar",
             "numero": "200",
@@ -185,7 +185,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": {
             "especie": "Lei Complementar",
             "numero": "200",
@@ -196,7 +196,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": {
             "especie": "Lei Complementar",
             "numero": "200",
@@ -241,14 +241,14 @@
         },
         {
           "tipo": "veto",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": null,
           "trecho": "§ 7o",
           "literal": "(VETADO)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 8",
+          "unidade": "§ 8º",
           "diploma": {
             "especie": "Lei Complementar",
             "numero": "224",
@@ -276,7 +276,7 @@
       "eventos": [
         {
           "tipo": "redacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei Complementar",
             "numero": "177",
@@ -287,7 +287,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei Complementar",
             "numero": "200",
@@ -385,7 +385,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei Complementar",
             "numero": "224",
@@ -396,7 +396,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei Complementar",
             "numero": "224",
@@ -407,7 +407,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei Complementar",
             "numero": "224",
@@ -418,7 +418,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei Complementar",
             "numero": "224",
@@ -429,7 +429,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Lei Complementar",
             "numero": "224",
@@ -489,7 +489,7 @@
       "eventos": [
         {
           "tipo": "redacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei Complementar",
             "numero": "178",
@@ -500,7 +500,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei Complementar",
             "numero": "178",
@@ -538,7 +538,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei Complementar",
             "numero": "178",
@@ -554,14 +554,14 @@
       "eventos": [
         {
           "tipo": "veto",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": null,
           "trecho": "§ 6o",
           "literal": "(VETADO)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": {
             "especie": "Lei Complementar",
             "numero": "178",
@@ -665,7 +665,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei Complementar",
             "numero": "173",
@@ -698,7 +698,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei Complementar",
             "numero": "173",
@@ -714,7 +714,7 @@
       "eventos": [
         {
           "tipo": "redacao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei Complementar",
             "numero": "178",
@@ -736,7 +736,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Lei Complementar",
             "numero": "164",
@@ -769,7 +769,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": {
             "especie": "Lei Complementar",
             "numero": "164",
@@ -843,7 +843,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": {
             "especie": "Lei Complementar",
             "numero": "159",
@@ -854,7 +854,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": {
             "especie": "Lei Complementar",
             "numero": "178",
@@ -870,7 +870,7 @@
       "eventos": [
         {
           "tipo": "redacao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei Complementar",
             "numero": "178",
@@ -924,21 +924,21 @@
         },
         {
           "tipo": "veto",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "§ 3o",
           "literal": "(VETADO)"
         },
         {
           "tipo": "veto",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "§ 4o",
           "literal": "(VETADO)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 11",
+          "unidade": "§ 11º",
           "diploma": {
             "especie": "Lei Complementar",
             "numero": "178",
@@ -1016,7 +1016,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei Complementar",
             "numero": "156",
@@ -1082,7 +1082,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei Complementar",
             "numero": "156",
@@ -1093,7 +1093,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei Complementar",
             "numero": "156",
@@ -1104,7 +1104,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei Complementar",
             "numero": "156",
@@ -1115,7 +1115,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Lei Complementar",
             "numero": "156",
@@ -1126,7 +1126,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": {
             "especie": "Lei Complementar",
             "numero": "156",
@@ -1180,7 +1180,7 @@
       "eventos": [
         {
           "tipo": "redacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei Complementar",
             "numero": "178",
@@ -1191,14 +1191,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…caminharão suas contas ao Poder Executivo da União até 30 de abril. (Redação dada pela Lei Complementar nº 178, de 2021)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei Complementar",
             "numero": "178",
@@ -1209,7 +1209,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…de crédito, exceto as destinadas ao pagamento da dívida mobiliária. (Redação dada pela Lei Complementar nº 178, de 2021)",
           "literal": "(Vigência)"
@@ -1249,7 +1249,7 @@
       "eventos": [
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei Complementar",
             "numero": "212",
@@ -1265,7 +1265,7 @@
       "eventos": [
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei Complementar",
             "numero": "173",
@@ -1353,7 +1353,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei Complementar",
             "numero": "173",
@@ -1408,7 +1408,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei Complementar",
             "numero": "173",

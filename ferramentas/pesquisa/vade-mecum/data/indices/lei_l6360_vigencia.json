@@ -138,7 +138,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "6.480",
@@ -149,7 +149,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.236",
@@ -160,7 +160,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.236",
@@ -171,7 +171,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": null,
           "trecho": "…dispensação e de administração de medicamentos, drogas e produtos correlatos. (Redação dada pela Lei nº 13.236, de 2015)",
           "literal": "(Vigência)"
@@ -183,7 +183,7 @@
       "eventos": [
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.097",
@@ -194,7 +194,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.411",
@@ -205,14 +205,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "…de inobservância, por parte do requerente, a esta Lei ou a seus regulamentos. (Redação dada pela Lei nº 13.411, de 2016)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 8",
+          "unidade": "§ 8º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.411",
@@ -223,7 +223,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 8",
+          "unidade": "§ 8º",
           "diploma": null,
           "trecho": "§ 8o - Não será revalidado o registro: (Redação dada pela Lei nº 13.411, de 2016)",
           "literal": "(Vigência)"
@@ -266,7 +266,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 10",
+          "unidade": "§ 10º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.411",
@@ -277,7 +277,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 10",
+          "unidade": "§ 10º",
           "diploma": null,
           "trecho": "…enovação de registro, sendo obrigatória a apresentação das seguintes informações: (Incluído pela Lei nº 13.411, de 2016)",
           "literal": "(Vigência)"
@@ -475,7 +475,7 @@
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "6.480",
@@ -486,7 +486,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "10.742",
@@ -497,7 +497,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "10.742",
@@ -567,7 +567,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.411",
@@ -578,7 +578,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…quadramento do medicamento sob avaliação nas seguintes categorias de precedência: (Incluído pela Lei nº 13.411, de 2016)",
           "literal": "(Vigência)"
@@ -621,7 +621,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.411",
@@ -632,7 +632,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…os de registro e de alteração pós-registro de medicamento serão, respectivamente: (Incluído pela Lei nº 13.411, de 2016)",
           "literal": "(Vigência)"
@@ -675,7 +675,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.411",
@@ -686,14 +686,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "…presumida pela não manifestação contrária da Anvisa nos prazos definidos no § 2o. (Incluído pela Lei nº 13.411, de 2016)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.411",
@@ -704,14 +704,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "…a qualquer tempo, em caso de indeferimento da alteração pós-registro pela Anvisa. (Incluído pela Lei nº 13.411, de 2016)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.411",
@@ -722,14 +722,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": null,
           "trecho": "…isa expedida em, no mínimo, quinze dias úteis antes do término do prazo original. (Incluído pela Lei nº 13.411, de 2016)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.411",
@@ -740,14 +740,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": null,
           "trecho": "…penderão a contagem dos prazos determinados neste artigo até que sejam atendidas. (Incluído pela Lei nº 13.411, de 2016)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.411",
@@ -758,14 +758,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": null,
           "trecho": "…dores que lhe derem causa, nos termos da Lei no 8.112, de 11 de dezembro de 1990. (Incluído pela Lei nº 13.411, de 2016)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 8",
+          "unidade": "§ 8º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.411",
@@ -776,14 +776,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 8",
+          "unidade": "§ 8º",
           "diploma": null,
           "trecho": "…s de que trata o caput, com vistas ao enquadramento nas categorias de prioridade. (Incluído pela Lei nº 13.411, de 2016)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 9",
+          "unidade": "§ 9º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.411",
@@ -794,7 +794,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 9",
+          "unidade": "§ 9º",
           "diploma": null,
           "trecho": "…os processos de registro e de cento e oitenta dias nos de alteração pós-registro. (Incluído pela Lei nº 13.411, de 2016)",
           "literal": "(Vigência)"
@@ -806,7 +806,7 @@
       "eventos": [
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "2.190-34",
@@ -817,7 +817,7 @@
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "15.440",
@@ -828,7 +828,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "2.190-34",
@@ -839,7 +839,7 @@
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "15.440",
@@ -882,7 +882,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.235",
@@ -893,14 +893,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…o tiver sido indeferido e desde que atendido o disposto no § 6º deste artigo. (Redação dada pela Lei nº 13.235, de 2015)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.235",
@@ -911,7 +911,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": null,
           "trecho": "…qualidade comprovadas de forma equivalente à adotada para o medicamento genérico. (Incluído pela Lei nº 13.235, de 2015)",
           "literal": "(Vigência)"
@@ -1025,7 +1025,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "15.154",
@@ -1036,7 +1036,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "15.154",
@@ -1079,7 +1079,7 @@
       "eventos": [
         {
           "tipo": "redacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.236",
@@ -1090,14 +1090,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…erior à metade do tamanho das letras e caracteres do nome comercial ou marca. (Redação dada pela Lei nº 13.236, de 2015)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.236",
@@ -1108,14 +1108,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…am erros de dispensação e de administração, trocas indesejadas ou uso equivocado. (Incluído pela Lei nº 13.236, de 2015)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.806",

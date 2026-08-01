@@ -75,7 +75,7 @@
       "eventos": [
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.711",
@@ -119,7 +119,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.711",
@@ -157,14 +157,14 @@
       "eventos": [
         {
           "tipo": "veto",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "§ 1º",
           "literal": "(VETADO)"
         },
         {
           "tipo": "veto",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "§ 3º",
           "literal": "(VETADO)"
@@ -183,98 +183,98 @@
       "eventos": [
         {
           "tipo": "veto",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": null,
           "trecho": "§ 5º",
           "literal": "(VETADO)"
         },
         {
           "tipo": "veto",
-          "unidade": "§ 9",
+          "unidade": "§ 9º",
           "diploma": null,
           "trecho": "§ 9º",
           "literal": "(VETADO)"
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "§ 3º",
           "literal": "(Revogado)"
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "§ 4º",
           "literal": "(Revogado)"
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": null,
           "trecho": "§ 5º",
           "literal": "(Revogado)"
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": null,
           "trecho": "§ 6º",
           "literal": "(Revogado)"
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "§ 2º",
           "literal": "(Revogado)"
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "§ 3º",
           "literal": "(Revogado)"
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "§ 4º",
           "literal": "(Revogado)"
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "§ 1º",
           "literal": "(Revogado)"
         },
         {
           "tipo": "veto",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "§ 4º",
           "literal": "(VETADO)"
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "2º)",
           "literal": "(revogado)"
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "§ 1º",
           "literal": "(Revogado)"
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "§ 2º",
           "literal": "(Revogado)"
@@ -323,7 +323,7 @@
         },
         {
           "tipo": "veto",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "§ 2º",
           "literal": "(VETADO)"
@@ -335,14 +335,14 @@
       "eventos": [
         {
           "tipo": "veto",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "§ 3º",
           "literal": "(VETADO)"
         },
         {
           "tipo": "veto",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "§ 4º",
           "literal": "(VETADO)"

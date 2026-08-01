@@ -53,7 +53,7 @@
       "eventos": [
         {
           "tipo": "inclusao",
-          "unidade": "§ 11",
+          "unidade": "§ 11º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.424",
@@ -64,7 +64,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 12",
+          "unidade": "§ 12º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.424",
@@ -75,7 +75,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 13",
+          "unidade": "§ 13º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.424",
@@ -86,7 +86,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 14",
+          "unidade": "§ 14º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.424",
@@ -97,7 +97,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 15",
+          "unidade": "§ 15º",
           "diploma": {
             "especie": "Lei",
             "numero": "15.300",
@@ -132,7 +132,7 @@
         },
         {
           "tipo": "veto",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "§ 2º",
           "literal": "(VETADO)"

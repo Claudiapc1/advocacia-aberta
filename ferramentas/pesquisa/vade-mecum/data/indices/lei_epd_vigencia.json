@@ -41,14 +41,14 @@
       "eventos": [
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…ência, quando necessária, será biopsicossocial, realizada por equipe multiprofissional e interdisciplinar e considerará:",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.724",
@@ -75,7 +75,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.624",
@@ -86,7 +86,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.624",
@@ -220,7 +220,7 @@
       "eventos": [
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "15.249",
@@ -236,7 +236,7 @@
       "eventos": [
         {
           "tipo": "vigencia",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": null,
           "trecho": "§ 6º As salas de cinema devem oferecer, em todas as sessões, recursos de acessibilidade para a pessoa com deficiência.",
           "literal": "(Vigência)"
@@ -255,7 +255,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.978",
@@ -271,7 +271,7 @@
       "eventos": [
         {
           "tipo": "redacao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.281",
@@ -282,7 +282,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "… da Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro) . (Redação dada pela Lei nº 13.281, de 2016)",
           "literal": "(Vigência)"
@@ -414,7 +414,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "15.163",
@@ -425,7 +425,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "15.163",
@@ -436,7 +436,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "15.163",
@@ -447,7 +447,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "15.163",
@@ -458,7 +458,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "15.163",
@@ -474,14 +474,14 @@
       "eventos": [
         {
           "tipo": "veto",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "§ 4º",
           "literal": "(VETADO)"
         },
         {
           "tipo": "veto",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "“Art. 93.",
           "literal": "(VETADO)"
@@ -523,7 +523,7 @@
         },
         {
           "tipo": "veto",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "§ 4º",
           "literal": "(VETADO)"
@@ -547,7 +547,7 @@
       "eventos": [
         {
           "tipo": "veto",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "“Art. 154.",
           "literal": "(VETADO)"

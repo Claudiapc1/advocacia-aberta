@@ -41,7 +41,7 @@
       "eventos": [
         {
           "tipo": "veto",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "§ 4º",
           "literal": "(VETADO)"
@@ -87,7 +87,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.058",
@@ -98,14 +98,14 @@
         },
         {
           "tipo": "veto",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "§ 2o",
           "literal": "(VETADO)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.058",
@@ -116,14 +116,14 @@
         },
         {
           "tipo": "veto",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "§ 3o",
           "literal": "(VETADO)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.058",
@@ -480,28 +480,28 @@
         },
         {
           "tipo": "veto",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "§ 1º",
           "literal": "(VETADO)"
         },
         {
           "tipo": "veto",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "§ 2º",
           "literal": "(VETADO)"
         },
         {
           "tipo": "veto",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "§ 3º",
           "literal": "(VETADO)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.599",
@@ -512,7 +512,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.599",
@@ -523,7 +523,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.071",
@@ -534,14 +534,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": null,
           "trecho": "…mo executivo de trânsito da União atuar como Secretário-Executivo do Contran. (Redação dada pela Lei nº 14.071, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.071",
@@ -552,7 +552,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": null,
           "trecho": "§ 6º O quórum de votação e de aprovação no Contran é o de maioria absoluta. (Redação dada pela Lei nº 14.071, de 2020)",
           "literal": "(Vigência)"
@@ -667,7 +667,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.071",
@@ -678,14 +678,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "… pelo período mínimo de 30 (trinta) dias, antes do exame da matéria pelo Contran. (Incluído pela Lei nº 14.071, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.071",
@@ -696,14 +696,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…pelo prazo de 2 (dois) anos, contado da data de encerramento da consulta pública. (Incluído pela Lei nº 14.071, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.599",
@@ -714,7 +714,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.599",
@@ -747,7 +747,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.599",
@@ -763,7 +763,7 @@
       "eventos": [
         {
           "tipo": "redacao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.071",
@@ -774,14 +774,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "…ados no Contran, conforme definido no ato de criação de cada Câmara Temática. (Redação dada pela Lei nº 14.071, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "veto",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "§ 4º",
           "literal": "(VETADO)"
@@ -954,14 +954,14 @@
         },
         {
           "tipo": "veto",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "§ 4º",
           "literal": "(VETADO)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.281",
@@ -972,14 +972,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "§ 4º (VETADO). (Incluído pela Lei nº 13.281, de 2016)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.861",
@@ -1190,7 +1190,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.599",
@@ -1223,7 +1223,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.599",
@@ -1438,7 +1438,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.071",
@@ -1449,14 +1449,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…por meio da prefeitura municipal, conforme previsto no art. 333 deste Código. (Redação dada pela Lei nº 14.071, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.599",
@@ -1467,7 +1467,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.599",
@@ -1510,7 +1510,7 @@
       "eventos": [
         {
           "tipo": "redacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.071",
@@ -1521,14 +1521,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…a ser estabelecido entre as partes, com ressarcimento dos custos apropriados. (Redação dada pela Lei nº 14.071, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.071",
@@ -1539,7 +1539,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…acional de Trânsito, permitido, inclusive, o consórcio com outro ente federativo. (Incluído pela Lei nº 14.071, de 2020)",
           "literal": "(Vigência)"
@@ -1718,7 +1718,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.071",
@@ -1729,14 +1729,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "…e sonoro e iluminação intermitente previstos no inciso VII do caput deste artigo. (Incluído pela Lei nº 14.071, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.071",
@@ -1747,7 +1747,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "…adas no inciso VII do caput deste artigo aos veículos oficiais descaracterizados. (Incluído pela Lei nº 14.071, de 2020)",
           "literal": "(Vigência)"
@@ -1838,7 +1838,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.071",
@@ -1849,14 +1849,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…clomotores deverão utilizar-se de farol de luz baixa durante o dia e à noite. (Redação dada pela Lei nº 14.071, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.071",
@@ -1867,7 +1867,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…ovias de pista simples situadas fora dos perímetros urbanos, mesmo durante o dia. (Incluído pela Lei nº 14.071, de 2020)",
           "literal": "(Vigência)"
@@ -2237,14 +2237,14 @@
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "§ 1o",
           "literal": "(Revogado)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.103",
@@ -2255,21 +2255,21 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "§ 1o (Revogado). (Redação dada pela Lei nº 13.103, de 2015)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "§ 2o",
           "literal": "(Revogado)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.103",
@@ -2280,21 +2280,21 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "§ 2o (Revogado). (Redação dada pela Lei nº 13.103, de 2015)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "§ 3o",
           "literal": "(Revogado)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.103",
@@ -2305,21 +2305,21 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "§ 3o (Revogado). (Redação dada pela Lei nº 13.103, de 2015)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "§ 4o",
           "literal": "(Revogado)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.103",
@@ -2330,21 +2330,21 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "§ 4o (Revogado). (Redação dada pela Lei nº 13.103, de 2015)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": null,
           "trecho": "§ 5o",
           "literal": "(Revogado)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.103",
@@ -2355,21 +2355,21 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": null,
           "trecho": "§ 5o (Revogado). (Redação dada pela Lei nº 13.103, de 2015)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": null,
           "trecho": "§ 6o",
           "literal": "(Revogado)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.103",
@@ -2380,21 +2380,21 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": null,
           "trecho": "§ 6o (Revogado). (Redação dada pela Lei nº 13.103, de 2015)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": null,
           "trecho": "§ 7o",
           "literal": "(Revogado)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.103",
@@ -2405,21 +2405,21 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": null,
           "trecho": "§ 7o (Revogado). (Redação dada pela Lei nº 13.103, de 2015)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "veto",
-          "unidade": "§ 8",
+          "unidade": "§ 8º",
           "diploma": null,
           "trecho": "§ 8o",
           "literal": "(VETADO)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 8",
+          "unidade": "§ 8º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.619",
@@ -2430,7 +2430,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 8",
+          "unidade": "§ 8º",
           "diploma": null,
           "trecho": "§ 8o (VETADO). (Incluído Lei nº 12.619, de 2012)",
           "literal": "(Vigência)"
@@ -2483,7 +2483,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.103",
@@ -2494,14 +2494,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "… que não ultrapassadas 5 (cinco) horas e meia contínuas no exercício da condução. (Incluído pela Lei nº 13.103, de 2015)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.103",
@@ -2512,14 +2512,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…ário de passageiros, sendo facultado o seu fracionamento e o do tempo de direção. (Incluído pela Lei nº 13.103, de 2015)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.103",
@@ -2530,14 +2530,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…endimento demandados, desde que não haja comprometimento da segurança rodoviária. (Incluído pela Lei nº 13.103, de 2015)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.103",
@@ -2548,14 +2548,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "…no § 1o, observadas no primeiro período 8 (oito) horas ininterruptas de descanso. (Incluído pela Lei nº 13.103, de 2015)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.103",
@@ -2566,14 +2566,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "… o condutor estiver efetivamente ao volante, em curso entre a origem e o destino. (Incluído pela Lei nº 13.103, de 2015)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.103",
@@ -2584,14 +2584,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": null,
           "trecho": "…iderando-se como sua continuação as partidas nos dias subsequentes até o destino. (Incluído pela Lei nº 13.103, de 2015)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.103",
@@ -2602,14 +2602,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": null,
           "trecho": "…ós o cumprimento integral do intervalo de descanso previsto no § 3o deste artigo. (Incluído pela Lei nº 13.103, de 2015)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.103",
@@ -2620,14 +2620,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": null,
           "trecho": "…ado, que conduza veículo referido no caput sem a observância do disposto no § 6o. (Incluído pela Lei nº 13.103, de 2015)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 8",
+          "unidade": "§ 8º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.599",
@@ -2638,7 +2638,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 9",
+          "unidade": "§ 9º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.440",
@@ -2702,7 +2702,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.103",
@@ -2713,14 +2713,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "… o motorista profissional às penalidades daí decorrentes, previstas neste Código. (Incluído pela Lei nº 13.103, de 2015)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.440",
@@ -2731,7 +2731,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.103",
@@ -2742,14 +2742,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…terno, ou por meios eletrônicos instalados no veículo, conforme norma do Contran. (Incluído pela Lei nº 13.103, de 2015)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.103",
@@ -2760,14 +2760,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "…independente de qualquer interferência do condutor, quanto aos dados registrados. (Incluído pela Lei nº 13.103, de 2015)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.103",
@@ -2778,7 +2778,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "…antâneo inalterável de velocidade e de tempo são de responsabilidade do condutor. (Incluído pela Lei nº 13.103, de 2015)",
           "literal": "(Vigência)"
@@ -2790,7 +2790,7 @@
       "eventos": [
         {
           "tipo": "veto",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "§ 4º",
           "literal": "(VETADO)"
@@ -2872,7 +2872,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.006",
@@ -2905,7 +2905,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.006",
@@ -2971,7 +2971,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.006",
@@ -3070,7 +3070,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.006",
@@ -3081,7 +3081,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.006",
@@ -3154,7 +3154,7 @@
       "eventos": [
         {
           "tipo": "redacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.599",
@@ -3165,7 +3165,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.281",
@@ -3176,7 +3176,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "…stacionamento de estabelecimentos privados de uso coletivo é de seu proprietário. (Incluído pela Lei nº 13.281, de 2016)",
           "literal": "(Vigência)"
@@ -3223,7 +3223,7 @@
       "eventos": [
         {
           "tipo": "redacao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.281",
@@ -3234,7 +3234,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "… em consideração a dimensão da obra ou do evento e o prejuízo causado ao trânsito. (Redação pela Lei nº 13.281, de 2016)",
           "literal": "(Vigência)"
@@ -3412,7 +3412,7 @@
       "eventos": [
         {
           "tipo": "redacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.071",
@@ -3423,14 +3423,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…o proprietário do veículo a responsabilidade pelo cumprimento das exigências. (Redação dada pela Lei nº 14.071, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.071",
@@ -3441,7 +3441,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…observadas restrições impostas pelo fabricante e exigências fixadas pelo Contran. (Incluído pela Lei nº 14.071, de 2020)",
           "literal": "(Vigência)"
@@ -3453,7 +3453,7 @@
       "eventos": [
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.229",
@@ -3464,14 +3464,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "…ulos ultrapassar os limites de peso fixados, acrescidos da respectiva tolerância. (Incluído pela Lei nº 14.229, de 2021)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.229",
@@ -3482,7 +3482,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": null,
           "trecho": "…o e no Renavam o limite técnico de peso por eixo, na forma definida pelo Contran. (Incluído pela Lei nº 14.229, de 2021)",
           "literal": "(Vigência)"
@@ -3494,7 +3494,7 @@
       "eventos": [
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.281",
@@ -3505,14 +3505,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…s de transporte coletivo de passageiros poderão ser dotados de pneus extralargos. (Incluído pela Lei nº 13.281, de 2016)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.281",
@@ -3523,14 +3523,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "§ 2º O Contran regulamentará o uso de pneus extralargos para os demais veículos. (Incluído pela Lei nº 13.281, de 2016)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.281",
@@ -3541,7 +3541,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "…ageiros de até 15 m (quinze metros) de comprimento na configuração de chassi 8x2. (Incluído pela Lei nº 13.281, de 2016)",
           "literal": "(Vigência)"
@@ -3571,7 +3571,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.229",
@@ -3582,7 +3582,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "…ntada, os quais deverão contemplar o caráter diferenciado e regional dessas vias. (Incluído pela Lei nº 14.229, de 2021)",
           "literal": "(Vigência)"
@@ -3594,7 +3594,7 @@
       "eventos": [
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.599",
@@ -3610,35 +3610,35 @@
       "eventos": [
         {
           "tipo": "veto",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "§ 1º",
           "literal": "(VETADO)"
         },
         {
           "tipo": "veto",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "§ 2º",
           "literal": "(VETADO)"
         },
         {
           "tipo": "veto",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "§ 3º",
           "literal": "(VETADO)"
         },
         {
           "tipo": "veto",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "§ 4º",
           "literal": "(VETADO)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.599",
@@ -3649,7 +3649,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.599",
@@ -3701,7 +3701,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Lei",
             "numero": "11.910",
@@ -3712,7 +3712,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": {
             "especie": "Lei",
             "numero": "11.910",
@@ -3806,7 +3806,7 @@
       "eventos": [
         {
           "tipo": "redacao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.154",
@@ -3817,7 +3817,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.599",
@@ -3828,7 +3828,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.694",
@@ -3839,7 +3839,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 8",
+          "unidade": "§ 8º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.154",
@@ -3850,7 +3850,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 9",
+          "unidade": "§ 9º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.281",
@@ -3861,14 +3861,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 9",
+          "unidade": "§ 9º",
           "diploma": null,
           "trecho": "…utilização do lacre previsto no caput, na forma a ser regulamentada pelo Contran. (Incluído pela Lei nº 13.281, de 2016)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 10",
+          "unidade": "§ 10º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.157",
@@ -3911,7 +3911,7 @@
       "eventos": [
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.281",
@@ -3922,14 +3922,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…endentemente da fase do processo administrativo ou judicial envolvendo a questão. (Incluído pela Lei nº 13.281, de 2016)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "13",
@@ -3940,7 +3940,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…circulação no território nacional serão retidos até a regularização da situação. (Incluído pela Lei nº 13. 281, de 2016)",
           "literal": "(Vigência)"
@@ -3991,7 +3991,7 @@
       "eventos": [
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "15.153",
@@ -4114,7 +4114,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.440",
@@ -4125,7 +4125,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.440",
@@ -4241,7 +4241,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.229",
@@ -4252,7 +4252,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.071",
@@ -4263,14 +4263,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": null,
           "trecho": "… campanhas de chamamento de consumidores para substituição ou reparo de veículos. (Incluído pela Lei nº 14.071, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.229",
@@ -4281,7 +4281,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.599",
@@ -4297,7 +4297,7 @@
       "eventos": [
         {
           "tipo": "renumeracao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.103",
@@ -4308,14 +4308,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…fândega ou entreposto alfandegário e o Município de destino. (Renumerado do parágrafo único pela Lei nº 13.103, de 2015)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.154",
@@ -4503,7 +4503,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.009",
@@ -4514,7 +4514,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.009",
@@ -4573,7 +4573,7 @@
         },
         {
           "tipo": "veto",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "§ 2º",
           "literal": "(VETADO)"
@@ -4618,7 +4618,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.440",
@@ -4629,7 +4629,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.452",
@@ -4640,7 +4640,7 @@
         },
         {
           "tipo": "renumeracao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.452",
@@ -4651,7 +4651,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.440",
@@ -4719,14 +4719,14 @@
         },
         {
           "tipo": "veto",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "§ 2o",
           "literal": "(VETADO)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.154",
@@ -4783,7 +4783,7 @@
         },
         {
           "tipo": "renumeracao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "9.602",
@@ -4794,7 +4794,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.071",
@@ -4805,7 +4805,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…cílio do examinado, será preliminar e renovável com a seguinte periodicidade: (Redação dada pela Lei nº 14.071, de 2020)",
           "literal": "(Vigência)"
@@ -4866,7 +4866,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "10.350",
@@ -4877,7 +4877,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.071",
@@ -4888,14 +4888,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "…o § 2º deste artigo poderão ser diminuídos por proposta do perito examinador. (Redação dada pela Lei nº 14.071, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Lei",
             "numero": "10.350",
@@ -4906,7 +4906,7 @@
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": {
             "especie": "Lei",
             "numero": "15.428",
@@ -4917,7 +4917,7 @@
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": {
             "especie": "Lei",
             "numero": "15.428",
@@ -4951,7 +4951,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.146",
@@ -4962,14 +4962,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…eio de subtitulação com legenda oculta associada à tradução simultânea em Libras. (Incluído pela Lei nº 13.146, de 2015)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.146",
@@ -4980,7 +4980,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…rviços de intérprete da Libras, para acompanhamento em aulas práticas e teóricas. (Incluído pela Lei nº 13.146, de 2015)",
           "literal": "(Vigência)"
@@ -4992,7 +4992,7 @@
       "eventos": [
         {
           "tipo": "inclusao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Lei",
             "numero": "9.602",
@@ -5003,7 +5003,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": {
             "especie": "Lei",
             "numero": "15.428",
@@ -5014,7 +5014,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": {
             "especie": "Lei",
             "numero": "15.428",
@@ -5048,7 +5048,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.103",
@@ -5059,14 +5059,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…janela de detecção mínima de 90 (noventa) dias, nos termos das normas do Contran. (Incluído pela Lei nº 13.103, de 2015)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.071",
@@ -5077,21 +5077,21 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "… dos demais exames de que trata o inciso I do caput do art. 147 deste Código. (Redação dada pela Lei nº 14.071, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "§ 3º",
           "literal": "(Revogado)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.071",
@@ -5102,14 +5102,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "§ 3º (Revogado). (Redação dada pela Lei nº 14.071, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.071",
@@ -5120,14 +5120,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "…vo para os exames de que trata este artigo, nos termos das normas do Contran. (Redação dada pela Lei nº 14.071, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.599",
@@ -5167,7 +5167,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.103",
@@ -5178,14 +5178,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": null,
           "trecho": "…eis do Trabalho - CLT, aprovada pelo Decreto-Lei no 5.452, de 1o de maio de 1943. (Incluído pela Lei nº 13.103, de 2015)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.440",
@@ -5250,7 +5250,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 8",
+          "unidade": "§ 8º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.599",
@@ -5283,7 +5283,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 9",
+          "unidade": "§ 9º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.599",
@@ -5294,7 +5294,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 10",
+          "unidade": "§ 10º",
           "diploma": {
             "especie": "Lei",
             "numero": "15.153",
@@ -5305,7 +5305,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 11",
+          "unidade": "§ 11º",
           "diploma": {
             "especie": "Lei",
             "numero": "15.153",
@@ -5374,7 +5374,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.281",
@@ -5385,14 +5385,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…curso, desde que neles sejam observadas as normas estabelecidas pelo Contran. (Redação dada pela Lei nº 13.281, de 2016)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.281",
@@ -5403,14 +5403,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "… se habilitou a conduzir, acompanhado de cópia das atas dos exames prestados. (Redação dada pela Lei nº 13.281, de 2016)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "veto",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "§ 4º",
           "literal": "(VETADO)"
@@ -5422,7 +5422,7 @@
       "eventos": [
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.921",
@@ -5433,7 +5433,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.921",
@@ -5521,7 +5521,7 @@
       "eventos": [
         {
           "tipo": "renumeracao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.217",
@@ -5532,7 +5532,7 @@
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.071",
@@ -5543,7 +5543,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "§ 2o (Revogado pela Lei nº 14.071, de 2020)",
           "literal": "(Vigência)"
@@ -5599,7 +5599,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.071",
@@ -5610,35 +5610,35 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…ter acesso ao sistema informatizado para verificar se o condutor está habilitado. (Incluído pela Lei nº 14.071, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "veto",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "§ 2º",
           "literal": "(VETADO)"
         },
         {
           "tipo": "veto",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "§ 4º",
           "literal": "(VETADO)"
         },
         {
           "tipo": "veto",
-          "unidade": "§ 9",
+          "unidade": "§ 9º",
           "diploma": null,
           "trecho": "§ 9º",
           "literal": "(VETADO)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 10",
+          "unidade": "§ 10º",
           "diploma": {
             "especie": "Lei",
             "numero": "9.602",
@@ -5649,14 +5649,14 @@
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 11",
+          "unidade": "§ 11º",
           "diploma": null,
           "trecho": "§ 11.",
           "literal": "(Revogado)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 11",
+          "unidade": "§ 11º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.071",
@@ -5667,14 +5667,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 11",
+          "unidade": "§ 11º",
           "diploma": null,
           "trecho": "§ 11. (Revogado). (Redação dada pela Lei nº 14.071, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 12",
+          "unidade": "§ 12º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.071",
@@ -5685,7 +5685,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 12",
+          "unidade": "§ 12º",
           "diploma": null,
           "trecho": "…condutores cadastrados no Renach com endereço na respectiva unidade da Federação. (Incluído pela Lei nº 14.071, de 2020)",
           "literal": "(Vigência)"
@@ -5697,7 +5697,7 @@
       "eventos": [
         {
           "tipo": "redacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.599",
@@ -6459,7 +6459,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.971",
@@ -6470,14 +6470,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "§ 1o As penalidades são aplicáveis aos promotores e aos condutores participantes. (Incluído pela Lei nº 12.971, de 2014)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "… caput em caso de reincidência no período de 12 (doze) meses da infração anterior. Incluído pela Lei nº 12.971, de 2014)",
           "literal": "(Vigência)"
@@ -7439,7 +7439,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.103",
@@ -7450,14 +7450,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…ertida, automaticamente, a penalidade disposta no inciso XXIII em infração grave. (Incluído pela Lei nº 13.103, de 2015)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.103",
@@ -7468,7 +7468,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…a condicionada ao pagamento ou ao depósito, judicial ou administrativo, da multa. (Incluído pela Lei nº 13.103, de 2015)",
           "literal": "(Vigência)"
@@ -8073,7 +8073,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "10.517",
@@ -8335,7 +8335,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.281",
@@ -8346,7 +8346,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.281",
@@ -8357,7 +8357,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.281",
@@ -8391,14 +8391,14 @@
         },
         {
           "tipo": "veto",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "§ 1º",
           "literal": "(VETADO)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.281",
@@ -8409,14 +8409,14 @@
         },
         {
           "tipo": "veto",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "§ 2º",
           "literal": "(VETADO)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.281",
@@ -8427,14 +8427,14 @@
         },
         {
           "tipo": "veto",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "§ 3º",
           "literal": "(VETADO)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.281",
@@ -8468,7 +8468,7 @@
         },
         {
           "tipo": "veto",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "§ 2º",
           "literal": "(VETADO)"
@@ -8480,7 +8480,7 @@
       "eventos": [
         {
           "tipo": "redacao",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.071",
@@ -8491,14 +8491,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": null,
           "trecho": "…infração o principal condutor ou, em sua ausência, o proprietário do veículo. (Redação dada pela Lei nº 14.071, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 8",
+          "unidade": "§ 8º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.229",
@@ -8509,14 +8509,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 8",
+          "unidade": "§ 8º",
           "diploma": null,
           "trecho": "…sição de recursos previstos neste Código, na forma estabelecida pelo Contran. (Redação dada pela Lei nº 14.229, de 2021)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 10",
+          "unidade": "§ 10º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.495",
@@ -8527,14 +8527,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 10",
+          "unidade": "§ 10º",
           "diploma": null,
           "trecho": "…ndicação, terá seu nome inscrito em campo próprio do cadastro do veículo no Renavam. (Incluído pela Lei nº 13.495, 2017)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 11",
+          "unidade": "§ 11º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.495",
@@ -8545,7 +8545,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 11",
+          "unidade": "§ 11º",
           "diploma": null,
           "trecho": "§ 11. O principal condutor será excluído do Renavam: (Incluído pela Lei nº 13.495, 2017)",
           "literal": "(Vigência)"
@@ -8683,14 +8683,14 @@
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "§ 1º",
           "literal": "(Revogado)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.281",
@@ -8701,21 +8701,21 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "§ 1º (Revogado). (Redação dada pela Lei nº 13.281, de 2016)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "veto",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "§ 3º",
           "literal": "(VETADO)"
         },
         {
           "tipo": "veto",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "§ 4º",
           "literal": "(VETADO)"
@@ -8727,28 +8727,28 @@
       "eventos": [
         {
           "tipo": "veto",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "§ 1º",
           "literal": "(VETADO)"
         },
         {
           "tipo": "veto",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "§ 2º",
           "literal": "(VETADO)"
         },
         {
           "tipo": "veto",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "§ 3o",
           "literal": "(VETADO)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.619",
@@ -8759,14 +8759,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "§ 3o (VETADO). (Incluído pela Lei nº 12.619, de 2012)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.071",
@@ -8822,7 +8822,7 @@
       "eventos": [
         {
           "tipo": "revogacao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "9.602",
@@ -8971,7 +8971,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.281",
@@ -8982,7 +8982,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "… aplicação da penalidade de suspensão do direito de dirigir são os seguintes: (Redação dada pela Lei nº 13.281, de 2016)",
           "literal": "(Vigência)"
@@ -9050,7 +9050,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.071",
@@ -9061,21 +9061,21 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "…inciso I do caput ou no § 5º deste artigo, para fins de contagem subsequente. (Redação dada pela Lei nº 14.071, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "veto",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "§ 4o",
           "literal": "(VETADO)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.619",
@@ -9086,14 +9086,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "§ 4o (VETADO). (Incluído pela Lei nº 12.619, de 2012)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.071",
@@ -9104,14 +9104,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": null,
           "trecho": "…(doze) meses, atingir 30 (trinta) pontos, conforme regulamentação do Contran. (Redação dada pela Lei nº 14.071, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.154",
@@ -9122,7 +9122,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.281",
@@ -9133,14 +9133,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": null,
           "trecho": "…o previsto no § 5º não poderá fazer nova opção no período de 12 (doze) meses. (Redação dada pela Lei nº 13.281, de 2016)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 8",
+          "unidade": "§ 8º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.154",
@@ -9151,7 +9151,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 9",
+          "unidade": "§ 9º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.281",
@@ -9162,14 +9162,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 9",
+          "unidade": "§ 9º",
           "diploma": null,
           "trecho": "…da penalidade de que trata este artigo, dirigir veículo automotor em via pública. (Incluído pela Lei nº 13.281, de 2016)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 10",
+          "unidade": "§ 10º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.071",
@@ -9180,14 +9180,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 10",
+          "unidade": "§ 10º",
           "diploma": null,
           "trecho": "…entidade responsável pela aplicação da multa, na forma definida pelo Contran. (Redação dada pela Lei nº 14.071, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 11",
+          "unidade": "§ 11º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.281",
@@ -9198,21 +9198,21 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 11",
+          "unidade": "§ 11º",
           "diploma": null,
           "trecho": "§ 11. O Contran regulamentará as disposições deste artigo. (Incluído pela Lei nº 13.281, de 2016)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "veto",
-          "unidade": "§ 12",
+          "unidade": "§ 12º",
           "diploma": null,
           "trecho": "§ 12.",
           "literal": "(VETADO)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 12",
+          "unidade": "§ 12º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.304",
@@ -9223,21 +9223,21 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 12",
+          "unidade": "§ 12º",
           "diploma": null,
           "trecho": "§ 12. (VETADO). (Incluído pela Lei nº 14.304, de 2022)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "veto",
-          "unidade": "§ 13",
+          "unidade": "§ 13º",
           "diploma": null,
           "trecho": "§ 13.",
           "literal": "(VETADO)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 13",
+          "unidade": "§ 13º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.304",
@@ -9248,7 +9248,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 13",
+          "unidade": "§ 13º",
           "diploma": null,
           "trecho": "§ 13. (VETADO). (Incluído pela Lei nº 14.304, de 2022)",
           "literal": "(Vigência)"
@@ -9308,14 +9308,14 @@
         },
         {
           "tipo": "veto",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "§ 3º",
           "literal": "(VETADO)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.304",
@@ -9326,7 +9326,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "§ 3º (VETADO). (Incluído pela Lei nº 14.304, de 2022)",
           "literal": "(Vigência)"
@@ -9368,14 +9368,14 @@
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "§ 1º",
           "literal": "(Revogado)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.071",
@@ -9386,21 +9386,21 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "§ 1º (Revogado). (Redação dada pela Lei nº 14.071, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "§ 2º",
           "literal": "(Revogado)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.071",
@@ -9411,7 +9411,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "§ 2º (Revogado). (Redação dada pela Lei nº 14.071, de 2020)",
           "literal": "(Vigência)"
@@ -9525,7 +9525,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.071",
@@ -9536,14 +9536,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "§ 1º O RNPC deverá ser atualizado mensalmente. (Incluído pela Lei nº 14.071, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.071",
@@ -9554,14 +9554,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…bertura de cadastro requer autorização prévia e expressa do potencial cadastrado. (Incluído pela Lei nº 14.071, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.071",
@@ -9572,14 +9572,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "…ão de informação no RNPC independe de autorização e de comunicação ao cadastrado. (Incluído pela Lei nº 14.071, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.071",
@@ -9590,7 +9590,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "§ 4º A exclusão do RNPC dar-se-á: (Incluído pela Lei nº 14.071, de 2020)",
           "literal": "(Vigência)"
@@ -9687,7 +9687,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.071",
@@ -9698,14 +9698,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": null,
           "trecho": "…ao RNPC é garantida a todos os cidadãos, nos termos da regulamentação do Contran. (Incluído pela Lei nº 14.071, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.071",
@@ -9716,14 +9716,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": null,
           "trecho": "…dutores cadastrados, na forma da legislação específica de cada ente da Federação. (Incluído pela Lei nº 14.071, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": {
             "especie": "Lei",
             "numero": "15.428",
@@ -9734,7 +9734,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 8",
+          "unidade": "§ 8º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "1.327",
@@ -9801,7 +9801,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.599",
@@ -9845,7 +9845,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.071",
@@ -9856,7 +9856,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": null,
           "trecho": "…gistro no Renach ou Renavam, conforme o caso, na forma estabelecida pelo Contran. (Incluído pela Lei nº 14.071, de 2020)",
           "literal": "(Vigência)"
@@ -9868,7 +9868,7 @@
       "eventos": [
         {
           "tipo": "redacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.071",
@@ -9879,14 +9879,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…ituação, e será considerado notificado para essa finalidade na mesma ocasião. (Redação dada pela Lei nº 14.071, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.281",
@@ -9897,14 +9897,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "…ulo será removido a depósito, aplicando-se neste caso o disposto no art. 271. (Redação dada pela Lei nº 13.281, de 2016)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.160",
@@ -9915,7 +9915,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.160",
@@ -9931,7 +9931,7 @@
       "eventos": [
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.160",
@@ -9942,7 +9942,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.160",
@@ -9953,7 +9953,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.281",
@@ -9964,7 +9964,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.281",
@@ -9975,7 +9975,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.160",
@@ -9986,7 +9986,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.281",
@@ -9997,7 +9997,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.160",
@@ -10008,7 +10008,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 8",
+          "unidade": "§ 8º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.160",
@@ -10019,7 +10019,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 9",
+          "unidade": "§ 9º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.071",
@@ -10030,14 +10030,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 9",
+          "unidade": "§ 9º",
           "diploma": null,
           "trecho": "…rá remoção nos casos em que a irregularidade for sanada no local da infração. (Redação dada pela Lei nº 14.071, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 9",
+          "unidade": "§ 9º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.229",
@@ -10048,7 +10048,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 9",
+          "unidade": "§ 9º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.229",
@@ -10059,7 +10059,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 9",
+          "unidade": "§ 9º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.229",
@@ -10070,7 +10070,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 9",
+          "unidade": "§ 9º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.229",
@@ -10081,7 +10081,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 10",
+          "unidade": "§ 10º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.281",
@@ -10092,7 +10092,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 11",
+          "unidade": "§ 11º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.281",
@@ -10103,7 +10103,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 12",
+          "unidade": "§ 12º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.281",
@@ -10114,7 +10114,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 13",
+          "unidade": "§ 13º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.281",
@@ -10168,14 +10168,14 @@
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "§ 1o",
           "literal": "(Revogado)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.760",
@@ -10186,7 +10186,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.760",
@@ -10197,7 +10197,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.281",
@@ -10208,7 +10208,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "…r a se submeter a qualquer dos procedimentos previstos no caput deste artigo. (Redação dada pela Lei nº 13.281, de 2016)",
           "literal": "(Vigência)"
@@ -10231,7 +10231,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.804",
@@ -10242,7 +10242,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.804",
@@ -10285,7 +10285,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.599",
@@ -10296,7 +10296,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.599",
@@ -10312,21 +10312,21 @@
       "eventos": [
         {
           "tipo": "veto",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "§ 1º",
           "literal": "(VETADO)"
         },
         {
           "tipo": "veto",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": null,
           "trecho": "§ 5º",
           "literal": "(VETADO)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.599",
@@ -10342,7 +10342,7 @@
       "eventos": [
         {
           "tipo": "renumeracao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.304",
@@ -10353,7 +10353,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…nfração será arquivado e seu registro julgado insubsistente: (Renumerado do parágrafo único pela Lei nº 14.304, de 2022)",
           "literal": "(Vigência)"
@@ -10371,7 +10371,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.304",
@@ -10382,7 +10382,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…rtir da data da instauração do processo destinado à aplicação dessas penalidades. (Incluído pela Lei nº 14.304, de 2022)",
           "literal": "(Vigência)"
@@ -10428,7 +10428,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.229",
@@ -10439,7 +10439,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "9.602",
@@ -10450,7 +10450,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Lei",
             "numero": "9.602",
@@ -10461,7 +10461,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.229",
@@ -10494,7 +10494,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.229",
@@ -10505,7 +10505,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.229",
@@ -10516,14 +10516,14 @@
         },
         {
           "tipo": "veto",
-          "unidade": "§ 8",
+          "unidade": "§ 8º",
           "diploma": null,
           "trecho": "§ 8º",
           "literal": "(VETADO)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 8",
+          "unidade": "§ 8º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.304",
@@ -10534,7 +10534,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 8",
+          "unidade": "§ 8º",
           "diploma": null,
           "trecho": "§ 8º (VETADO). (Incluído pela Lei nº 14.304, de 2022)",
           "literal": "(Vigência)"
@@ -10571,7 +10571,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.071",
@@ -10582,14 +10582,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…o atualizado no órgão executivo de trânsito do Estado ou do Distrito Federal. (Redação dada pela Lei nº 14.071, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.071",
@@ -10600,14 +10600,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…clusão da informação no sistema eletrônico e do envio da respectiva mensagem. (Redação dada pela Lei nº 14.071, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.281",
@@ -10618,14 +10618,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "… interoperabilidade da Infraestrutura de Chaves Públicas Brasileira (ICP-Brasil). (Incluído pela Lei nº 13.281, de 2016)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.440",
@@ -10636,7 +10636,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": null,
           "trecho": "§ 5º (Vide Lei nº 14.440, de 2022)",
           "literal": "(Vigência)"
@@ -10660,7 +10660,7 @@
       "eventos": [
         {
           "tipo": "redacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.599",
@@ -10671,7 +10671,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.281",
@@ -10682,14 +10682,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…rativo, que pode ser realizado a qualquer momento, respeitado o disposto no § 1º. (Incluído pela Lei nº 13.281, de 2016)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.281",
@@ -10700,14 +10700,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "…or encerrada a instância administrativa de julgamento de infrações e penalidades. (Incluído pela Lei nº 13.281, de 2016)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.281",
@@ -10718,14 +10718,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "…1% (um por cento) relativamente ao mês em que o pagamento estiver sendo efetuado. (Incluído pela Lei nº 13.281, de 2016)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.440",
@@ -10736,7 +10736,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.599",
@@ -10770,7 +10770,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.229",
@@ -10781,14 +10781,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…so intempestivo ou interposto por parte ilegítima não terá efeito suspensivo. (Redação dada pela Lei nº 14.229, de 2021)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.229",
@@ -10799,21 +10799,21 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…eterá à Jari, no prazo de 10 (dez) dias, contado da data de sua interposição. (Redação dada pela Lei nº 14.229, de 2021)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "§ 3º",
           "literal": "(Revogado)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.229",
@@ -10824,14 +10824,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "§ 3º (Revogado). (Redação dada pela Lei nº 14.229, de 2021)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.071",
@@ -10842,14 +10842,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "… documentos ou cópia de documentos emitidos pelo órgão responsável pela autuação. (Incluído pela Lei nº 14.071, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.229",
@@ -10860,7 +10860,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.229",
@@ -10871,7 +10871,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": null,
           "trecho": "…24 (vinte e quatro) meses, contado do recebimento do recurso pelo órgão julgador. (Incluído pela Lei nº 14.229, de 2021)",
           "literal": "(Vigência)"
@@ -10883,7 +10883,7 @@
       "eventos": [
         {
           "tipo": "revogacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.249",
@@ -11167,7 +11167,7 @@
       "eventos": [
         {
           "tipo": "renumeracao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "11.705",
@@ -11211,7 +11211,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "11.705",
@@ -11222,14 +11222,14 @@
         },
         {
           "tipo": "veto",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "§ 3º",
           "literal": "(VETADO)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.546",
@@ -11240,14 +11240,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "§ 3º (VETADO). (Incluído pela Lei nº 13.546, de 2017)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.546",
@@ -11258,7 +11258,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "…l atenção à culpabilidade do agente e às circunstâncias e consequências do crime. (Incluído pela Lei nº 13.546, de 2017)",
           "literal": "(Vigência)"
@@ -11379,7 +11379,7 @@
       "eventos": [
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.971",
@@ -11390,7 +11390,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…de veículo automotor, a pena é aumentada de 1/3 (um terço) à metade, se o agente: (Incluído pela Lei nº 12.971, de 2014)",
           "literal": "(Vigência)"
@@ -11473,7 +11473,7 @@
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.281",
@@ -11484,14 +11484,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "§ 2o (Revogado pela Lei nº 13.281, de 2016)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.546",
@@ -11502,14 +11502,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "…a de álcool ou de qualquer outra substância psicoativa que determine dependência: (Incluído pela Lei nº 13.546, de 2017)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.546",
@@ -11520,7 +11520,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "… direito de se obter a permissão ou a habilitação para dirigir veículo automotor. (Incluído pela Lei nº 13.546, de 2017)",
           "literal": "(Vigência)"
@@ -11532,7 +11532,7 @@
       "eventos": [
         {
           "tipo": "renumeracao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.546",
@@ -11543,14 +11543,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…tade, se ocorrer qualquer das hipóteses do § 1o do art. 302. (Renumerado do parágrafo único pela Lei nº 13.546, de 2017)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.546",
@@ -11561,7 +11561,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…pendência, e se do crime resultar lesão corporal de natureza grave ou gravíssima. (Incluído pela Lei nº 13.546, de 2017)",
           "literal": "(Vigência)"
@@ -11616,7 +11616,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.760",
@@ -11649,7 +11649,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.971",
@@ -11660,14 +11660,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…utros meios de prova em direito admitidos, observado o direito à contraprova. (Redação dada pela Lei nº 12.971, de 2014)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.971",
@@ -11678,14 +11678,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "…toxicológicos para efeito de caracterização do crime tipificado neste artigo. (Redação dada pela Lei nº 12.971, de 2014)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.840",
@@ -11737,7 +11737,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.971",
@@ -11748,14 +11748,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…e 3 (três) a 6 (seis) anos, sem prejuízo das outras penas previstas neste artigo. (Incluído pela Lei nº 12.971, de 2014)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.971",
@@ -11766,7 +11766,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "… 5 (cinco) a 10 (dez) anos, sem prejuízo das outras penas previstas neste artigo. (Incluído pela Lei nº 12.971, de 2014)",
           "literal": "(Vigência)"
@@ -12010,7 +12010,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.281",
@@ -12021,14 +12021,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…nta de fundo de âmbito nacional destinado à segurança e educação de trânsito. (Redação dada pela Lei nº 13.281, de 2016)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "13",
@@ -12039,14 +12039,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…obre a receita arrecadada com a cobrança de multas de trânsito e sua destinação. (Incluído pela Lei nº 13. 281, de 2016)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.157",
@@ -12057,7 +12057,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "15.153",
@@ -12068,7 +12068,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Lei",
             "numero": "15.153",
@@ -12154,7 +12154,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.281",
@@ -12165,14 +12165,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "… para todos os efeitos legais, sendo dispensada, nesse caso, a sua guarda física. (Incluído pela Lei nº 13.281, de 2016)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.281",
@@ -12183,14 +12183,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…nicos e físicos gerados em decorrência da aplicação das disposições deste Código. (Incluído pela Lei nº 13.281, de 2016)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.281",
@@ -12201,7 +12201,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "… interoperabilidade da Infraestrutura de Chaves Públicas Brasileira (ICP-Brasil). (Incluído pela Lei nº 13.281, de 2016)",
           "literal": "(Vigência)"
@@ -12224,7 +12224,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.599",
@@ -12235,7 +12235,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.614",
@@ -12246,14 +12246,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…ices mais recentes, oficialmente apurados, e os índices que se pretende alcançar. (Incluído pela Lei nº 13.614, de 2018)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.614",
@@ -12264,14 +12264,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "…isão que fixar as metas anuais estabelecerá as respectivas margens de tolerância. (Incluído pela Lei nº 13.614, de 2018)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.599",
@@ -12282,7 +12282,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.599",
@@ -12293,7 +12293,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.599",
@@ -12304,7 +12304,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.614",
@@ -12315,14 +12315,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": null,
           "trecho": "…computadores, em sítio eletrônico do órgão máximo executivo de trânsito da União. (Incluído pela Lei nº 13.614, de 2018)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 8",
+          "unidade": "§ 8º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.599",
@@ -12333,7 +12333,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 9",
+          "unidade": "§ 9º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.599",
@@ -12344,7 +12344,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 10",
+          "unidade": "§ 10º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.614",
@@ -12355,7 +12355,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 10",
+          "unidade": "§ 10º",
           "diploma": null,
           "trecho": "… do Estado ou do Distrito Federal compreendem os coletados naquela circunscrição: (Incluído pela Lei nº 13.614, de 2018)",
           "literal": "(Vigência)"
@@ -12416,7 +12416,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 11",
+          "unidade": "§ 11º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.599",
@@ -12427,7 +12427,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 12",
+          "unidade": "§ 12º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.599",
@@ -12438,7 +12438,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 13",
+          "unidade": "§ 13º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.614",
@@ -12449,14 +12449,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 13",
+          "unidade": "§ 13º",
           "diploma": null,
           "trecho": "…m de atingir as metas fixadas para cada um dos Estados e para o Distrito Federal. (Incluído pela Lei nº 13.614, de 2018)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 14",
+          "unidade": "§ 14º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.614",
@@ -12467,7 +12467,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 14",
+          "unidade": "§ 14º",
           "diploma": null,
           "trecho": "…o, o Contran elaborará e divulgará, também durante a Semana Nacional de Trânsito: (Incluído pela Lei nº 13.614, de 2018)",
           "literal": "(Vigência)"
@@ -12570,7 +12570,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.160",
@@ -12603,7 +12603,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.160",
@@ -12614,7 +12614,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.160",
@@ -12625,7 +12625,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.160",
@@ -12636,7 +12636,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.160",
@@ -12647,7 +12647,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.160",
@@ -12724,7 +12724,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.160",
@@ -12735,7 +12735,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 8",
+          "unidade": "§ 8º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.160",
@@ -12746,7 +12746,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 9",
+          "unidade": "§ 9º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.160",
@@ -12757,7 +12757,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 10",
+          "unidade": "§ 10º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.160",
@@ -12768,7 +12768,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 11",
+          "unidade": "§ 11º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.160",
@@ -12779,7 +12779,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 12",
+          "unidade": "§ 12º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.160",
@@ -12790,7 +12790,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 13",
+          "unidade": "§ 13º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.160",
@@ -12801,7 +12801,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 14",
+          "unidade": "§ 14º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.281",
@@ -12812,14 +12812,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 14",
+          "unidade": "§ 14º",
           "diploma": null,
           "trecho": "…om remoção e estada, ou para a autorização do leilão nos termos deste artigo. (Redação dada pela Lei nº 13.281, de 2016)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 15",
+          "unidade": "§ 15º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.281",
@@ -12830,14 +12830,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 15",
+          "unidade": "§ 15º",
           "diploma": null,
           "trecho": "…ão de trânsito autorizado a promover o leilão do veículo nos termos deste artigo. (Incluído pela Lei nº 13.281, de 2016)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 16",
+          "unidade": "§ 16º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.281",
@@ -12848,14 +12848,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 16",
+          "unidade": "§ 16º",
           "diploma": null,
           "trecho": "…ados à reciclagem, independentemente da existência de restrições sobre o veículo. (Incluído pela Lei nº 13.281, de 2016)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 17",
+          "unidade": "§ 17º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.281",
@@ -12866,14 +12866,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 17",
+          "unidade": "§ 17º",
           "diploma": null,
           "trecho": "…uada, à reciclagem siderúrgica, vedado qualquer aproveitamento de peças e partes. (Incluído pela Lei nº 13.281, de 2016)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 18",
+          "unidade": "§ 18º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.281",
@@ -12884,7 +12884,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 18",
+          "unidade": "§ 18º",
           "diploma": null,
           "trecho": "…pre que a autoridade responsável pelo leilão julgar ser essa a medida apropriada. (Incluído pela Lei nº 13.281, de 2016)",
           "literal": "(Vigência)"
@@ -12896,7 +12896,7 @@
       "eventos": [
         {
           "tipo": "inclusao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.154",

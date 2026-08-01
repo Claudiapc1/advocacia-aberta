@@ -57,7 +57,7 @@
       "eventos": [
         {
           "tipo": "inclusao",
-          "unidade": "§ 11",
+          "unidade": "§ 11º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "73",
@@ -73,7 +73,7 @@
       "eventos": [
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "127",
@@ -84,7 +84,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "127",
@@ -291,7 +291,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "108",
@@ -368,7 +368,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "108",
@@ -455,7 +455,7 @@
         },
         {
           "tipo": "renumeracao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "10",
@@ -466,7 +466,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "10",
@@ -477,7 +477,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "10",
@@ -570,7 +570,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Emenda Constitucional de Revisão",
             "numero": "1",
@@ -581,7 +581,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "10",
@@ -592,7 +592,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "10",
@@ -603,7 +603,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "10",
@@ -614,7 +614,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "10",
@@ -657,7 +657,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "12",
@@ -668,7 +668,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "12",
@@ -679,7 +679,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "12",
@@ -690,7 +690,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "12",
@@ -717,7 +717,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "21",
@@ -728,7 +728,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "21",
@@ -739,7 +739,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "21",
@@ -766,14 +766,14 @@
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "§ 1º",
           "literal": "(Revogado)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "93",
@@ -784,7 +784,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "68",
@@ -795,14 +795,14 @@
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "§ 3º",
           "literal": "(Revogado)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "93",
@@ -813,7 +813,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "103",
@@ -824,7 +824,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "135",
@@ -835,7 +835,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "135",
@@ -966,7 +966,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "136",
@@ -1021,7 +1021,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "136",
@@ -1103,7 +1103,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "29",
@@ -1114,7 +1114,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "29",
@@ -1125,7 +1125,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "29",
@@ -1136,7 +1136,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "29",
@@ -1163,7 +1163,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "30",
@@ -1174,7 +1174,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "30",
@@ -1185,7 +1185,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "30",
@@ -1196,7 +1196,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "30",
@@ -1316,7 +1316,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "31",
@@ -1327,7 +1327,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "31",
@@ -1354,7 +1354,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "31",
@@ -1365,7 +1365,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "31",
@@ -1376,7 +1376,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "31",
@@ -1403,7 +1403,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "42",
@@ -1414,7 +1414,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "31",
@@ -1457,7 +1457,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "37",
@@ -1468,7 +1468,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "37",
@@ -1512,7 +1512,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "37",
@@ -1649,7 +1649,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "37",
@@ -1660,7 +1660,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "37",
@@ -1671,7 +1671,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "37",
@@ -1731,7 +1731,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "37",
@@ -1742,7 +1742,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "37",
@@ -1753,7 +1753,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "37",
@@ -1867,7 +1867,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "60",
@@ -1878,7 +1878,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "60",
@@ -1905,7 +1905,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "42",
@@ -1916,7 +1916,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "42",
@@ -1991,7 +1991,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "132",
@@ -2002,7 +2002,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "132",
@@ -2013,7 +2013,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "132",
@@ -2046,7 +2046,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "132",
@@ -2057,7 +2057,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "132",
@@ -2068,7 +2068,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "132",
@@ -2079,7 +2079,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "132",
@@ -2170,7 +2170,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "62",
@@ -2203,7 +2203,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "62",
@@ -2280,7 +2280,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "62",
@@ -2313,7 +2313,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "62",
@@ -2324,7 +2324,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "62",
@@ -2335,7 +2335,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "62",
@@ -2346,7 +2346,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "62",
@@ -2357,7 +2357,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 8",
+          "unidade": "§ 8º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "62",
@@ -2401,7 +2401,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 9",
+          "unidade": "§ 9º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "62",
@@ -2511,7 +2511,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 10",
+          "unidade": "§ 10º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "62",
@@ -2599,7 +2599,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 11",
+          "unidade": "§ 11º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "62",
@@ -2610,7 +2610,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 12",
+          "unidade": "§ 12º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "62",
@@ -2643,7 +2643,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 13",
+          "unidade": "§ 13º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "62",
@@ -2654,7 +2654,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 14",
+          "unidade": "§ 14º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "62",
@@ -2665,7 +2665,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 15",
+          "unidade": "§ 15º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "62",
@@ -2676,7 +2676,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 16",
+          "unidade": "§ 16º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "136",
@@ -2687,7 +2687,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 16",
+          "unidade": "§ 16º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "136",
@@ -2698,7 +2698,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 17",
+          "unidade": "§ 17º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "62",
@@ -2709,7 +2709,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 18",
+          "unidade": "§ 18º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "62",
@@ -2736,7 +2736,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "80",
@@ -2747,7 +2747,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "80",
@@ -2861,7 +2861,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "94",
@@ -2894,7 +2894,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "99",
@@ -2971,7 +2971,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "99",
@@ -2982,14 +2982,14 @@
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "§ 4º",
           "literal": "(Revogado)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "109",
@@ -3072,7 +3072,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "113",
@@ -3083,7 +3083,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "136",
@@ -3110,7 +3110,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "99",
@@ -3235,7 +3235,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "99",
@@ -3246,7 +3246,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "99",
@@ -3338,7 +3338,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "114",
@@ -3349,7 +3349,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "114",
@@ -3360,7 +3360,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "114",
@@ -3371,7 +3371,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "114",
@@ -3382,7 +3382,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "114",
@@ -3393,7 +3393,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "114",
@@ -3404,7 +3404,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "114",
@@ -3415,7 +3415,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 8",
+          "unidade": "§ 8º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "114",
@@ -3680,7 +3680,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "136",
@@ -3691,7 +3691,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "136",
@@ -3702,7 +3702,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "136",
@@ -3729,7 +3729,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "136",
@@ -3740,7 +3740,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "113",
@@ -3751,7 +3751,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "136",
@@ -3817,7 +3817,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "113",
@@ -3828,7 +3828,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "113",
@@ -3839,7 +3839,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "136",
@@ -3850,7 +3850,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "136",
@@ -3861,7 +3861,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 8",
+          "unidade": "§ 8º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "136",
@@ -3872,7 +3872,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 9",
+          "unidade": "§ 9º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "136",
@@ -3883,7 +3883,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 10",
+          "unidade": "§ 10º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "136",
@@ -3894,7 +3894,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 11",
+          "unidade": "§ 11º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "136",
@@ -3905,7 +3905,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 12",
+          "unidade": "§ 12º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "136",
@@ -4417,7 +4417,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "132",
@@ -4428,7 +4428,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "132",
@@ -4439,7 +4439,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "132",
@@ -4472,7 +4472,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "132",
@@ -4652,7 +4652,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "132",
@@ -4663,7 +4663,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "132",
@@ -4674,7 +4674,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "132",
@@ -4805,7 +4805,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "132",
@@ -4816,7 +4816,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "132",
@@ -4827,7 +4827,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "132",
@@ -4948,7 +4948,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "132",
@@ -4959,7 +4959,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "132",
@@ -4970,7 +4970,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "132",
@@ -5003,7 +5003,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "132",
@@ -5014,7 +5014,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 8",
+          "unidade": "§ 8º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "132",
@@ -5025,7 +5025,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 9",
+          "unidade": "§ 9º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "132",
@@ -5036,7 +5036,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 10",
+          "unidade": "§ 10º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "132",
@@ -5063,7 +5063,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "132",
@@ -5107,7 +5107,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "132",
@@ -5217,7 +5217,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "132",
@@ -5228,7 +5228,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "132",
@@ -5239,7 +5239,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "132",
@@ -5316,7 +5316,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "132",
@@ -5365,7 +5365,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "132",
@@ -5398,7 +5398,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "132",
@@ -5409,7 +5409,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "132",
@@ -5452,7 +5452,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "132",
@@ -5485,7 +5485,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "132",
@@ -5496,7 +5496,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "132",
@@ -5529,7 +5529,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "132",
@@ -5540,7 +5540,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "132",
@@ -5551,7 +5551,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": {
             "especie": "Emenda Constitucional",
             "numero": "132",

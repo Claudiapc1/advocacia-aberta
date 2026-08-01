@@ -83,7 +83,7 @@ class AncoraTest(unittest.TestCase):
             [
                 ("redacao", "inciso III"),
                 ("inclusao", "inciso XI"),
-                ("inclusao", "§ 1"),
+                ("inclusao", "§ 1º"),
             ],
         )
 

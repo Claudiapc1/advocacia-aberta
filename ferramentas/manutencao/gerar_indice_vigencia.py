@@ -110,7 +110,7 @@ ESPECIE_POR_PADRAO = tuple(
 UNIDADES: tuple[tuple[re.Pattern[str], str], ...] = (
     (re.compile(r"^\s*Art\.\s*\d"), "caput"),
     (re.compile(r"^\s*Par[áa]grafo\s+[úu]nico"), "parágrafo único"),
-    (re.compile(r"^\s*§\s*(\d+)\s*[º°o]?"), "§ {}"),
+    (re.compile(r"^\s*§\s*(\d+)\s*[º°o]?"), "§ {}º"),
     (re.compile(r"^\s*([IVXLCDM]+)\s*[-–—.)]"), "inciso {}"),
     (re.compile(r"^\s*([a-z])\s*\)"), "alínea {}"),
 )

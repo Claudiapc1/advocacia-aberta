@@ -265,7 +265,7 @@
       "eventos": [
         {
           "tipo": "revogacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Decreto-Lei",
             "numero": "1.730",
@@ -276,7 +276,7 @@
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Decreto-Lei",
             "numero": "1.730",
@@ -287,7 +287,7 @@
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Decreto-Lei",
             "numero": "1.730",
@@ -303,7 +303,7 @@
       "eventos": [
         {
           "tipo": "redacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "7.450",
@@ -314,7 +314,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "7.450",
@@ -325,7 +325,7 @@
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Decreto-Lei",
             "numero": "1.648",
@@ -336,7 +336,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.973",
@@ -347,7 +347,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": null,
           "trecho": "…á ser entregue em meio digital ao Sistema Público de Escrituração Digital - SPED. (Incluído pela Lei nº 12.973, de 2014)",
           "literal": "(Vigência)"
@@ -413,7 +413,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.973",
@@ -424,7 +424,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…ut, de forma integrada às escriturações comercial e fiscal, que discriminará: (Redação dada pela Lei nº 12.973, de 2014)",
           "literal": "(Vigência)"
@@ -485,7 +485,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "449",
@@ -496,7 +496,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "449",
@@ -507,7 +507,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "449",
@@ -518,7 +518,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "11.941",
@@ -551,7 +551,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "449",
@@ -562,7 +562,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "11.941",
@@ -573,7 +573,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.973",
@@ -584,14 +584,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "…erá disciplinado em ato normativo da Secretaria da Receita Federal do Brasil. (Redação dada pela Lei nº 12.973, de 2014)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.973",
@@ -602,7 +602,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "…-se conta analítica aquela que registra em último nível os lançamentos contábeis. (Incluído pela Lei nº 12.973, de 2014)",
           "literal": "(Vigência)"
@@ -668,7 +668,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.973",
@@ -679,7 +679,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "§ 1o A multa de que trata o inciso I do caput será limitada em: (Incluído pela Lei nº 12.973, de 2014)",
           "literal": "(Vigência)"
@@ -722,7 +722,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.973",
@@ -733,7 +733,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "§ 2o A multa de que trata o inciso I do caput será reduzida: (Incluído pela Lei nº 12.973, de 2014)",
           "literal": "(Vigência)"
@@ -812,7 +812,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.973",
@@ -823,7 +823,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "§ 3o A multa de que trata o inciso II do caput: (Incluído pela Lei nº 12.973, de 2014)",
           "literal": "(Vigência)"
@@ -866,7 +866,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.973",
@@ -877,14 +877,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "…lic, até o termo final de encerramento do período a que se refere a escrituração. (Incluído pela Lei nº 12.973, de 2014)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.973",
@@ -895,7 +895,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": null,
           "trecho": "…do art. 8o da presente Lei de acordo com as disposições da legislação tributária. (Incluído pela Lei nº 12.973, de 2014)",
           "literal": "(Vigência)"
@@ -1013,7 +1013,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.973",
@@ -1024,7 +1024,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "§ 1o A receita líquida será a receita bruta diminuída de: (Redação dada pela Lei nº 12.973, de 2014)",
           "literal": "(Vigência)"
@@ -1103,7 +1103,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Decreto-Lei",
             "numero": "1.648",
@@ -1114,7 +1114,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.973",
@@ -1125,14 +1125,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "…vendedor dos bens ou pelo prestador dos serviços na condição de mero depositário. (Incluído pela Lei nº 12.973, de 2014)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.973",
@@ -1143,7 +1143,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": null,
           "trecho": "…dezembro de 1976, das operações previstas no caput, observado o disposto no § 4o. (Incluído pela Lei nº 12.973, de 2014)",
           "literal": "(Vigência)"
@@ -1155,7 +1155,7 @@
       "eventos": [
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.973",
@@ -1166,14 +1166,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "…erados por bem objeto de arrendamento mercantil, na pessoa jurídica arrendatária. (Incluído pela Lei nº 12.973, de 2014)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.973",
@@ -1184,7 +1184,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "…go de depreciação, amortização ou exaustão for apropriado como custo de produção. (Incluído pela Lei nº 12.973, de 2014)",
           "literal": "(Vigência)"
@@ -1196,7 +1196,7 @@
       "eventos": [
         {
           "tipo": "redacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "7.959",
@@ -1207,7 +1207,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "8.541",
@@ -1241,7 +1241,7 @@
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.973",
@@ -1252,7 +1252,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…tribuirão para a formação do resultado de mais de um exercício social, tais como: (Revogado pela Lei nº 12.973, de 2014)",
           "literal": "(Vigência)"
@@ -1351,7 +1351,7 @@
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "8.541",
@@ -1362,7 +1362,7 @@
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "8.541",
@@ -1373,7 +1373,7 @@
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "8.541",
@@ -1384,7 +1384,7 @@
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "8.541",
@@ -1400,7 +1400,7 @@
       "eventos": [
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.973",
@@ -1411,7 +1411,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…são dedutíveis como custo ou despesa operacional, observadas as seguintes normas: (Incluído pela Lei nº 12.973, de 2014)",
           "literal": "(Vigência)"
@@ -1454,7 +1454,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.973",
@@ -1465,14 +1465,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…m que o tomador deve necessariamente incorrer para fins de obtenção dos recursos. (Incluído pela Lei nº 12.973, de 2014)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.973",
@@ -1483,7 +1483,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "…izado, inclusive mediante depreciação, amortização, exaustão, alienação ou baixa. (Incluído pela Lei nº 12.973, de 2014)",
           "literal": "(Vigência)"
@@ -1720,7 +1720,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Decreto-Lei",
             "numero": "1.730",
@@ -1731,21 +1731,21 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…opolizadas, e o total da receita líquida de vendas da pessoa jurídica. (Redação dada pelo Decreto-lei nº 1.730, de 1979)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "…de capital da pessoa jurídica, que somente poderá ser utilizada para absorção de prejuízos ou aumento do capital social.",
           "literal": "(Vigência)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Decreto-Lei",
             "numero": "1.730",
@@ -1756,14 +1756,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "…da para absorção de prejuízos ou aumento do capital social. (Vigência) (Redação dada pelo Decreto-lei nº 1.730, de 1979)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.973",
@@ -1774,7 +1774,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "…i no 6.404, de 15 de dezembro de 1976, que poderá ser utilizada somente para: (Redação dada pela Lei nº 12.973, de 2014)",
           "literal": "(Vigência)"
@@ -1817,7 +1817,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "§ 4º - Consideram-se distribuição do valor do imposto:",
           "literal": "(Vigência)"
@@ -1842,14 +1842,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": null,
           "trecho": "…iver deixado de pagar, sem prejuízo da incidência do imposto sobre o lucro distribuído, como rendimento do beneficiário.",
           "literal": "(Vigência)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.973",
@@ -1860,14 +1860,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": null,
           "trecho": "… não recomposta ou absorvida indevidamente, o imposto que deixou de ser pago. (Redação dada pela Lei nº 12.973, de 2014)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": {
             "especie": "Decreto-Lei",
             "numero": "1.730",
@@ -1878,14 +1878,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": null,
           "trecho": "…tigo, das atividades industriais, agrícolas, pecuárias e de serviços básicos. (Incluído pelo Decreto-lei nº 1.730, 1979)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.973",
@@ -1896,14 +1896,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": null,
           "trecho": "…3 e o inciso III do caput do art. 184 da Lei no 6.404, de 15 de dezembro de 1976. (Incluído pela Lei nº 12.973, de 2014)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 8",
+          "unidade": "§ 8º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.973",
@@ -1914,14 +1914,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 8",
+          "unidade": "§ 8º",
           "diploma": null,
           "trecho": "…ista no § 3o, a constituição da reserva deverá ocorrer nos períodos subsequentes. (Incluído pela Lei nº 12.973, de 2014)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 9",
+          "unidade": "§ 9º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.973",
@@ -1932,7 +1932,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 9",
+          "unidade": "§ 9º",
           "diploma": null,
           "trecho": "… recompor a reserva à medida que forem apurados lucros nos períodos subsequentes. (Incluído pela Lei nº 12.973, de 2014)",
           "literal": "(Vigência)"
@@ -1998,7 +1998,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.973",
@@ -2009,14 +2009,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "… tratam os incisos I a III do caput serão registrados em subcontas distintas. (Redação dada pela Lei nº 12.973, de 2014)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.973",
@@ -2027,7 +2027,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…do ágio ou deságio deverá indicar, dentre os seguintes, seu fundamento econômico: (Revogado pela Lei nº 12.973, de 2014)",
           "literal": "(Vigência)"
@@ -2088,7 +2088,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.973",
@@ -2099,14 +2099,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "…til do 13o (décimo terceiro) mês subsequente ao da aquisição da participação. (Redação dada pela Lei nº 12.973, de 2014)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Decreto-Lei",
             "numero": "1.648",
@@ -2117,7 +2117,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.973",
@@ -2128,7 +2128,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": null,
           "trecho": "…avaliação pelo valor do patrimônio líquido exige o reconhecimento e a mensuração: (Incluído pela Lei nº 12.973, de 2014)",
           "literal": "(Vigência)"
@@ -2171,7 +2171,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.973",
@@ -2182,14 +2182,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": null,
           "trecho": "…nação do lucro real no período de apuração da alienação ou baixa do investimento. (Incluído pela Lei nº 12.973, de 2014)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.973",
@@ -2200,7 +2200,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": null,
           "trecho": "…ecer formas alternativas de registro e de apresentação do laudo previsto no § 3o. (Incluído pela Lei nº 12.973, de 2014)",
           "literal": "(Vigência)"
@@ -2384,7 +2384,7 @@
       "eventos": [
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "8.981",
@@ -2418,7 +2418,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.973",
@@ -2429,14 +2429,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…rmitir a determinação da parcela realizada, liquidada ou baixada em cada período. (Incluído pela Lei nº 12.973, de 2014)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.973",
@@ -2447,14 +2447,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…os de apuração em que a investida computar o ganho na determinação do lucro real. (Incluído pela Lei nº 12.973, de 2014)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.973",
@@ -2465,14 +2465,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "… do período de apuração em que o contribuinte alienar ou liquidar o investimento. (Incluído pela Lei nº 12.973, de 2014)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.973",
@@ -2483,7 +2483,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "…deral do Brasil irá disciplinar o controle em subcontas de que trata este artigo. (Incluído pela Lei nº 12.973, de 2014)",
           "literal": "(Vigência)"
@@ -2513,7 +2513,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.973",
@@ -2524,14 +2524,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…rmitir a determinação da parcela realizada, liquidada ou baixada em cada período. (Incluído pela Lei nº 12.973, de 2014)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.973",
@@ -2542,14 +2542,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…os de apuração em que a investida computar a perda na determinação do lucro real. (Incluído pela Lei nº 12.973, de 2014)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.973",
@@ -2560,14 +2560,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "… do período de apuração em que o contribuinte alienar ou liquidar o investimento. (Incluído pela Lei nº 12.973, de 2014)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.973",
@@ -2578,14 +2578,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "…prevista no § 1o, a perda será considerada indedutível na apuração do lucro real. (Incluído pela Lei nº 12.973, de 2014)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.973",
@@ -2596,14 +2596,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": null,
           "trecho": "… Federal do Brasil disciplinará o controle em subcontas de que trata este artigo. (Incluído pela Lei nº 12.973, de 2014)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.973",
@@ -2614,7 +2614,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": null,
           "trecho": "Redução da Mais ou Menos-Valia e do Goodwill (Incluído pela Lei nº 12.973, de 2014)",
           "literal": "(Vigência)"
@@ -2626,7 +2626,7 @@
       "eventos": [
         {
           "tipo": "revogacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Decreto-Lei",
             "numero": "1.730",
@@ -2637,7 +2637,7 @@
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Decreto-Lei",
             "numero": "1.730",
@@ -2648,7 +2648,7 @@
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Decreto-Lei",
             "numero": "1.730",
@@ -2659,7 +2659,7 @@
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Decreto-Lei",
             "numero": "1.730",
@@ -2723,7 +2723,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.973",
@@ -2734,14 +2734,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "…uer tempo, for classificada no ativo não circulante investimentos ou imobilizado. (Incluído pela Lei nº 12.973, de 2014)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.973",
@@ -2752,7 +2752,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "… disposto no § 3o será disciplinado pela Secretaria da Receita Federal do Brasil. (Incluído pela Lei nº 12.973, de 2014)",
           "literal": "(Vigência)"
@@ -2866,7 +2866,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Decreto-Lei",
             "numero": "2.429",
@@ -2971,7 +2971,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.973",
@@ -2982,21 +2982,21 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "… amortização ou exaustão acumulada e das perdas estimadas no valor de ativos. (Redação dada pela Lei nº 12.973, de 2014)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…ra efeito de determinar o lucro real, reconhecer o lucro na proporção da parcela do preço recebida em cada período-base.",
           "literal": "(Vigência)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.973",
@@ -3007,14 +3007,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "… lucro na proporção da parcela do preço recebida em cada período de apuração. (Redação dada pela Lei nº 12.973, de 2014)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.973",
@@ -3025,14 +3025,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "…são para perdas (art. 32) que tiver sido computada na determinação do lucro real. (Revogado pela Lei nº 12.973, de 2014)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.973",
@@ -3043,14 +3043,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": null,
           "trecho": "…o do imposto no período de apuração em que ocorrer a alienação ou baixa do ativo. (Incluído pela Lei nº 12.973, de 2014)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.973",
@@ -3061,7 +3061,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": null,
           "trecho": "…l do Brasil, no âmbito de suas atribuições, disciplinará o disposto neste artigo. (Incluído pela Lei nº 12.973, de 2014)",
           "literal": "(Vigência)"
@@ -3127,7 +3127,7 @@
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.973",
@@ -3138,14 +3138,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…ca o ônus da prova da perda permanente que justifique a constituição da provisão. (Revogado pela Lei nº 12.973, de 2014)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Decreto-Lei",
             "numero": "1.730",
@@ -3156,14 +3156,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…ão societária na parte que corresponder ao ágio de que trata o artigo 20. (Redação dada pelo Decreto-lei nº 1.730, 1979)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.973",
@@ -3174,14 +3174,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "… que trata o artigo 20. (Redação dada pelo Decreto-lei nº 1.730, 1979) (Vigência) (Revogado pela Lei nº 12.973, de 2014)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.973",
@@ -3192,7 +3192,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "…erminar o lucro real, desde que observado o disposto no item II e nos §§ 1º e 2º. (Revogado pela Lei nº 12.973, de 2014)",
           "literal": "(Vigência)"
@@ -3287,7 +3287,7 @@
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.973",
@@ -3298,14 +3298,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "§ 1º - Os valores de que tratam os itens II a IV serão corrigidos monetariamente. (Revogado pela Lei nº 12.973, de 2014)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Decreto-Lei",
             "numero": "1.648",
@@ -3316,7 +3316,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.973",
@@ -3327,7 +3327,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…a porcentagem de participação do contribuinte no capital social da investida. (Redação dada pela Lei nº 12.973, de 2014)",
           "literal": "(Vigência)"
@@ -3393,7 +3393,7 @@
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.973",
@@ -3404,7 +3404,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…utação da parte do ganho de capital correspondente a bens do ativo permanente se: (Revogado pela Lei nº 12.973, de 2014)",
           "literal": "(Vigência)"
@@ -3447,7 +3447,7 @@
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.973",
@@ -3458,7 +3458,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…depreciação, amortização ou exaustão deduzidas como custo ou despesa operacional. (Revogado pela Lei nº 12.973, de 2014)",
           "literal": "(Vigência)"
@@ -3488,7 +3488,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Decreto-Lei",
             "numero": "1.730",
@@ -3499,7 +3499,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "§ 1º - O valor da reserva será computado na determinação do lucro real: (Redação dada pelo Decreto-lei nº 1.730, 1979)",
           "literal": "(Vigência)"
@@ -3762,7 +3762,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Decreto-Lei",
             "numero": "1.730",
@@ -3773,14 +3773,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…r Público, não serão computadas na determinação do lucro real, desde que: (Redação dada pelo Decreto-lei nº 1.730, 1979)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "1.185",
@@ -3791,7 +3791,7 @@
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.789",
@@ -3928,7 +3928,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.973",
@@ -3939,14 +3939,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…er excluídos ou deduzidos como despesas de operações de intermediação financeira. (Incluído pela Lei nº 12.973, de 2014)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.973",
@@ -3957,14 +3957,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…aos instrumentos previstos no art. 15 da Lei no 6.404, de 15 de dezembro de 1976. (Incluído pela Lei nº 12.973, de 2014)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.973",
@@ -3975,7 +3975,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "…anteriormente deduzidos deverão ser adicionados nas respectivas bases de cálculo. (Incluído pela Lei nº 12.973, de 2014)",
           "literal": "(Vigência)"
@@ -3998,7 +3998,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Decreto-Lei",
             "numero": "1.733",
@@ -4113,7 +4113,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Decreto-Lei",
             "numero": "2.064",
@@ -4124,7 +4124,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Decreto-Lei",
             "numero": "2.065",
@@ -4135,7 +4135,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Decreto-Lei",
             "numero": "2.064",
@@ -4146,7 +4146,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Decreto-Lei",
             "numero": "2.064",
@@ -4157,7 +4157,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Decreto-Lei",
             "numero": "2.064",
@@ -4168,7 +4168,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Decreto-Lei",
             "numero": "2.064",
@@ -4179,7 +4179,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Decreto-Lei",
             "numero": "2.065",
@@ -4223,7 +4223,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 8",
+          "unidade": "§ 8º",
           "diploma": {
             "especie": "Decreto-Lei",
             "numero": "2.064",
@@ -4234,7 +4234,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 8",
+          "unidade": "§ 8º",
           "diploma": {
             "especie": "Decreto-Lei",
             "numero": "2.065",
@@ -4313,7 +4313,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Decreto-Lei",
             "numero": "2.064",
@@ -4324,7 +4324,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Decreto-Lei",
             "numero": "2.065",
@@ -4335,7 +4335,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Decreto-Lei",
             "numero": "2.064",
@@ -4346,7 +4346,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Decreto-Lei",
             "numero": "2.065",
@@ -4357,7 +4357,7 @@
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Decreto-Lei",
             "numero": "2.064",
@@ -4368,7 +4368,7 @@
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Decreto-Lei",
             "numero": "2.065",
@@ -4379,7 +4379,7 @@
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Decreto-Lei",
             "numero": "2.064",
@@ -4390,7 +4390,7 @@
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Decreto-Lei",
             "numero": "2.065",
@@ -4406,7 +4406,7 @@
       "eventos": [
         {
           "tipo": "redacao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Decreto-Lei",
             "numero": "1.730",
@@ -4417,14 +4417,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": null,
           "trecho": "…a atender a interesses de segurança e fortalecimento da empresa nacional. (Redação dada pelo Decreto-lei nº 1.730, 1979)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Decreto-Lei",
             "numero": "1.870",
@@ -4435,7 +4435,7 @@
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": {
             "especie": "Decreto-Lei",
             "numero": "1.730",
@@ -4446,7 +4446,7 @@
         },
         {
           "tipo": "renumeracao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": {
             "especie": "Decreto-Lei",
             "numero": "1.730",
@@ -4457,14 +4457,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": null,
           "trecho": "…ara compensação de prejuízos não se aplica no caso de massa falida. (Renumerado do § 7º pelo Decreto-lei nº 1.730, 1979)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 8",
+          "unidade": "§ 8º",
           "diploma": {
             "especie": "Decreto-Lei",
             "numero": "1.730",

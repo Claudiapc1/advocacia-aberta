@@ -661,35 +661,35 @@
         },
         {
           "tipo": "veto",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "§ 1º",
           "literal": "( VETADO)"
         },
         {
           "tipo": "veto",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "§ 2º",
           "literal": "( VETADO)"
         },
         {
           "tipo": "veto",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "§ 3º",
           "literal": "( VETADO)"
         },
         {
           "tipo": "veto",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "§ 4º",
           "literal": "(VETADO)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.026",
@@ -700,7 +700,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.026",
@@ -1187,7 +1187,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.026",
@@ -1220,7 +1220,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.026",
@@ -1231,7 +1231,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.026",
@@ -1242,7 +1242,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.026",
@@ -1253,7 +1253,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.026",
@@ -1287,7 +1287,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "844",
@@ -1298,14 +1298,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "… Distrito Federal fica restrito às suas respectivas áreas geográficas. (Incluído pela Medida Provisória nº 844, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "844",
@@ -1316,7 +1316,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…itularidade dos serviços de saneamento básico será realizado por meio: (Incluído pela Medida Provisória nº 844, de 2018)",
           "literal": "(Vigência encerrada)"
@@ -1359,7 +1359,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "844",
@@ -1370,14 +1370,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "…ásico observará o disposto na Lei nº 13.089, de 12 de janeiro de 2015. (Incluído pela Medida Provisória nº 844, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "844",
@@ -1388,14 +1388,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "…a de uma ou mais atividades previstas no inciso I do caput do art. 2º. (Incluído pela Medida Provisória nº 844, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "844",
@@ -1406,7 +1406,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": null,
           "trecho": "… intermunicipal, que observará os princípios estabelecidos no art. 21. (Incluído pela Medida Provisória nº 844, de 2018)",
           "literal": "(Vigência encerrada)"
@@ -1436,7 +1436,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "844",
@@ -1447,14 +1447,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…são aos titulares dos serviços de saneamento atendidos pela companhia. (Incluído pela Medida Provisória nº 844, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "844",
@@ -1465,7 +1465,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "§ 2º A comunicação formal a que se refere o § 1º deverá: (Incluído pela Medida Provisória nº 844, de 2018)",
           "literal": "(Vigência encerrada)"
@@ -1501,7 +1501,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "844",
@@ -1512,14 +1512,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "…o Poder Executivo, que precederá à alienação de controle da companhia. (Incluído pela Medida Provisória nº 844, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "844",
@@ -1530,14 +1530,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "…valecerão sobre aquelas constantes dos contratos de programa vigentes. (Incluído pela Medida Provisória nº 844, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "844",
@@ -1548,21 +1548,21 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": null,
           "trecho": "… observadas pela companhia posteriormente à alienação de seu controle. (Incluído pela Medida Provisória nº 844, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": null,
           "trecho": "…eciados, na forma prevista na Lei nº 8.987, de 13 de fevereiro de 1995. (Incluído pela Medida Provisória nº 844, de 2018",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "844",
@@ -1573,7 +1573,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": null,
           "trecho": "…eses de delegação ou de subdelegação de serviços à iniciativa privada. (Incluído pela Medida Provisória nº 844, de 2018)",
           "literal": "(Vigência encerrada)"
@@ -1603,7 +1603,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "868",
@@ -1614,7 +1614,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…itularidade dos serviços de saneamento básico será realizado por meio: (Incluído pela Medida Provisória nº 868, de 2018)",
           "literal": "(Vigência encerrada)"
@@ -1646,7 +1646,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "868",
@@ -1657,14 +1657,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…ásico observará o disposto na Lei nº 13.089, de 12 de janeiro de 2015. (Incluído pela Medida Provisória nº 868, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "868",
@@ -1675,14 +1675,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "…a de uma ou mais atividades previstas no inciso I do caput do art. 2º. (Incluído pela Medida Provisória nº 868, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "868",
@@ -1693,14 +1693,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "…ela fiscalização dos serviços prestados no âmbito da gestão associada. (Incluído pela Medida Provisória nº 868, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "868",
@@ -1711,7 +1711,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": null,
           "trecho": "… intermunicipal, que observará os princípios estabelecidos no art. 21. (Incluído pela Medida Provisória nº 868, de 2018)",
           "literal": "(Vigência encerrada)"
@@ -1741,7 +1741,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "868",
@@ -1752,14 +1752,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…são aos titulares dos serviços de saneamento atendidos pela companhia. (Incluído pela Medida Provisória nº 868, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "868",
@@ -1770,7 +1770,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "§ 2º A comunicação formal a que se refere o § 1º deverá: (Incluído pela Medida Provisória nº 868, de 2018)",
           "literal": "(Vigência encerrada)"
@@ -1813,7 +1813,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "868",
@@ -1824,14 +1824,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "…stação do titular, que precederá à alienação de controle da companhia. (Incluído pela Medida Provisória nº 868, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "868",
@@ -1842,14 +1842,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "…valecerão sobre aquelas constantes dos contratos de programa vigentes. (Incluído pela Medida Provisória nº 868, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "868",
@@ -1860,14 +1860,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": null,
           "trecho": "… observadas pela companhia posteriormente à alienação de seu controle. (Incluído pela Medida Provisória nº 868, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "868",
@@ -1878,14 +1878,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": null,
           "trecho": "…ciados, na forma prevista na Lei nº 8.987, de 13 de fevereiro de 1995. (Incluído pela Medida Provisória nº 868, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "868",
@@ -1896,7 +1896,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": null,
           "trecho": "…eses de delegação ou de subdelegação de serviços à iniciativa privada. (Incluído pela Medida Provisória nº 868, de 2018)",
           "literal": "(Vigência encerrada)"
@@ -2330,7 +2330,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.026",
@@ -2341,7 +2341,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.026",
@@ -2513,7 +2513,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "844",
@@ -2524,14 +2524,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": null,
           "trecho": "…co-financeira da prestação dos serviços, observado o disposto no § 2º. (Incluído pela Medida Provisória nº 844, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.026",
@@ -2542,21 +2542,21 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": null,
           "trecho": "…nanceira da prestação dos serviços, observado o disposto no § 2º. (IRedação dada pela Medida Provisória nº 868, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": null,
           "trecho": "…lar do plano de saneamento básico, nos termos estabelecidos no art. 19. (Incluído pela Medida Provisória nº 868, de 2018",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "868",
@@ -2567,7 +2567,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": null,
           "trecho": "…mico-financeiro dos contratos firmados com base no disposto no § 5º-A. (Incluído pela Medida Provisória nº 868, de 2018)",
           "literal": "(Vigência encerrada)"
@@ -2590,7 +2590,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.026",
@@ -2601,7 +2601,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.026",
@@ -2612,7 +2612,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.026",
@@ -2623,7 +2623,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.026",
@@ -2634,14 +2634,14 @@
         },
         {
           "tipo": "veto",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": null,
           "trecho": "§ 5º",
           "literal": "(VETADO)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.026",
@@ -2652,7 +2652,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.026",
@@ -2663,7 +2663,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.026",
@@ -2690,7 +2690,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.026",
@@ -2701,7 +2701,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.026",
@@ -2745,7 +2745,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.026",
@@ -2756,7 +2756,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.026",
@@ -2767,7 +2767,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.026",
@@ -2778,7 +2778,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.026",
@@ -2789,7 +2789,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.026",
@@ -2800,7 +2800,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 8",
+          "unidade": "§ 8º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.026",
@@ -2811,7 +2811,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 9",
+          "unidade": "§ 9º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.026",
@@ -2845,7 +2845,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "844",
@@ -2856,14 +2856,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…essários à universalização dos serviços públicos de saneamento básico. (Incluído pela Medida Provisória nº 844, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "868",
@@ -2874,14 +2874,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…essários à universalização dos serviços públicos de saneamento básico. (Incluído pela Medida Provisória nº 868, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "844",
@@ -2892,14 +2892,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…o dos serviços de saneamento nas áreas de responsabilidade do titular. (Incluído pela Medida Provisória nº 844, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "868",
@@ -2910,7 +2910,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…sabilidade do titular, poderão ser utilizados para outras finalidades. (Incluído pela Medida Provisória nº 868, de 2018)",
           "literal": "(Vigência encerrada)"
@@ -3058,7 +3058,7 @@
       "eventos": [
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "844",
@@ -3069,14 +3069,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…, com vistas à otimização do planejamento e da prestação dos serviços. (Incluído pela Medida Provisória nº 844, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "868",
@@ -3087,14 +3087,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…, com vistas à otimização do planejamento e da prestação dos serviços. (Incluído pela Medida Provisória nº 868, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "844",
@@ -3105,14 +3105,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…elas constantes dos planos municipais de saneamento, quando existirem. (Incluído pela Medida Provisória nº 844, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "868",
@@ -3123,14 +3123,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…elas constantes dos planos municipais de saneamento, quando existirem. (Incluído pela Medida Provisória nº 868, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "844",
@@ -3141,14 +3141,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "…lanos de saneamento pelos Municípios contemplados pelo plano regional. (Incluído pela Medida Provisória nº 844, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "868",
@@ -3159,14 +3159,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "…lanos de saneamento pelos Municípios contemplados pelo plano regional. (Incluído pela Medida Provisória nº 868, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "844",
@@ -3177,14 +3177,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "… por ele abrangidos, por meio da publicação de ato do Poder Executivo. (Incluído pela Medida Provisória nº 844, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "868",
@@ -3195,14 +3195,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "… por ele abrangidos, por meio da publicação de ato do Poder Executivo. (Incluído pela Medida Provisória nº 868, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "844",
@@ -3213,14 +3213,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": null,
           "trecho": "…cernir ao interesse comum, dispensada a convalidação prevista no § 4º. (Incluído pela Medida Provisória nº 844, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "868",
@@ -3231,7 +3231,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": null,
           "trecho": "…rnir ao interesse comum, dispensada a convalidação prevista no § 4º-A. (Incluído pela Medida Provisória nº 868, de 2018)",
           "literal": "(Vigência encerrada)"
@@ -3297,7 +3297,7 @@
       "eventos": [
         {
           "tipo": "redacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "844",
@@ -3308,14 +3308,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "… com base em estudos fornecidos pelos prestadores de cada serviço. (Redação dada pela Medida Provisória nº 844, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "868",
@@ -3326,14 +3326,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "… com base em estudos fornecidos pelos prestadores de cada serviço. (Redação dada pela Medida Provisória nº 868, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.026",
@@ -3344,7 +3344,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.026",
@@ -3355,7 +3355,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.026",
@@ -3366,7 +3366,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 9",
+          "unidade": "§ 9º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "844",
@@ -3377,14 +3377,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 9",
+          "unidade": "§ 9º",
           "diploma": null,
           "trecho": "…sos I a V do caput, conforme regulamentação do Ministério das Cidades. (Incluído pela Medida Provisória nº 844, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 9",
+          "unidade": "§ 9º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.026",
@@ -3395,7 +3395,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 9",
+          "unidade": "§ 9º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "868",
@@ -3406,7 +3406,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 9",
+          "unidade": "§ 9º",
           "diploma": null,
           "trecho": "…os I ao V do caput, conforme regulamentação do Ministério das Cidades. (Incluído pela Medida Provisória nº 868, de 2018)",
           "literal": "(Vigência encerrada)"
@@ -3762,7 +3762,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "844",
@@ -3773,14 +3773,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…ncia das atividades a serem desempenhadas pelas partes envolvidas. (Redação dada pela Medida Provisória nº 844, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "868",
@@ -3791,14 +3791,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…ncia das atividades a serem desempenhadas pelas partes envolvidas. (Redação dada pela Medida Provisória nº 868, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.026",
@@ -3809,7 +3809,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.026",
@@ -3853,7 +3853,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.026",
@@ -3864,7 +3864,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "844",
@@ -3875,14 +3875,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "…zada a comparação do desempenho de diferentes prestadores de serviços. (Incluído pela Medida Provisória nº 844, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "868",
@@ -3893,14 +3893,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "…zada a comparação do desempenho de diferentes prestadores de serviços. (Incluído pela Medida Provisória nº 868, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.026",
@@ -3934,7 +3934,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "844",
@@ -3945,14 +3945,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…. 50 desta Lei e no art. 4º-B da Lei nº 9.984, de 17 de julho de 2000. (Incluído pela Medida Provisória nº 844, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "844",
@@ -3963,14 +3963,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…as dos contratos assinados anteriormente à vigência das normas da ANA. (Incluído pela Medida Provisória nº 844, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "844",
@@ -3981,7 +3981,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "§ 3º O disposto no caput não se aplica: (Incluído pela Medida Provisória nº 844, de 2018)",
           "literal": "(Vigência encerrada)"
@@ -4101,7 +4101,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "868",
@@ -4112,14 +4112,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…. 50 desta Lei e no art. 4º-D da Lei nº 9.984, de 17 de julho de 2000. (Incluído pela Medida Provisória nº 868, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "868",
@@ -4130,14 +4130,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…as dos contratos assinados anteriormente à vigência das normas da ANA. (Incluído pela Medida Provisória nº 868, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "868",
@@ -4148,7 +4148,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "§ 3º O disposto no caput não se aplica: (Incluído pela Medida Provisória nº 868, de 2018)",
           "literal": "(Vigência encerrada)"
@@ -4338,7 +4338,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.026",
@@ -4349,7 +4349,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.026",
@@ -4360,7 +4360,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.312",
@@ -4371,14 +4371,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "…mentos, a medição individualizada do consumo hídrico por unidade imobiliária. (Redação dada pela Lei nº 13.312, de 2016)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.026",
@@ -4389,7 +4389,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.026",
@@ -4675,7 +4675,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "844",
@@ -4686,14 +4686,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…t. 7º poderão ser arrecadadas pelo delegatário diretamente do usuário. (Incluído pela Medida Provisória nº 844, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "868",
@@ -4704,14 +4704,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…t. 7º poderão ser arrecadadas pelo delegatário diretamente do usuário. (Incluído pela Medida Provisória nº 868, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "844",
@@ -4722,7 +4722,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "868",
@@ -4733,14 +4733,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…I do caput do art. 7º, não será aplicada a cobrança de taxa ou tarifa. (Incluído pela Medida Provisória nº 868, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "844",
@@ -4751,14 +4751,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "…tura dos serviços de abastecimento de água e de esgotamento sanitário. (Incluído pela Medida Provisória nº 844, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "868",
@@ -4769,7 +4769,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "…os serviços públicos, com a anuência da prestadora do serviço público. (Incluído pela Medida Provisória nº 868, de 2018)",
           "literal": "(Vigência encerrada)"
@@ -4844,14 +4844,14 @@
       "eventos": [
         {
           "tipo": "veto",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "§ 4o",
           "literal": "(VETADO)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.026",
@@ -4885,7 +4885,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "868",
@@ -4896,14 +4896,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "§ 1º A União definirá os parâmetros mínimos de potabilidade da água. (Incluído pela Medida Provisória nº 868, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "868",
@@ -4914,14 +4914,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "… e os maiores investimentos em medidas para diminuição do desperdício. (Incluído pela Medida Provisória nº 868, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.026",
@@ -4932,7 +4932,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.026",
@@ -4997,7 +4997,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.026",
@@ -5008,7 +5008,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.026",
@@ -5035,7 +5035,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "844",
@@ -5046,14 +5046,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "…lecidas pela entidade reguladora e a legislação sobre o meio ambiente. (Incluído pela Medida Provisória nº 844, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.026",
@@ -5064,7 +5064,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "868",
@@ -5075,14 +5075,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "…lecidas pela entidade reguladora e a legislação sobre o meio ambiente. (Incluído pela Medida Provisória nº 868, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "844",
@@ -5093,14 +5093,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "…ito ao pagamento de multa e às demais sanções previstas na legislação. (Incluído pela Medida Provisória nº 844, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.026",
@@ -5111,7 +5111,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "868",
@@ -5122,14 +5122,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "…rio ao pagamento de multa e às demais sanções previstas na legislação. (Incluído pela Medida Provisória nº 868, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "844",
@@ -5140,14 +5140,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": null,
           "trecho": "…ntivos para a ligação das edificações à rede de esgotamento sanitário. (Incluído pela Medida Provisória nº 844, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.026",
@@ -5158,7 +5158,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "868",
@@ -5169,14 +5169,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": null,
           "trecho": "…ntivos para a ligação das edificações à rede de esgotamento sanitário. (Incluído pela Medida Provisória nº 868, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "844",
@@ -5187,14 +5187,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": null,
           "trecho": "…ado, quando couber, o reequilíbrio econômico-financeiro dos contratos. (Incluído pela Medida Provisória nº 844, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.026",
@@ -5205,7 +5205,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "868",
@@ -5216,14 +5216,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": null,
           "trecho": "…ado, quando couber, o reequilíbrio econômico-financeiro dos contratos. (Incluído pela Medida Provisória nº 868, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "844",
@@ -5234,14 +5234,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": null,
           "trecho": "…ias de baixa renda, consideradas as peculiaridades locais e regionais. (Incluído pela Medida Provisória nº 844, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.026",
@@ -5252,7 +5252,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "868",
@@ -5263,14 +5263,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": null,
           "trecho": "…ias de baixa renda, consideradas as peculiaridades locais e regionais. (Incluído pela Medida Provisória nº 868, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 8",
+          "unidade": "§ 8º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.026",
@@ -5281,7 +5281,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 9",
+          "unidade": "§ 9º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.026",
@@ -5292,7 +5292,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 10",
+          "unidade": "§ 10º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.026",
@@ -5303,7 +5303,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 11",
+          "unidade": "§ 11º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.026",
@@ -5314,7 +5314,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 12",
+          "unidade": "§ 12º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.026",
@@ -6125,7 +6125,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.546",
@@ -6136,14 +6136,14 @@
         },
         {
           "tipo": "veto",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "§ 2º",
           "literal": "(VETADO)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.546",
@@ -6154,7 +6154,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.546",
@@ -6540,7 +6540,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "844",
@@ -6551,14 +6551,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…edada a aplicação em empreendimentos contratados de forma onerosa. (Redação dada pela Medida Provisória nº 844, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "868",
@@ -6569,14 +6569,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…edada a aplicação em empreendimentos contratados de forma onerosa. (Redação dada pela Medida Provisória nº 868, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.026",
@@ -6587,7 +6587,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "868",
@@ -6598,14 +6598,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": null,
           "trecho": "…ance de metas de desempenho operacional previamente estabelecidas. (Redação dada pela Medida Provisória nº 868, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.026",
@@ -6616,14 +6616,14 @@
         },
         {
           "tipo": "veto",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": null,
           "trecho": "§ 7o",
           "literal": "(VETADO)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 8",
+          "unidade": "§ 8º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "844",
@@ -6634,14 +6634,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 8",
+          "unidade": "§ 8º",
           "diploma": null,
           "trecho": "…órgãos e das entidades reguladoras ao disposto no inciso III do caput. (Incluído pela Medida Provisória nº 844, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 8",
+          "unidade": "§ 8º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.026",
@@ -6652,7 +6652,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 8",
+          "unidade": "§ 8º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "868",
@@ -6663,14 +6663,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 8",
+          "unidade": "§ 8º",
           "diploma": null,
           "trecho": "…gãos e das entidades reguladoras ao disposto no inciso III-A do caput. (Incluído pela Medida Provisória nº 868, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 9",
+          "unidade": "§ 9º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.026",
@@ -6681,7 +6681,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 10",
+          "unidade": "§ 10º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.026",
@@ -6725,7 +6725,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 11",
+          "unidade": "§ 11º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.026",
@@ -6736,14 +6736,14 @@
         },
         {
           "tipo": "veto",
-          "unidade": "§ 12",
+          "unidade": "§ 12º",
           "diploma": null,
           "trecho": "§ 12.",
           "literal": "(VETADO)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 12",
+          "unidade": "§ 12º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.026",
@@ -6754,7 +6754,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 13",
+          "unidade": "§ 13º",
           "diploma": {
             "especie": "Lei",
             "numero": "15.112",
@@ -6875,7 +6875,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "844",
@@ -6886,14 +6886,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "§ 1º O Plano Nacional de Saneamento Básico deverá: (Redação dada pela Medida Provisória nº 844, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "868",
@@ -6904,14 +6904,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "§ 1º O Plano Nacional de Saneamento Básico deverá: (Redação dada pela Medida Provisória nº 868, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.026",
@@ -7117,7 +7117,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.026",
@@ -7133,7 +7133,7 @@
       "eventos": [
         {
           "tipo": "redacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.026",
@@ -7144,7 +7144,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "844",
@@ -7155,14 +7155,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "…ladoras e pelos prestadores dos serviços e para a auditoria do Sinisa. (Incluído pela Medida Provisória nº 844, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "868",
@@ -7173,14 +7173,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "…ladoras e pelos prestadores dos serviços e para a auditoria do Sinisa. (Incluído pela Medida Provisória nº 868, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.026",
@@ -7191,7 +7191,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "1.154",
@@ -7202,7 +7202,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.600",
@@ -7213,7 +7213,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "844",
@@ -7224,14 +7224,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "… Sistema Nacional de Informações sobre Recursos Hídricos com o Sinisa. (Incluído pela Medida Provisória nº 844, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.026",
@@ -7242,7 +7242,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "868",
@@ -7253,14 +7253,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "… Sistema Nacional de Informações sobre Recursos Hídricos com o Sinisa. (Incluído pela Medida Provisória nº 868, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "1.154",
@@ -7271,7 +7271,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.600",
@@ -7282,7 +7282,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "844",
@@ -7293,14 +7293,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": null,
           "trecho": "…imento, à implementação e à avaliação das políticas públicas do setor. (Incluído pela Medida Provisória nº 844, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "868",
@@ -7311,14 +7311,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": null,
           "trecho": "…imento, à implementação e à avaliação das políticas públicas do setor. (Incluído pela Medida Provisória nº 868, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.026",
@@ -7329,7 +7329,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "1.154",
@@ -7340,7 +7340,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.600",
@@ -7351,7 +7351,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "844",
@@ -7362,7 +7362,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "868",
@@ -7373,14 +7373,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": null,
           "trecho": "…ecanismo sistemático de auditoria das informações inseridas no Sinisa. (Incluído pela Medida Provisória nº 868, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.026",
@@ -7391,7 +7391,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "1.154",
@@ -7402,7 +7402,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.600",
@@ -7413,7 +7413,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "844",
@@ -7424,14 +7424,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": null,
           "trecho": "…des reguladoras fornecerão as informações a serem inseridas no Sinisa. (Incluído pela Medida Provisória nº 844, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "868",
@@ -7442,14 +7442,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": null,
           "trecho": "…des reguladoras fornecerão as informações a serem inseridas no Sinisa. (Incluído pela Medida Provisória nº 868, de 2018)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.026",
@@ -7855,7 +7855,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.329",
@@ -7910,7 +7910,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.329",
@@ -7921,7 +7921,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.329",
@@ -7932,7 +7932,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.329",

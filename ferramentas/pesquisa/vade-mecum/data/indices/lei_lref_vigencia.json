@@ -125,7 +125,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -136,14 +136,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "…l, desde que o devedor não haja concorrido com a superação do lapso temporal. (Redação dada pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -154,7 +154,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "…tivo, na forma dos §§ 4º, 5º, 6º e 7º do art. 56 desta Lei, observado o seguinte: (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
@@ -197,7 +197,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -208,21 +208,21 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": null,
           "trecho": "…ção judicial durante o período de suspensão de que trata o § 4º deste artigo. (Redação dada pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": null,
           "trecho": "§ 7º",
           "literal": "(Revogado)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -233,14 +233,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": null,
           "trecho": "§ 7º (Revogado). (Redação dada pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -251,14 +251,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": null,
           "trecho": "… (Código de Processo Civil), observado o disposto no art. 805 do referido Código. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -269,14 +269,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": null,
           "trecho": "… (Código de Processo Civil), observado o disposto no art. 805 do referido Código. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 8",
+          "unidade": "§ 8º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -287,14 +287,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 8",
+          "unidade": "§ 8º",
           "diploma": null,
           "trecho": "…ial ou de homologação de recuperação extrajudicial relativo ao mesmo devedor. (Redação dada pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 9",
+          "unidade": "§ 9º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -305,21 +305,21 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 9",
+          "unidade": "§ 9º",
           "diploma": null,
           "trecho": "… arbitragem, não impedindo ou suspendendo a instauração de procedimento arbitral. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "veto",
-          "unidade": "§ 10",
+          "unidade": "§ 10º",
           "diploma": null,
           "trecho": "§ 10.",
           "literal": "(VETADO)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 10",
+          "unidade": "§ 10º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -330,14 +330,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 10",
+          "unidade": "§ 10º",
           "diploma": null,
           "trecho": "§ 10. (VETADO). (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 11",
+          "unidade": "§ 11º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -348,14 +348,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 11",
+          "unidade": "§ 11º",
           "diploma": null,
           "trecho": "… das execuções para efeito de habilitação na recuperação judicial ou na falência. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 12",
+          "unidade": "§ 12º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -366,14 +366,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 12",
+          "unidade": "§ 12º",
           "diploma": null,
           "trecho": "… parcialmente os efeitos do deferimento do processamento da recuperação judicial. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 13",
+          "unidade": "§ 13º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -384,7 +384,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 13",
+          "unidade": "§ 13º",
           "diploma": null,
           "trecho": "…ndo a sociedade operadora de plano de assistência à saúde for cooperativa médica. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
@@ -476,7 +476,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -487,14 +487,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "… alegue nos autos, no prazo de 15 (quinze) dias, possuir crédito contra o falido. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -505,14 +505,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "… ativa ou com exigibilidade suspensa poderão ser informados em momento posterior. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -523,7 +523,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "§ 3º Encerrado o prazo de que trata o caput deste artigo: (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
@@ -620,7 +620,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -631,7 +631,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "… à aplicação do disposto neste artigo, serão observadas as seguintes disposições: (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
@@ -764,7 +764,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -775,14 +775,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": null,
           "trecho": "…rer o desarquivamento, observado, no que couber, o disposto no art. 10 desta Lei. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -793,14 +793,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": null,
           "trecho": "… no disposto nos incisos VII e VIII do caput do art. 114 da Constituição Federal. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -811,14 +811,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": null,
           "trecho": "…-se, no que couber, aos créditos do Fundo de Garantia do Tempo de Serviço (FGTS). (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 8",
+          "unidade": "§ 8º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -829,7 +829,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 8",
+          "unidade": "§ 8º",
           "diploma": null,
           "trecho": "…rá condenação em honorários de sucumbência no incidente de que trata este artigo. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
@@ -841,7 +841,7 @@
       "eventos": [
         {
           "tipo": "inclusao",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -852,14 +852,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": null,
           "trecho": "…ilitações e as impugnações retardatárias decididas até o momento da sua formação. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 8",
+          "unidade": "§ 8º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -870,14 +870,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 8",
+          "unidade": "§ 8º",
           "diploma": null,
           "trecho": "…ardatárias acarretarão a reserva do valor para a satisfação do crédito discutido. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 9",
+          "unidade": "§ 9º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -888,14 +888,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 9",
+          "unidade": "§ 9º",
           "diploma": null,
           "trecho": "… ao juízo da recuperação judicial como ações autônomas e observarão o rito comum. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 10",
+          "unidade": "§ 10º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -906,7 +906,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 10",
+          "unidade": "§ 10º",
           "diploma": null,
           "trecho": "…a data de publicação da sentença que decretar a falência, sob pena de decadência. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
@@ -959,7 +959,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -970,14 +970,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…rva do valor controvertido, mas não impedirão o pagamento da parte incontroversa. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -988,7 +988,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…bilitações retardatárias de créditos distribuídas até então e ainda não julgadas. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
@@ -1113,7 +1113,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -1124,14 +1124,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…rvados, no que couber, os arts. 16 e 17 da Lei nº 13.140, de 26 de junho de 2015. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -1142,14 +1142,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…de créditos, bem como sobre critérios de votação em assembleia-geral de credores. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -1160,7 +1160,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "…deste artigo será deduzido do período de suspensão previsto no art. 6º desta Lei. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
@@ -1457,7 +1457,7 @@
       "eventos": [
         {
           "tipo": "redacao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -1468,7 +1468,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": null,
           "trecho": "…as de pequeno porte, bem como na hipótese de que trata o art. 70-A desta Lei. (Redação dada pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
@@ -1568,7 +1568,7 @@
       "eventos": [
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -1579,7 +1579,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "… assembleia-geral de credores poderá ser substituída, com idênticos efeitos, por: (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
@@ -1640,7 +1640,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -1651,14 +1651,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": null,
           "trecho": "…ologação judicial, independentemente da concessão ou não da recuperação judicial. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -1669,14 +1669,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": null,
           "trecho": "…uando manifestamente exercido para obter vantagem ilícita para si ou para outrem. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -1687,7 +1687,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": null,
           "trecho": "… habilitado deverá ser imediatamente comunicada ao juízo da recuperação judicial. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
@@ -1715,7 +1715,7 @@
       "eventos": [
         {
           "tipo": "redacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei Complementar",
             "numero": "147",
@@ -1749,7 +1749,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -1760,14 +1760,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…tuídas por documento que comprove o cumprimento do disposto no art. 45 desta Lei. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -1778,14 +1778,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "… maioria dos créditos de cada conjunto de credores previsto no art. 26 desta Lei. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -1796,14 +1796,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "…que comprove a adesão de credores que representem 2/3 (dois terços) dos créditos. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -1814,7 +1814,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "…ologação judicial, independentemente da concessão ou não da recuperação judicial. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
@@ -1837,7 +1837,7 @@
         },
         {
           "tipo": "renumeracao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "12.873",
@@ -1848,7 +1848,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -1859,14 +1859,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…e registros contábeis que venha a substituir a ECF, entregue tempestivamente. (Redação dada pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -1877,14 +1877,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "… da Pessoa Física (DIRPF) e balanço patrimonial, todos entregues tempestivamente. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -1895,14 +1895,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "…CDPR, admitir-se-á a entrega do livro-caixa utilizado para a elaboração da DIRPF. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -1913,7 +1913,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": null,
           "trecho": "…me de competência e de elaboração de balanço patrimonial por contador habilitado. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
@@ -1948,7 +1948,7 @@
       "eventos": [
         {
           "tipo": "inclusao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -1959,14 +1959,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": null,
           "trecho": "…os nos documentos a que se referem os citados parágrafos, ainda que não vencidos. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -1977,14 +1977,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": null,
           "trecho": "…brangidos nos termos dos arts. 14 e 21 da Lei nº 4.829, de 5 de novembro de 1965. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 8",
+          "unidade": "§ 8º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -1995,14 +1995,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 8",
+          "unidade": "§ 8º",
           "diploma": null,
           "trecho": "…eira antes do pedido de recuperação judicial, na forma de ato do Poder Executivo. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 9",
+          "unidade": "§ 9º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -2013,7 +2013,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 9",
+          "unidade": "§ 9º",
           "diploma": null,
           "trecho": "…inalidade de aquisição de propriedades rurais, bem como as respectivas garantias. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
@@ -2061,7 +2061,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -2072,14 +2072,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "…porte de novos recursos na devedora ou de substituição dos administradores desta. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -2090,7 +2090,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "…rão ser parcelados, com atualização monetária das parcelas, observado o seguinte: (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
@@ -2133,7 +2133,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -2144,7 +2144,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": null,
           "trecho": "…adequado na hipótese de alteração superveniente do plano de recuperação judicial. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
@@ -2377,7 +2377,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -2388,14 +2388,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "…lanço prévio e juntará o balanço definitivo no prazo da lei societária aplicável. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -2406,14 +2406,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": null,
           "trecho": "…usa corresponderá ao montante total dos créditos sujeitos à recuperação judicial. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -2424,7 +2424,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": null,
           "trecho": "§ 6º Em relação ao período de que trata o § 3º do art. 48 desta Lei: (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
@@ -2490,7 +2490,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -2501,14 +2501,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…presentação do laudo e deverá considerar a complexidade do trabalho desenvolvido. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -2519,14 +2519,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…ção das reais condições de funcionamento do devedor e da regularidade documental. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -2537,14 +2537,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "…a ciência do devedor, quando entender que esta poderá frustrar os seus objetivos. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -2555,14 +2555,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "…da petição inicial, e poderá impugná-la mediante interposição do recurso cabível. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -2573,14 +2573,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": null,
           "trecho": "…o da recuperação judicial baseado na análise de viabilidade econômica do devedor. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -2591,14 +2591,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": null,
           "trecho": "…Ministério Público para tomada das providências criminais eventualmente cabíveis. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -2609,7 +2609,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": null,
           "trecho": "… o juiz deverá determinar a remessa dos autos, com urgência, ao juízo competente. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
@@ -2662,7 +2662,7 @@
       "eventos": [
         {
           "tipo": "redacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -2673,14 +2673,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…ial vencidos nos 3 (três) meses anteriores ao pedido de recuperação judicial. (Redação dada pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -2691,7 +2691,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "… plano de recuperação judicial atender aos seguintes requisitos, cumulativamente: (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
@@ -2757,7 +2757,7 @@
       "eventos": [
         {
           "tipo": "redacao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -2768,14 +2768,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "… dias para que seja apresentado plano de recuperação judicial pelos credores. (Redação dada pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -2786,14 +2786,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": null,
           "trecho": "…representem mais da metade dos créditos presentes à assembleia-geral de credores. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -2804,7 +2804,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": null,
           "trecho": "… será posto em votação caso satisfeitas, cumulativamente, as seguintes condições: (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
@@ -2955,7 +2955,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -2966,14 +2966,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": null,
           "trecho": "…ade devedora, permitido o exercício do direito de retirada pelo sócio do devedor. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 8",
+          "unidade": "§ 8º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -2984,14 +2984,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 8",
+          "unidade": "§ 8º",
           "diploma": null,
           "trecho": "…ial proposto pelos credores, o juiz convolará a recuperação judicial em falência. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 9",
+          "unidade": "§ 9º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -3002,7 +3002,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 9",
+          "unidade": "§ 9º",
           "diploma": null,
           "trecho": "…r encerrada no prazo de até 90 (noventa) dias, contado da data de sua instalação. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
@@ -3032,7 +3032,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -3043,14 +3043,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…tituirá o prazo inicialmente estipulado nos termos do caput do art. 55 desta Lei. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -3061,14 +3061,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…a respeito, ouvido a seguir o administrador judicial, no prazo de 5 (cinco) dias. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -3079,7 +3079,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "…cuperação judicial em assembleia-geral, as oposições apenas poderão versar sobre: (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
@@ -3199,7 +3199,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -3210,7 +3210,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "…os Estados, Distrito Federal e Municípios em que o devedor tiver estabelecimento. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
@@ -3263,7 +3263,7 @@
       "eventos": [
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -3274,7 +3274,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "…os Estados, Distrito Federal e Municípios em que o devedor tiver estabelecimento. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
@@ -3432,7 +3432,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -3443,7 +3443,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "… alienação de que trata o caput deste artigo pelo juiz, observar-se-á o seguinte: (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
@@ -3486,7 +3486,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -3497,14 +3497,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…inciso I do § 1º deste artigo, proporcionalmente ao valor total de seus créditos. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -3515,14 +3515,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "…tal, regulatória, administrativa, penal, anticorrupção, tributária e trabalhista. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -3533,7 +3533,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "…igo não afasta a incidência do inciso VI do caput e do § 2º do art. 73 desta Lei. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
@@ -3712,7 +3712,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -3723,14 +3723,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…ao eventual excesso resultante da alienação do ativo objeto da garantia original. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -3741,7 +3741,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…se aplica a qualquer modalidade de alienação fiduciária ou de cessão fiduciária. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
@@ -3876,7 +3876,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -3887,14 +3887,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "… devedor apresentará individualmente a documentação exigida no art. 51 desta Lei. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -3905,14 +3905,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…ial sob consolidação processual, em observância ao disposto no art. 3º desta Lei. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -3923,7 +3923,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "…, as demais disposições desta Lei aplicam-se aos casos de que trata esta Seção. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
@@ -3976,7 +3976,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -3987,7 +3987,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -3998,14 +3998,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…ores de cada devedor deliberarão em assembleias-gerais de credores independentes. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -4016,14 +4016,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "…aos credores de cada devedor, e serão elaboradas atas para cada um dos devedores. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -4034,14 +4034,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "…btenham a concessão da recuperação judicial e outros tenham a falência decretada. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -4052,7 +4052,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": null,
           "trecho": "…rtigo, o processo será desmembrado em tantos processos quantos forem necessários. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
@@ -4177,7 +4177,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -4188,14 +4188,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…de garantias fidejussórias e de créditos detidos por um devedor em face de outro. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -4206,7 +4206,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "… garantia real de nenhum credor, exceto mediante aprovação expressa do titular. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
@@ -4236,7 +4236,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -4247,14 +4247,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…̃o aplicadas à assembleia-geral de credores a que se refere o caput deste artigo. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -4265,7 +4265,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…da recuperação judicial em falência dos devedores sob consolidação substancial. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
@@ -4397,7 +4397,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -4408,14 +4408,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…, ou por prática de ato previsto no inciso III do caput do art. 94 desta Lei. (Redação dada pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -4426,14 +4426,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…o ao devedor dos valores já distribuídos, os quais ficarão à disposição do juízo. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -4444,7 +4444,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "…as obrigações, facultada a realização de perícia específica para essa finalidade. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
@@ -4528,7 +4528,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -4539,14 +4539,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…os previstos na Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil). (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -4557,7 +4557,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…liquidação imediata do devedor e da rápida realocação útil de ativos na economia. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
@@ -5033,14 +5033,14 @@
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "§ 4º",
           "literal": "(Revogado)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -5051,14 +5051,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "§ 4º (Revogado). (Redação dada pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -5069,14 +5069,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": null,
           "trecho": "…Lei, os créditos cedidos a qualquer título manterão sua natureza e classificação. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -5087,7 +5087,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": null,
           "trecho": "…pecial ou geral em outras normas integrarão a classe dos créditos quirografários. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
@@ -5304,7 +5304,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -5315,14 +5315,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…igo serão pagas pelo administrador judicial com os recursos disponíveis em caixa. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -5333,7 +5333,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "… 2º O disposto neste artigo não afasta a hipótese prevista no art. 122 desta Lei. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
@@ -5429,7 +5429,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -5440,14 +5440,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…a decisão que decreta a falência e a relação de credores apresentada pelo falido. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -5458,7 +5458,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…ntes federativos referidos no inciso XIII do caput deste artigo será direcionada: (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
@@ -5519,7 +5519,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -5530,7 +5530,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "…e cada auto de arrecadação, na forma do inciso III do caput do art. 22 desta Lei. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
@@ -5655,7 +5655,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -5666,14 +5666,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "… essenciais nos termos estabelecidos no inciso I-A do caput do art. 84 desta Lei. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -5684,14 +5684,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…apresentará o seu relatório, nos termos e para os efeitos dispostos neste artigo. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -5702,7 +5702,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "§ 3º Proferida a decisão, a falência será encerrada pelo juiz nos autos. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
@@ -5755,7 +5755,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -5766,7 +5766,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "…to de custos operacionais por 2 (duas) ou mais empresas em situação falimentar. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
@@ -5900,14 +5900,14 @@
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "§ 1º",
           "literal": "(Revogado)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -5918,21 +5918,21 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "§ 1º (Revogado). (Redação dada pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "§ 2º",
           "literal": "(Revogado)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -5943,14 +5943,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "§ 2º (Revogado). (Redação dada pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -5961,7 +5961,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "§ 2º-A. A alienação de que trata o caput deste artigo: (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
@@ -6058,7 +6058,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -6069,14 +6069,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "…s regras da Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil). (Redação dada pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -6087,7 +6087,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "§ 3º-A. A alienação por leilão eletrônico, presencial ou híbrido dar-se-á: (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
@@ -6148,7 +6148,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -6159,7 +6159,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "…t deste artigo, conforme disposições específicas desta Lei, observará o seguinte: (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
@@ -6220,14 +6220,14 @@
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "§ 4º",
           "literal": "(Revogado)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -6238,21 +6238,21 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "§ 4º (Revogado). (Redação dada pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": null,
           "trecho": "§ 5º",
           "literal": "(Revogado)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -6263,21 +6263,21 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": null,
           "trecho": "§ 5º (Revogado). (Redação dada pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": null,
           "trecho": "§ 6º",
           "literal": "(Revogado)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -6288,14 +6288,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": null,
           "trecho": "§ 6º (Revogado). (Redação dada pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -6306,14 +6306,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": null,
           "trecho": "… e respeitadas as respectivas prerrogativas funcionais, sob pena de nulidade. (Redação dada pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 8",
+          "unidade": "§ 8º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -6324,7 +6324,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 8",
+          "unidade": "§ 8º",
           "diploma": null,
           "trecho": "…sta Lei serão consideradas, para todos os fins e efeitos, alienações judiciais. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
@@ -6336,7 +6336,7 @@
       "eventos": [
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -6347,14 +6347,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…, e de depósito caucionário equivalente a 10% (dez por cento) do valor oferecido. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -6365,14 +6365,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…e artigo vincula o impugnante e o terceiro ofertante como se arrematantes fossem. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -6383,14 +6383,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "… bem, somente terá seguimento aquela que tiver o maior valor presente entre elas. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -6401,7 +6401,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "… de 16 de março de 2015 (Código de Processo Civil), para comportamentos análogos. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
@@ -6472,7 +6472,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -6483,21 +6483,21 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…de, ao fundo ou ao veículo de investimento mencionados no caput deste artigo. (Redação dada pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "§ 2º",
           "literal": "(Revogado)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -6508,21 +6508,21 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "§ 2º (Revogado). (Redação dada pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "§ 3º",
           "literal": "(Revogado)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -6533,14 +6533,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "§ 3º (Revogado). (Redação dada pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -6551,7 +6551,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "… investimento ou no veículo de investimento a que se refere o caput deste artigo. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
@@ -6718,7 +6718,7 @@
       "eventos": [
         {
           "tipo": "redacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -6729,21 +6729,21 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…anifestar-se exclusivamente para apontar inconsistências formais e objetivas. (Redação dada pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "revogacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "§ 2º",
           "literal": "(Revogado)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -6754,14 +6754,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "§ 2º (Revogado). (Redação dada pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -6772,7 +6772,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "…extintas todas as obrigações do falido, inclusive as de natureza trabalhista. (Redação dada pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
@@ -6825,7 +6825,7 @@
       "eventos": [
         {
           "tipo": "redacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -6836,7 +6836,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…ige negociação coletiva com o sindicato da respectiva categoria profissional. (Redação dada pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
@@ -6866,7 +6866,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -6877,14 +6877,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 7",
+          "unidade": "§ 7º",
           "diploma": null,
           "trecho": "…acultada a conversão do procedimento em recuperação judicial a pedido do devedor. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 8",
+          "unidade": "§ 8º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -6895,7 +6895,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 8",
+          "unidade": "§ 8º",
           "diploma": null,
           "trecho": "…tificada pelo juiz se comprovado o quórum inicial exigido pelo § 7º deste artigo. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
@@ -7056,7 +7056,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -7067,14 +7067,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…cional, a necessidade de uniformidade de sua aplicação e a observância da boa-fé. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -7085,14 +7085,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…idas diretamente pelo administrador judicial, com imediata comunicação nos autos. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -7103,14 +7103,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "…ternacionais em vigor no Brasil prevalecerão sobre as disposições deste Capítulo. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -7121,14 +7121,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "…e, no caso concreto, a sua aplicação configurar manifesta ofensa à ordem pública. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -7139,14 +7139,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": null,
           "trecho": "§ 5º O Ministério Público intervirá nos processos de que trata este Capítulo. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -7157,7 +7157,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": null,
           "trecho": "…a “i” do inciso I do caput do art. 105 da Constituição Federal, quando cabível. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
@@ -7472,7 +7472,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -7483,14 +7483,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…rador judicial, autorizar terceiro para a atuação prevista no caput deste artigo. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -7501,14 +7501,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…s, o juízo mandará certificar a condição de representante do processo brasileiro. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -7519,7 +7519,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "(Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
@@ -7549,7 +7549,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -7560,14 +7560,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…jurisdição brasileira, exceto no que diz respeito aos estritos limites do pedido. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -7578,7 +7578,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…econhecido o processo estrangeiro, o representante estrangeiro está autorizado a: (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
@@ -7662,7 +7662,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -7673,7 +7673,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…ção de sua sede, estabelecimento, residência ou domicílio, respeitado o seguinte: (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
@@ -7734,7 +7734,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -7745,14 +7745,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…s processos de recuperação judicial, de recuperação extrajudicial ou de falência. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -7763,14 +7763,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "…equado pelo juiz, dispensada a expedição de carta rogatória para essa finalidade. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -7781,14 +7781,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "… divergência e à necessidade de os credores garantidos habilitarem seus créditos. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -7799,14 +7799,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": null,
           "trecho": "…messa ao exterior dos valores recebidos por credores domiciliados no estrangeiro. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -7817,7 +7817,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": null,
           "trecho": "(Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
@@ -7847,7 +7847,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -7858,7 +7858,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…nhecimento do processo estrangeiro deve ser acompanhado dos seguintes documentos: (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
@@ -7919,7 +7919,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -7930,14 +7930,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…iros relativos ao devedor que sejam de conhecimento do representante estrangeiro. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -7948,7 +7948,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "…clarada fiel e autêntica pelo próprio advogado, sob sua responsabilidade pessoal. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
@@ -8127,7 +8127,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -8138,7 +8138,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…revistos no caput deste artigo, o processo estrangeiro deve ser reconhecido como: (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
@@ -8181,7 +8181,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -8192,14 +8192,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…ansferir para outro Estado a competência jurisdicional para abertura do processo. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -8210,14 +8210,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "…reconhecimento foram descumpridos, total ou parcialmente, ou deixaram de existir. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -8228,7 +8228,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "…cimento caberá agravo, e da sentença que o julgar improcedente caberá apelação. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
@@ -8317,7 +8317,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -8328,14 +8328,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…e natureza provisória encerram-se com a decisão sobre o pedido de reconhecimento. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -8346,7 +8346,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…visória que possam interferir na administração do processo estrangeiro principal. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
@@ -8430,7 +8430,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -8441,7 +8441,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -8452,14 +8452,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…éditos, e, em qualquer caso, as medidas executórias deverão permanecer suspensas. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -8470,7 +8470,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "…uperação extrajudicial ou de falência, salvo nos limites permitidos por esta Lei. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
@@ -8590,7 +8590,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -8601,14 +8601,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…redores domiciliados ou estabelecidos no Brasil estejam adequadamente protegidos. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -8619,7 +8619,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…incipal, ou certificar-se de que elas digam respeito a informações nele exigidas. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
@@ -8649,7 +8649,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -8660,14 +8660,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…. 167-L e 167-N desta Lei ao atendimento de condições que considerar apropriadas. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -8678,14 +8678,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…quer momento, medidas concedidas com fundamento nos arts. 167-L e 167-N desta Lei.(Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -8696,14 +8696,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "…mos dos arts. 129 e 130, observado ainda o disposto no art. 131, todos desta Lei. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -8714,14 +8714,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "…evam ser submetidos à disciplina aplicável ao processo estrangeiro não principal. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -8732,7 +8732,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "(Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
@@ -8762,7 +8762,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -8773,14 +8773,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…atórias, de procedimento de auxílio direto ou de outras formalidades semelhantes. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -8791,14 +8791,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "… estrangeiros, na persecução dos objetivos estabelecidos no art. 167-A desta Lei. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -8809,7 +8809,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "…municar-se com as autoridades estrangeiras ou com os representantes estrangeiros. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
@@ -9388,7 +9388,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -9399,7 +9399,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…slação, inclusive na hipótese de violação do disposto no art. 6º-A desta Lei. (Redação dada pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
@@ -9429,7 +9429,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -9440,7 +9440,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "§ 1º Para os fins do disposto nesta Lei: (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
@@ -9483,7 +9483,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -9494,7 +9494,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…e a dos credores será obtida por maioria, na forma prevista no art. 42 desta Lei. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
@@ -9552,7 +9552,7 @@
       "eventos": [
         {
           "tipo": "inclusao",
-          "unidade": "§ 5",
+          "unidade": "§ 5º",
           "diploma": {
             "especie": "Lei",
             "numero": "11.127",
@@ -9586,7 +9586,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -9597,14 +9597,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…ecorrentes serão compensados e extinguirão as obrigações até onde se compensarem. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.112",
@@ -9615,7 +9615,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…icial, ressalvada a existência de garantia de alienação ou de cessão fiduciária. (Incluído pela Lei nº 14.112, de 2020)",
           "literal": "(Vigência)"
@@ -9668,7 +9668,7 @@
       "eventos": [
         {
           "tipo": "renumeracao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "11.196",
@@ -9679,7 +9679,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "11.196",
@@ -9690,7 +9690,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "11.196",

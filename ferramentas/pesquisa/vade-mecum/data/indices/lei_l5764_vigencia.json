@@ -41,7 +41,7 @@
       "eventos": [
         {
           "tipo": "revogacao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei Complementar",
             "numero": "130",
@@ -57,7 +57,7 @@
       "eventos": [
         {
           "tipo": "revogacao",
-          "unidade": "§ 10",
+          "unidade": "§ 10º",
           "diploma": {
             "especie": "Lei Complementar",
             "numero": "130",
@@ -105,7 +105,7 @@
       "eventos": [
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.097",

@@ -95,7 +95,7 @@
       "eventos": [
         {
           "tipo": "inclusao",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.129",
@@ -106,7 +106,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": null,
           "trecho": "…ato aberto e interoperável, nos termos do regulamento do Poder Executivo federal. (Incluído pela Lei nº 14.129, de 2021)",
           "literal": "(Vigência)"
@@ -136,7 +136,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.129",
@@ -147,14 +147,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…cação, vedada a exigência de apresentação de qualquer outro número para esse fim. (Incluído pela Lei nº 14.129, de 2021)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.534",
@@ -165,7 +165,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.129",
@@ -176,14 +176,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "… que acompanhado de documento de identificação com fé pública, nos termos da lei. (Incluído pela Lei nº 14.129, de 2021)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.129",
@@ -194,7 +194,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "…u Poder poderá dispor sobre casos excepcionais ao previsto no caput deste artigo. (Incluído pela Lei nº 14.129, de 2021)",
           "literal": "(Vigência)"

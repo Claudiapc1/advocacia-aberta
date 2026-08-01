@@ -41,7 +41,7 @@
       "eventos": [
         {
           "tipo": "veto",
-          "unidade": "§ 6",
+          "unidade": "§ 6º",
           "diploma": null,
           "trecho": "§ 6º",
           "literal": "(VETADO)"
@@ -275,7 +275,7 @@
       "eventos": [
         {
           "tipo": "veto",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "§ 2º",
           "literal": "(VETADO)"
@@ -310,7 +310,7 @@
       "eventos": [
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "703",
@@ -321,14 +321,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…a instauração de processo que tenha por objeto a apuração da infração. (Incluído pela Medida provisória nº 703, de 2015)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "703",
@@ -339,7 +339,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…lícitos previstos em normas de licitações e contratos administrativos. (Incluído pela Medida provisória nº 703, de 2015)",
           "literal": "(Vigência encerrada)"
@@ -351,7 +351,7 @@
       "eventos": [
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "703",
@@ -362,14 +362,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "… e fatos apurados acarretarem simultaneamente a infração ali prevista. (Incluído pela Medida provisória nº 703, de 2015)",
           "literal": "(Vigência encerrada)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Medida Provisória",
             "numero": "703",
@@ -380,7 +380,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "… referida celebração contará com a participação do Ministério Público. (Incluído pela Medida provisória nº 703, de 2015)",
           "literal": "(Vigência encerrada)"

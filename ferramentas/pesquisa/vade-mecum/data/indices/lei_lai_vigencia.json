@@ -158,7 +158,7 @@
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.129",
@@ -169,14 +169,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…o exigir reprodução de documentos pelo órgão ou pela entidade pública consultada. (Incluído pela Lei nº 14.129, de 2021)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "14.129",
@@ -187,7 +187,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…rio ou da família, declarada nos termos da Lei nº 7.115, de 29 de agosto de 1983. (Incluído pela Lei nº 14.129, de 2021)",
           "literal": "(Vigência)"
@@ -206,7 +206,7 @@
         },
         {
           "tipo": "veto",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "§ 1º",
           "literal": "(VETADO)"

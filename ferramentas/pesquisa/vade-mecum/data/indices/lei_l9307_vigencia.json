@@ -41,7 +41,7 @@
       "eventos": [
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.129",
@@ -52,14 +52,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "… arbitragem para dirimir conflitos relativos a direitos patrimoniais disponíveis. (Incluído pela Lei nº 13.129, de 2015)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.129",
@@ -70,7 +70,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "… de convenção de arbitragem é a mesma para a realização de acordos ou transações. (Incluído pela Lei nº 13.129, de 2015)",
           "literal": "(Vigência)"
@@ -82,7 +82,7 @@
       "eventos": [
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.129",
@@ -93,7 +93,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "…nistração pública será sempre de direito e respeitará o princípio da publicidade. (Incluído pela Lei nº 13.129, de 2015)",
           "literal": "(Vigência)"
@@ -105,14 +105,14 @@
       "eventos": [
         {
           "tipo": "veto",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "§ 3o",
           "literal": "(VETADO)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.129",
@@ -123,21 +123,21 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "§ 3o (VETADO). (Incluído pela Lei nº 13.129, de 2015)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "veto",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "§ 4o",
           "literal": "(VETADO)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.129",
@@ -148,7 +148,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "§ 4o (VETADO). (Incluído pela Lei nº 13.129, de 2015)",
           "literal": "(Vigência)"
@@ -160,7 +160,7 @@
       "eventos": [
         {
           "tipo": "redacao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.129",
@@ -171,7 +171,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "…agem multiparte, deverá ser observado o que dispuser o regulamento aplicável. (Redação dada pela Lei nº 13.129, de 2015)",
           "literal": "(Vigência)"
@@ -183,7 +183,7 @@
       "eventos": [
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.129",
@@ -194,14 +194,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…rmado por todos, que passará a fazer parte integrante da convenção de arbitragem. (Incluído pela Lei nº 13.129, de 2015)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.129",
@@ -212,7 +212,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…to de sua instauração, ainda que extinta a arbitragem por ausência de jurisdição. (Incluído pela Lei nº 13.129, de 2015)",
           "literal": "(Vigência)"
@@ -224,7 +224,7 @@
       "eventos": [
         {
           "tipo": "revogacao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.129",
@@ -235,7 +235,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "…o do Poder Judiciário que seria, originariamente, competente para julgar a causa. (Revogado pela Lei nº 13.129, de 2015)",
           "literal": "(Vigência)"
@@ -370,7 +370,7 @@
       "eventos": [
         {
           "tipo": "inclusao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.129",
@@ -381,14 +381,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "§ 1o Os árbitros poderão proferir sentenças parciais. (Incluído pela Lei nº 13.129, de 2015)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.129",
@@ -399,7 +399,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…itros, de comum acordo, poderão prorrogar o prazo para proferir a sentença final. (Incluído pela Lei nº 13.129, de 2015)",
           "literal": "(Vigência)"
@@ -552,7 +552,7 @@
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.129",
@@ -563,14 +563,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 1",
+          "unidade": "§ 1º",
           "diploma": null,
           "trecho": "…ctiva sentença, parcial ou final, ou da decisão do pedido de esclarecimentos. (Redação dada pela Lei nº 13.129, de 2015)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.129",
@@ -581,21 +581,21 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 2",
+          "unidade": "§ 2º",
           "diploma": null,
           "trecho": "…á, se for o caso, que o árbitro ou o tribunal profira nova sentença arbitral. (Redação dada pela Lei nº 13.129, de 2015)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "… conforme o art. 741 e seguintes do Código de Processo Civil, se houver execução judicial. (Vide Lei nº 13.105, de 2015)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.129",
@@ -606,14 +606,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "…1 de janeiro de 1973 (Código de Processo Civil), se houver execução judicial. (Redação dada pela Lei nº 13.129, de 2015)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "redacao",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.105",
@@ -624,14 +624,14 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 3",
+          "unidade": "§ 3º",
           "diploma": null,
           "trecho": "…ts. 525 e seguintes do Código de Processo Civil, se houver execução judicial. (Redação dada pela Lei nº 13.105, de 2015)",
           "literal": "(Vigência)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": {
             "especie": "Lei",
             "numero": "13.129",
@@ -642,7 +642,7 @@
         },
         {
           "tipo": "vigencia",
-          "unidade": "§ 4",
+          "unidade": "§ 4º",
           "diploma": null,
           "trecho": "… complementar, se o árbitro não decidir todos os pedidos submetidos à arbitragem. (Incluído pela Lei nº 13.129, de 2015)",
           "literal": "(Vigência)"
