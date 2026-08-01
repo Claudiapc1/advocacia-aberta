@@ -3,13 +3,24 @@
   "$id": "https://github.com/emidio-a11y/advocacia-aberta/blob/main/base-juridica/indices-derivados.schema.json",
   "title": "Manifesto de índices derivados",
   "type": "object",
-  "required": ["schema_version", "gerado_em", "diretorio_dados", "gerador", "legislacao", "conjuntos"],
+  "required": ["schema_version", "gerado_em", "diretorio_dados", "gerador", "legislacao", "vigencia", "conjuntos"],
   "properties": {
     "schema_version": { "const": 2 },
     "gerado_em": { "type": "string", "format": "date" },
     "diretorio_dados": { "type": "string" },
     "gerador": { "$ref": "#/$defs/gerador" },
     "legislacao": {
+      "type": "object",
+      "required": ["padrao_fonte", "subdiretorio_destino", "sufixo_destino", "gerado_em", "gerador"],
+      "properties": {
+        "padrao_fonte": { "type": "string", "pattern": "^[^/]+$" },
+        "subdiretorio_destino": { "type": "string", "pattern": "^[^/]+$" },
+        "sufixo_destino": { "type": "string", "pattern": "^[^/]+\\.json$" },
+        "gerado_em": { "type": "string", "format": "date" },
+        "gerador": { "$ref": "#/$defs/gerador" }
+      }
+    },
+    "vigencia": {
       "type": "object",
       "required": ["padrao_fonte", "subdiretorio_destino", "sufixo_destino", "gerado_em", "gerador"],
       "properties": {
