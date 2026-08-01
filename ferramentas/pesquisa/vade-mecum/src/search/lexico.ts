@@ -107,7 +107,7 @@ export function buscarComEquivalencias<T>(
     }
   }
 
-  const minimoTermos = termos.length >= 3 ? 2 : 1;
+  const minimoTermos = Math.min(2, termos.length);
   const novos = [...candidatos.values()]
     .filter((candidato) => candidato.termos >= minimoTermos)
     .sort((a, b) => b.termos - a.termos || a.ordem - b.ordem)

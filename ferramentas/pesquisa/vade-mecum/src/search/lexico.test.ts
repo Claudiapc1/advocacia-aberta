@@ -72,6 +72,31 @@ describe("recuperação por equivalência", () => {
     expect(ampliada.porEquivalencia.map((t) => t.numero)).not.toContain(763);
   });
 
+  test("a concorrência vale também para a entrada de dois termos", () => {
+    // Este era o buraco: o limiar era `termos.length >= 3 ? 2 : 1`, então a
+    // entrada de dois termos dispensava concorrência e bastava casar o mais
+    // genérico dos dois. "pix" expandia para "transferência" e devolvia
+    // transferência de crédito de ICMS, de presídio e de pessoa condenada —
+    // 26 registros, nenhum sobre Pix. A salvaguarda protegia justamente as
+    // entradas bem especificadas e abandonava as pobres.
+    const doisTermos = EQUIVALENCIAS.filter((item) => item.termos.length === 2);
+    expect(doisTermos.length).toBeGreaterThan(0);
+
+    const generico = buscarComEquivalencias(
+      "pix",
+      5,
+      (consulta, limite) => buscarSumulas(consulta, "todos", limite),
+      ({ tribunal, sumula }) => `${tribunal}:${sumula.numero}`,
+    );
+    for (const { sumula } of generico.porEquivalencia) {
+      // Nada entra por casar só "transferência".
+      const enunciado = sumula.enunciado.toLowerCase();
+      expect(
+        enunciado.includes("pagamento instantâneo") || enunciado.includes("pix"),
+      ).toBe(true);
+    }
+  });
+
   test("respeita o limite pedido e conta o que ficou de fora", () => {
     const ampliada = buscarTemasRGAmpliado("nepotismo", 3);
     expect(ampliada.diretos.length + ampliada.porEquivalencia.length).toBeLessThanOrEqual(3);
