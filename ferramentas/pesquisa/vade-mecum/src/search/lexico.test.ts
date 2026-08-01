@@ -22,10 +22,49 @@ describe("léxico de equivalências declaradas", () => {
     }
   });
 
-  test("aciona pelo conceito, ignorando acento e caixa", () => {
+  test("nenhuma entrada existe sem caso julgado que a sustente", async () => {
+    // A regra que o próprio arquivo declarava desde 2026-07-23 não era
+    // cumprida: cinco das oito entradas não tinham caso nenhum, herdadas da
+    // expansão silenciosa dos temas do STJ. Este teste torna a regra
+    // executável — quem escreve o dicionário passa a ter de exibir a prova.
+    const corpus = (await Bun.file(
+      new URL("../../avaliacao/consultas.json", import.meta.url).pathname,
+    ).json()) as { casos: Array<{ id: string }> };
+    const conhecidos = new Set(corpus.casos.map((caso) => caso.id));
+
+    for (const item of EQUIVALENCIAS) {
+      expect(item.casos.length).toBeGreaterThan(0);
+      for (const id of item.casos) expect(conhecidos).toContain(id);
+    }
+  });
+
+  test("a expansão exige ao menos dois termos por registro", () => {
+    // Entrada de termo único voltaria a permitir que uma palavra genérica
+    // sozinha qualificasse o registro, que é o defeito corrigido em
+    // 2026-08-01. Enquanto a regra do motor for `Math.min(2, termos.length)`,
+    // toda entrada precisa de dois termos para ser protegida por ela.
+    for (const item of EQUIVALENCIAS) {
+      expect(item.termos.length).toBeGreaterThanOrEqual(2);
+    }
+  });
+
+  test("aciona pelo conceito, ignorando caixa, e não aciona fora dele", () => {
     expect(equivalenciasDaConsulta("Nepotismo em cargo público")).toHaveLength(1);
-    expect(equivalenciasDaConsulta("citacao por edital")).toHaveLength(1);
+    expect(equivalenciasDaConsulta("WHATSAPP do réu")).toHaveLength(1);
     expect(equivalenciasDaConsulta("prescrição intercorrente")).toEqual([]);
+    // O gatilho é o conceito, nunca os termos da expansão: quem digita
+    // "aplicativo de mensagens" já está fazendo a busca direta.
+    expect(equivalenciasDaConsulta("aplicativo de mensagens")).toEqual([]);
+  });
+
+  test("normaliza o acento da consulta contra o conceito", () => {
+    // Até 2026-08-01 este caso era coberto por "citacao" casando "citação".
+    // A revisão removeu aquela entrada (citação e intimação são institutos
+    // distintos, não equivalentes) e nenhum conceito sobrevivente tem acento,
+    // então quem exercita a normalização agora é o lado da consulta: o acento
+    // indevido cai no mesmo tokenizador e casa o conceito sem acento.
+    expect(equivalenciasDaConsulta("nepotísmo")).toHaveLength(1);
+    expect(equivalenciasDaConsulta("NEPOTISMO")).toHaveLength(1);
   });
 
   test("consulta sem gatilho devolve exatamente a busca direta", () => {

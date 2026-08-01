@@ -26,6 +26,15 @@ const require = createRequire(import.meta.url);
 export interface Equivalencia {
   readonly conceito: string;
   readonly termos: readonly string[];
+  /**
+   * Identificadores de `avaliacao/consultas.json` que esta entrada sustenta.
+   *
+   * É a prova, não a ilustração: `lexico.test.ts` recusa entrada sem caso, e a
+   * verificação de que o caso depende mesmo dela é mecânica — remova a entrada
+   * e a avaliação de recuperação cai. Quem escreve o dicionário deixa de
+   * escrever o resultado sozinho.
+   */
+  readonly casos: readonly string[];
   readonly razao: string;
 }
 
