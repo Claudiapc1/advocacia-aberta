@@ -192,6 +192,38 @@ class PipelineBaseJuridicaTest(unittest.TestCase):
         # O vínculo com o tema de repercussão geral vem da própria citação.
         self.assertEqual(precedentes[1]["temaRG"], 66)
 
+    def test_precedente_nao_publica_link_de_rota_desativada(self) -> None:
+        # A página da súmula ainda cita o portal antigo do STF
+        # (www.stf.jus.br/portal/), desativado: o link responde 404 e o leitor
+        # cai numa tela de erro em vez do acórdão. Sem inteiro teor que abra, o
+        # registro fica sem `url` e entrega a consulta por classe e número.
+        html = """
+        <div class="titulo">Precedentes Representativos</div>
+        <div class="parCOM"><p>Ementa do precedente.<br />
+        [<strong><a href="https://www.stf.jus.br/portal/inteiroTeor/obterInteiroTeor.asp?numero=914045&amp;classe=ARE-RG">ARE&nbsp;914.045&nbsp;RG</a></strong>,
+        rel. min. <strong>Edson Fachin</strong>, P, j. 15-10-2015, <em>DJE</em>&nbsp;232 de 19-11-2015,
+        Tema 856.]<br />
+        Outra ementa.<br />
+        [<strong><a href="https://www.stf.jus.br/portal/jurisprudencia/listarJurisprudencia.asp?s1=27310">Rcl&nbsp;27.310&nbsp;AgR</a></strong>,
+        rel. min. <strong>Rosa Weber</strong>, 1ª T, j. 5-10-2018, <em>DJE</em>&nbsp;220 de 16-10-2018.]</p></div>
+        """
+        with tempfile.TemporaryDirectory() as temp:
+            detalhe = Path(temp) / "70.html"
+            detalhe.write_text(html, encoding="utf-8")
+            precedentes = pipeline.precedentes_detalhe_stf(detalhe)
+
+        self.assertEqual(
+            [item["processo"] for item in precedentes],
+            ["ARE 914.045 RG", "Rcl 27.310 AgR"],
+        )
+        self.assertEqual([item["url"] for item in precedentes], ["", ""])
+        # O precedente não fica sem porta: a consulta oficial continua no registro.
+        for item in precedentes:
+            self.assertIn(
+                "jurisprudencia.stf.jus.br/pages/search?base=acordaos", item["consulta"]
+            )
+        self.assertEqual(precedentes[0]["temaRG"], 856)
+
     def test_precedentes_ignoram_citacao_fora_do_padrao(self) -> None:
         html = """
         <div class="titulo">Precedente Representativo</div>

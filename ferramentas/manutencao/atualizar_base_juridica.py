@@ -1121,7 +1121,7 @@ def precedentes_detalhe_stf(path: Path) -> list[dict[str, Any]]:
                     "orgao": (casamento.group("orgao") or "").strip(),
                     "julgamento": data_br_de_traco(casamento.group("julgamento")),
                     "publicacao": (casamento.group("publicacao") or "").strip(" ."),
-                    "url": url_https(links.get(processo, "")),
+                    "url": url_de_inteiro_teor(links.get(processo, "")),
                     "consulta": consulta_acordao_stf(processo),
                 }
                 if casamento.group("tema"):
@@ -1149,6 +1149,21 @@ def consulta_acordao_stf(processo: str) -> str:
         "&sinonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc"
         f"&isAdvance=true&classeNumeroIncidente={alvo}"
     )
+
+
+# O STF desativou o portal antigo servido em www.stf.jus.br/portal/: as páginas
+# de inteiro teor e de listagem de jurisprudência que ele publicava respondem
+# 404 hoje (conferido em 01/08/2026, BASE-046). A página da súmula continua
+# citando esses endereços nos precedentes, e promovê-los a link de fonte entrega
+# ao leitor uma porta que não abre — o defeito que o BASE-028 corrigiu no STJ.
+# Sem inteiro teor, resta a consulta por classe e número, que abre.
+ROTA_STF_DESATIVADA = re.compile(r"^https?://www\.stf\.jus\.br/portal/", re.IGNORECASE)
+
+
+def url_de_inteiro_teor(url: str) -> str:
+    """Link do inteiro teor do precedente, vazio quando a rota foi desativada."""
+    endereco = url_https(url)
+    return "" if ROTA_STF_DESATIVADA.match(endereco) else endereco
 
 
 def data_br_de_traco(valor: str) -> str:

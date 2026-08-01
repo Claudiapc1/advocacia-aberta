@@ -4640,18 +4640,24 @@
       }
     },
     "sumulas_stf.json": {
-      "versao": 3,
-      "sha256": "ec4e493065e635313b62c81967ea432f954bd6604d8baba3aa6e88004e06376c",
+      "versao": 4,
+      "sha256": "24cb3367d16f5d55e22b69b7d6fe4118c6f1ec2cced57d3cf97725d966eb736d",
       "gerado_em": "2026-07-30T02:37:32+00:00",
       "registros": 736,
       "colecao": "sumulas",
       "mudancas": {
         "adicionados": 0,
         "removidos": 0,
-        "alterados": 0,
+        "alterados": 5,
         "amostra_adicionados": [],
         "amostra_removidos": [],
-        "amostra_alterados": []
+        "amostra_alterados": [
+          "121",
+          "14",
+          "15",
+          "70",
+          "71"
+        ]
       }
     },
     "sumulas_stj.json": {
@@ -4663,28 +4669,19 @@
       "mudancas": null
     },
     "sumulas_vinculantes.json": {
-      "versao": 3,
-      "sha256": "fc6bae832ce033377809e90a10de8a2b5cd88b222b3580a7d5c883528f405435",
+      "versao": 4,
+      "sha256": "85511027386851c1576a760328c45aed3102130942e4bb115e236b2408df9a3b",
       "gerado_em": "2026-07-23",
       "registros": 63,
       "colecao": "sumulas",
       "mudancas": {
         "adicionados": 0,
         "removidos": 0,
-        "alterados": 62,
+        "alterados": 1,
         "amostra_adicionados": [],
         "amostra_removidos": [],
         "amostra_alterados": [
-          "1",
-          "10",
-          "11",
-          "12",
-          "13",
-          "14",
-          "15",
-          "16",
-          "17",
-          "18"
+          "37"
         ]
       }
     },
