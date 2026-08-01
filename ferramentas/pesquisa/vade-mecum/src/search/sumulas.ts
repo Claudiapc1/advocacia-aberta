@@ -8,7 +8,12 @@ import {
   type BuscaAmpliada,
   buscarComEquivalencias,
 } from "./lexico.js";
-import { dataDoSnapshot, normalizeText, STOPWORDS } from "./utils.js";
+import {
+  avisoPortalSTF,
+  dataDoSnapshot,
+  normalizeText,
+  STOPWORDS,
+} from "./utils.js";
 
 const require = createRequire(import.meta.url);
 
@@ -339,7 +344,8 @@ function formatPrecedentes(
       return `- ${identificacao}${tema}${links}`;
     })
     .join("\n");
-  return `\n\n**Precedentes representativos** (declarados pelo STF):\n${linhas}`;
+  const aviso = avisoPortalSTF(precedentes.map((item) => item.url));
+  return `\n\n**Precedentes representativos** (declarados pelo STF):\n${linhas}\n${aviso}`;
 }
 
 // O rótulo da data acompanha o que cada fonte declara: no STF a página do

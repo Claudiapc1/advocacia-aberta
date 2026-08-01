@@ -9,7 +9,7 @@ import {
   type BuscaAmpliada,
   buscarComEquivalencias,
 } from "./lexico.js";
-import { dataDoSnapshot, tokenize } from "./utils.js";
+import { avisoPortalSTF, dataDoSnapshot, tokenize } from "./utils.js";
 
 const require = createRequire(import.meta.url);
 
@@ -125,8 +125,13 @@ export function formatTemaRG(tema: TemaRGData): string {
     .filter((item): item is [string, string] => Boolean(item[1]))
     .map(([rotulo, url]) => `- ${rotulo}: ${url}`)
     .join("\n");
+  const aviso = avisoPortalSTF([
+    tema.links.paginaTema,
+    tema.links.detalhamento,
+    tema.links.manifestacao,
+  ]);
   const fontes = links
-    ? `\n**Proveniência:** ${FONTE_OFICIAL} — STF\n${links}\n`
+    ? `\n**Proveniência:** ${FONTE_OFICIAL} — STF\n${links}\n${aviso}`
     : "\n**Proveniência:** links oficiais não disponíveis neste snapshot.\n";
   const efeito = descreverEfeitoTemaRG(tema.situacao, tema.tese);
 

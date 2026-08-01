@@ -34,3 +34,29 @@ export function dataDoSnapshot(valor: string): string {
   const [ano, mes, dia] = partes;
   return `${dia}/${mes}/${ano}`;
 }
+
+const PORTAL_STF = "portal.stf.jus.br";
+
+/**
+ * Comportamento declarado da fonte, não defeito do acervo (BASE-047).
+ *
+ * O portal do STF devolve a própria tela de erro — o "404 Desculpe, mas não
+ * encontramos o que você está procurando", servido com status 200 — em parte
+ * dos primeiros acessos vindos de outro site. O mesmo endereço abre ao ser
+ * recarregado. Relatado em uso em 01/08/2026 e reproduzido uma vez na
+ * verificação; 100 requisições sequenciais do mesmo IP não reproduziram, então
+ * o gatilho está no lado do STF e não há endereço a corrigir aqui.
+ *
+ * Sem o aviso, quem consulta conclui que a fonte citada não existe — o
+ * contrário do que o acervo se propõe a garantir.
+ */
+export function avisoPortalSTF(
+  urls: readonly (string | undefined)[],
+): string {
+  if (!urls.some((url) => url?.includes(PORTAL_STF))) return "";
+  return (
+    "\n> **Se a página do STF abrir em 404, recarregue uma vez.** O portal" +
+    " responde com a tela de erro em parte dos primeiros acessos vindos de" +
+    " outro site; o mesmo endereço abre na segunda tentativa.\n"
+  );
+}
