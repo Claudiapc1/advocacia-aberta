@@ -87,12 +87,12 @@
       "resumo": "Em leis que alteram outras leis, as cláusulas de alteração (que transcrevem o texto alterado) podem aparecer à frente dos dispositivos de conteúdo próprio. Confira se o artigo devolvido é da lei consultada ou texto que ela insere em outra."
     },
     {
-      "id": "BASE-043",
+      "id": "BASE-044",
       "afetaCobertura": true,
       "familias": [
         "legislacao"
       ],
-      "resumo": "A legislação não tem dimensão temporal: o texto devolvido é o compilado na data do snapshot, e a base não informa qual redação está exibindo, qual lei a deu, nem se o dispositivo foi revogado. Artigo revogado e artigo de redação originária saem com a mesma aparência. Confira vigência e redação na fonte oficial antes de usar."
+      "resumo": "A base guarda uma única redação por dispositivo — a compilada na data do snapshot. A resposta diz que o artigo mudou, por qual diploma e quando, mas não guarda o texto das redações anteriores: para saber qual redação vigia na data do fato, consulte o histórico na fonte oficial."
     }
   ]
 }
