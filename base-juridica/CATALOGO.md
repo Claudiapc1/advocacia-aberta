@@ -234,6 +234,7 @@ tribunais.
 | `sumulas_keywords.json` | 676 súmulas STJ | 2026-07-19 | `tokens-significativos-v1` local, regenerado após a atualização das súmulas |
 | `sumulas_stf_keywords.json` | 736 súmulas STF | 2026-07-19 | `tokens-significativos-v1` local, regenerado após a atualização das súmulas |
 | `indices/lei_*_keywords.json` (277 arquivos) | 17.280 dispositivos fora dos índices curados; a união cobre os 23.064 em relação 1:1 | 2026-07-23 | `tokens-texto-integral-v1` local, regenerado após cada promoção de legislação |
+| `indices/lei_*_vigencia.json` (277 arquivos) | 32.074 anotações de alteração em 7.309 dispositivos: 866 artigos revogados, 395 vetados, 33 com vigência encerrada | 2026-08-01 | `anotacoes-planalto-v1` local, regenerado após cada promoção de legislação |
 
 São dados derivados para recuperação, não fontes jurídicas. Desde o `BASE-010`
 (súmulas) e o `BASE-019` (legislação), o repositório contém gerador, manifesto,
@@ -243,6 +244,15 @@ vêm dos textos publicados. No índice de legislação as stopwords são preserv
 de propósito, para que o ranking reproduza a busca em texto integral do motor.
 A reprodução completa está documentada em
 [`indices-derivados.json`](indices-derivados.json).
+
+O índice de vigência (`BASE-043`) não é de recuperação: ele não entra no ranking
+e existe para que a resposta diga **qual redação** está exibindo. Cada evento é
+rastreável a uma anotação literal do Planalto, preservada no campo `literal`, e
+vem preso ao trecho que atingiu — só 20% das anotações estão no caput, e tratar
+alteração de inciso como alteração do artigo produziria afirmação que a fonte
+não faz. Duas coisas ele deliberadamente **não** diz: nunca escreve "vigente",
+porque ausência de anotação é silêncio da fonte e não certificado; e não guarda o
+texto das redações anteriores (`BASE-044`).
 
 ## Jurisprudência em Teses do STJ
 

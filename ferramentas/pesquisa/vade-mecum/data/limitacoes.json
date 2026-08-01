@@ -85,6 +85,14 @@
         "legislacao"
       ],
       "resumo": "Em leis que alteram outras leis, as cláusulas de alteração (que transcrevem o texto alterado) podem aparecer à frente dos dispositivos de conteúdo próprio. Confira se o artigo devolvido é da lei consultada ou texto que ela insere em outra."
+    },
+    {
+      "id": "BASE-044",
+      "afetaCobertura": true,
+      "familias": [
+        "legislacao"
+      ],
+      "resumo": "A base guarda uma única redação por dispositivo — a compilada na data do snapshot. A resposta diz que o artigo mudou, por qual diploma e quando, mas não guarda o texto das redações anteriores: para saber qual redação vigia na data do fato, consulte o histórico na fonte oficial."
     }
   ]
 }

@@ -1,6 +1,7 @@
 import { createRequire } from "module";
 import { FONTE_OFICIAL, NATUREZAS_DOCUMENTAIS } from "./taxonomia.js";
 import { dataDoSnapshot, normalizeText } from "./utils.js";
+import { formatarVigencia, vigenciaDoArtigo } from "./vigencia.js";
 
 const require = createRequire(import.meta.url);
 
@@ -1386,11 +1387,18 @@ export function formatArtigo(
   const proveniencia = artigo.url
     ? `\n**Proveniência:** ${FONTE_OFICIAL} — texto compilado no Planalto\n**Consulta oficial:** ${artigo.url}\n`
     : `\n**Proveniência:** link oficial indisponível neste snapshot\n`;
+  // O bloco temporal é vazio para a maioria dos artigos, porque a maioria não
+  // tem anotação de alteração na fonte (BASE-043). O `A CONFIRMAR` abaixo não
+  // muda quando ele existe: o índice diz o que o Planalto anotou até a data do
+  // snapshot, não que o dispositivo esteja vigente hoje.
+  const temporal = formatarVigencia(
+    vigenciaDoArtigo(REGISTRO_CODIGOS[codigo].arquivo, artigo.numero),
+  );
   return `## 📋 ${NATUREZAS_DOCUMENTAIS.textoNormativo} | LEGISLAÇÃO | ${codigo}
 
 **${REGISTRO_CODIGOS[codigo].rotulo}**
 **Art. ${artigo.numero}**
-**Efeito jurídico:** A CONFIRMAR — verifique vigência, redação e aplicabilidade ao caso
+${temporal}**Efeito jurídico:** A CONFIRMAR — verifique vigência, redação e aplicabilidade ao caso
 ${proveniencia}
 ${artigo.texto}
 `;
