@@ -228,6 +228,38 @@ describe("precedentes representativos da súmula", () => {
   });
 });
 
+describe("aviso do comportamento do portal do STF", () => {
+  // O portal devolve a própria tela de erro — 404 servido com status 200 — em
+  // parte dos primeiros acessos vindos de outro site, e abre ao recarregar
+  // (BASE-047). Sem o aviso, quem consulta conclui que a fonte citada não
+  // existe. O aviso acompanha o link, não a família: só aparece onde há
+  // endereço de portal.stf.jus.br.
+  const AVISO = "Se a página do STF abrir em 404, recarregue uma vez";
+
+  test("acompanha os links do tema de repercussão geral", () => {
+    const formatado = formatTemaRG(buscarTemasRG("tema 69", 1)[0]);
+    expect(formatado).toContain("portal.stf.jus.br");
+    expect(formatado).toContain(AVISO);
+  });
+
+  test("acompanha o precedente cujo inteiro teor está no portal", () => {
+    const formatado = formatSumula(buscarSumulas("7", "vinculante", 1)[0]);
+    expect(formatado).toContain("portal.stf.jus.br");
+    expect(formatado).toContain(AVISO);
+  });
+
+  test("não aparece onde nenhum link é do portal", () => {
+    // A Súmula 70 do STF perdeu os links mortos do portal antigo no BASE-046;
+    // restaram consultas em jurisprudencia.stf.jus.br, que não têm o defeito.
+    const stf70 = formatSumula(buscarSumulas("70", "STF", 1)[0]);
+    expect(stf70).not.toContain("portal.stf.jus.br");
+    expect(stf70).not.toContain(AVISO);
+
+    expect(formatSumula(buscarSumulas("7", "STJ", 1)[0])).not.toContain(AVISO);
+    expect(formatTese(buscarTeses("edição 1", 1)[0])).not.toContain(AVISO);
+  });
+});
+
 describe("datas declaram qual evento processual representam", () => {
   test("distingue o julgamento da repercussão geral da fixação da tese", () => {
     // Os três temas de nepotismo trazem datas distantes entre os dois eventos:
