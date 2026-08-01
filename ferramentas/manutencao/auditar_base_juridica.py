@@ -386,6 +386,27 @@ def auditar() -> dict[str, Any]:
             f"Descrição MCP informa {edicoes_descritas} edições; a base contém {len(edicoes)}.",
         )
 
+    # Rotas que a fonte oficial desativou e que, se voltarem a ser publicadas,
+    # entregam ao leitor um link que abre em 404 (BASE-046). O auditor não visita
+    # a rede: ele só barra endereços já conferidos como mortos.
+    rotas_desativadas = (
+        (
+            "www.stf.jus.br/portal/",
+            "portal antigo do STF, desativado (404 em 01/08/2026); o mesmo "
+            "caminho em portal.stf.jus.br devolve a tela de erro com status "
+            "200, então a porta é a consulta por classe e número",
+        ),
+    )
+    for path in sorted(DATA.glob("*.json")):
+        bruto = path.read_text(encoding="utf-8")
+        for rota, motivo in rotas_desativadas:
+            if rota in bruto:
+                registrar(
+                    "P0",
+                    "ROTA_DESATIVADA",
+                    f"{path.name}: link para rota desativada ({rota}) — {motivo}.",
+                )
+
     formatadores = (
         (
             "SÚMULAS",
