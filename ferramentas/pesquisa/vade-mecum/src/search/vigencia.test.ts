@@ -30,7 +30,7 @@ describe("descreverUnidades", () => {
 
   test("junta famílias diferentes na mesma frase", () => {
     expect(descreverUnidades(["caput", "inciso I", "inciso II", "alínea a"])).toBe(
-      "no caput e nos incisos I e II e na alínea a",
+      "no caput, nos incisos I e II e na alínea a",
     );
   });
 

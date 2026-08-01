@@ -90,14 +90,16 @@ const FAMILIAS: readonly FamiliaDeUnidade[] = [
   { casa: /^alínea (.+)$/, artigo: "na", singular: "alínea", plural: "alíneas" },
 ];
 
-function listar(itens: readonly string[]): string {
+/** "I, II e III" — vírgula entre os primeiros, "e" antes do último. */
+function enumerar(itens: readonly string[]): string {
   if (itens.length <= 1) return itens[0] ?? "";
+  return `${itens.slice(0, -1).join(", ")} e ${itens.at(-1)}`;
+}
+
+function listar(itens: readonly string[]): string {
   const visiveis = itens.slice(0, MAX_UNIDADES);
   const restantes = itens.length - visiveis.length;
-  const enumerado =
-    visiveis.length === 1
-      ? visiveis[0]!
-      : `${visiveis.slice(0, -1).join(", ")} e ${visiveis.at(-1)}`;
+  const enumerado = enumerar(visiveis);
   return restantes > 0 ? `${enumerado} e outros ${restantes}` : enumerado;
 }
 
@@ -131,7 +133,7 @@ export function descreverUnidades(
         : `${prefixo}${nome} ${listar(valores)}`,
     );
   }
-  return trechos.join(" e ");
+  return enumerar(trechos);
 }
 
 function rotuloDiploma(diploma: DiplomaAlterador): string {
