@@ -34,7 +34,7 @@ python3 ferramentas/manutencao/auditar_base_juridica.py --json
 | Informativo STF | 1 | 11.567 julgados | 1.211 edições do STF |
 | Espelhos de acórdãos | 1 | 11.133 acórdãos | Corte Especial e 3 Seções do STJ |
 | Índices auxiliares | 279 exclusivos (2 de súmulas, 277 de legislação em `indices/`) + índices embutidos | derivados | palavras-chave e termos de busca |
-| Declarações de método | 2 | 6 limitações + 8 equivalências | `limitacoes.json` e `lexico_juridico.json`, curados |
+| Declarações de método | 2 | 11 limitações + 3 equivalências | `limitacoes.json` e `lexico_juridico.json`, curados |
 | Total em JSON | 566 | — | 98.330.672 bytes, cerca de 98 MB |
 
 Os números acima foram contados diretamente nos JSONs. `gerado_em` e `generatedAt`
@@ -253,6 +253,34 @@ alteração de inciso como alteração do artigo produziria afirmação que a fo
 não faz. Duas coisas ele deliberadamente **não** diz: nunca escreve "vigente",
 porque ausência de anotação é silêncio da fonte e não certificado; e não guarda o
 texto das redações anteriores (`BASE-044`).
+
+### Léxico de equivalências
+
+[`lexico_juridico.json`](../ferramentas/pesquisa/vade-mecum/data/lexico_juridico.json)
+existe para um problema só: a busca é léxica e perde o registro que **descreve o
+instituto sem nomeá-lo**. A Súmula Vinculante 13 define o nepotismo sem escrever
+a palavra; o Tema 967 do STF julga a atividade da Uber sem citar a empresa uma
+única vez em todo o acervo.
+
+| Conceito | Termos | Casos que sustenta |
+|---|---|---|
+| `nepotismo` | cônjuge, companheiro, parente, terceiro grau, cargo em comissão, designações recíprocas | `sv-nepotismo`, `rg-nepotismo`, `sv-nepotismo-termo-unico` |
+| `uber` | transporte, aplicativo, motorista | `rg-uber-transporte-por-aplicativo` |
+| `whatsapp` | aplicativo, mensagens | `jt-whatsapp-aplicativo-de-mensagens` |
+
+Três garantias, nesta ordem. A expansão é **posterior** — a busca direta roda
+primeiro e nada muda de posição por causa dela. É **declarada** — a resposta diz
+quais termos foram acrescentados e marca o que veio por equivalência. E é
+**provada**: cada entrada aponta os casos de
+[`avaliacao/consultas.json`](../ferramentas/pesquisa/vade-mecum/avaliacao/consultas.json)
+que sustenta, e a prova é mecânica — remova a entrada e a avaliação de
+recuperação cai. Um teste recusa entrada sem caso.
+
+Duas relações são recusadas por não serem equivalência: **espécie para gênero**
+(CDI para juros perde a especificidade que a consulta trazia) e **instituto para
+instituto** (citação e intimação são atos processuais distintos, como prescrição
+e decadência). O `BASE-045` registra a revisão que aplicou esses critérios e
+levou o léxico de oito entradas a três.
 
 ## Jurisprudência em Teses do STJ
 

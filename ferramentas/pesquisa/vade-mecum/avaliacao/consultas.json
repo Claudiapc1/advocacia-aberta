@@ -1744,6 +1744,35 @@
         "LC220:4"
       ],
       "justificativa": "O art. 4º fixa como objetivo do SNE o regime de colaboração; os arts. 1º e 2º definem o sistema e os arts. 13 e 14 tratam das instâncias de pactuação."
+    },
+    {
+      "id": "rg-uber-transporte-por-aplicativo",
+      "grupo": "temas_rg_stf",
+      "consulta": "uber",
+      "filtro": {},
+      "relevantes": [
+        "RG:967"
+      ],
+      "obrigatorios": [
+        "RG:967"
+      ],
+      "justificativa": "A palavra 'Uber' não aparece nenhuma vez no acervo de jurisprudência. O Tema 967 julga exatamente a atividade — proibição ou restrição do transporte privado individual por motorista cadastrado em aplicativo — e só é recuperado pela equivalência declarada do léxico. O caso existe para que essa recuperação não regrida."
+    },
+    {
+      "id": "jt-whatsapp-aplicativo-de-mensagens",
+      "grupo": "jurisprudencia_teses",
+      "consulta": "whatsapp",
+      "filtro": {},
+      "relevantes": [
+        "JT_069_T19",
+        "JT_111_T07",
+        "JT_279_T03",
+        "JT_279_T04"
+      ],
+      "obrigatorios": [
+        "JT_279_T03"
+      ],
+      "justificativa": "O acervo escreve as duas formas: JT_069_T19 e JT_111_T07 nomeiam o WhatsApp e saem na busca direta; JT_279_T03 e JT_279_T04 dizem apenas 'conversas em aplicativos de mensagens' e só aparecem pela equivalência declarada. O obrigatório é a tese que a busca direta não alcança."
     }
   ]
 }
